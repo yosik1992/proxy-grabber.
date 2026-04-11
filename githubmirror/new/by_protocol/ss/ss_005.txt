@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.39:8090#%F0%9F%87%AC%F0%9F%87%A7_%E8%8B%B1%E5%9B%BD_VV%E7%A7%91%E6%8A%80_34
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.39:8091#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-4073
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.7:8090#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.7-4111
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.7:8091#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.7-3659
@@ -497,4 +498,3 @@ ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&amp;security
 ss://nasnet@162.19.10.94:443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=nasnet-162191094-direct.sharghdaily.co#%F0%9F%87%AB%F0%9F%87%B7%20%40FreakConfig
 ss://user@s1.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s1.mynameismahsa.info#FI-S1-Sweden
 ss://user@s10.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s10.mynameismahsa.info#FI-S10-UK
-ss://user@s13.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s13.mynameismahsa.info#FI-S13-Ireland
