@@ -51,6 +51,7 @@ GOOD_TAGS = [
 URLS_BASE = [
     # --- Набор A (подписочные источники) ---
     # free-nodes
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
     "https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v2",
     # Epodonios и прочие
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
