@@ -1,15 +1,16 @@
 name: AutoUpdate
 on:
   schedule:
-    - cron: '0 */4 * * *'
-  workflow_dispatch:
+    - cron: '0 */4 * * *' # Обновление каждые 4 часа
+  workflow_dispatch:      # Кнопка для ручного запуска
 jobs:
   run-script:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -19,14 +20,21 @@ jobs:
       - name: Install Dependencies
         run: pip install requests
 
-      - name: Run Mirror
+      - name: Run Mirror Script
         run: python mirror.py
 
-      - name: Save Results
+      - name: Create Combined List
+        run: |
+          # Собираем все файлы из папки clean в один общий файл
+          # Команда 'cat' просто склеивает содержимое всех .txt файлов в один
+          cat githubmirror/clean/*.txt > all_configs.txt
+          echo "Общий файл создан"
+
+      - name: Save Results to GitHub
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Updated configs" || exit 0
+          git commit -m "Updated configs and combined list" || exit 0
           git push
           
