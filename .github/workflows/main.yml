@@ -1,0 +1,28 @@
+name: AutoUpdate
+on:
+  schedule:
+    - cron: '0 */4 * * *' # Запуск каждые 4 часа
+  workflow_dispatch:      # Кнопка для ручного запуска
+jobs:
+  run-script:
+    runs-runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Python Setup
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install Dependencies
+        run: pip install requests
+      - name: Run Mirror
+        run: python mirror.py
+      - name: Save Results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Updated configs" || exit 0
+          git push
+          
