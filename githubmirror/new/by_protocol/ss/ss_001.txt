@@ -14,7 +14,6 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.249.232:22224?type=ws&amp;securi
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.47.47:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.148.165:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.145.187:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.97.29:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.213.69:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram+%40ConfigV2RayNG+%F0%9F%87%AC%F0%9F%87%A7
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.58.242:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.136.6:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
@@ -24,12 +23,13 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.152.175:22224?type=ws&amp;securit
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.8.64.39:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram+%40ConfigV2RayNG+%F0%9F%87%AC%F0%9F%87%A7
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.47.55:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.104.104:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.234.219:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.188.122:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.56.66:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.0.19:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.89.66:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.155.67:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#DailyV2ray
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.158.49.215:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram+%40ConfigV2RayNG+%F0%9F%87%BA%F0%9F%87%B8
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.254.133:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.25.161:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&amp;encryption=none&amp;pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yandex.ru&amp;sid=abc123#%40Vpn_Tehran%20%E2%9D%A4%EF%B8%8F%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&amp;encryption=none&amp;pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&amp;host=TELEGRAM&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yandex.ru&amp;sid=abc123#%40Vpn_Tehran%20%F0%9F%A9%B5%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
@@ -43,6 +43,7 @@ ss://0ce33ac4-a75c-4206-9b94-34888f58e515@star.1conf.top:3389?security=none&amp;
 ss://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%E2%9C%85%F0%9F%8D%B7%40vless_vmess%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 ss://108718b8-eacd-478f-d701-6d9c8a91bfa1@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&amp;sni=footlo.argha-v2pedia.monster#%E2%9A%A1%40vpn_go67%F0%9F%87%A9%F0%9F%87%AA
 ss://11e559f8-f5b7-48be-9ab5-7fc0915569e0@38.180.132.206:443?security=reality&amp;encryption=none&amp;pbk=MvZRXOgSBhkQB88kC6CnjiKs7pveuPMWA_TFSOvyRQ0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com&amp;sid=cf12caecc0#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://148cf088-5fa8-48a2-afbb-7003696c5cc1@bot2.jetstoreapp.ru:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=tls&amp;sni=bot2.jetstoreapp.ru&amp;type=tcp#%F0%9F%8C%BB78@oneclickvpnkeys
 ss://14eba471-4623-4ed1-b937-f5b2206749bf@magazine.sentry-warrunner.xyz:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers&amp;sni=miro.com&amp;sid=1c547814#%F0%9F%87%A9%F0%9F%87%AA%20HELiX
 ss://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@kz01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=8453e5fd9af927#%F0%9F%87%B0%F0%9F%87%BF%40FreakConfig
@@ -98,7 +99,6 @@ ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&a
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%87%A9%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 ss://4c3a2f39-dc52-4322-ac66-83010d12bfc0@85.239.33.76:4354?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=apple.com#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
-ss://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@zaeb.beestvpn.ru:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=r3Zi1TT2xyUFYi0o9Q60wQ0z9SEogEPpjhoKQfWISB4&amp;security=reality&amp;sid=40a54b0172dbd0f1&amp;sni=zaeb.beestvpn.ru&amp;type=tcp#%F0%9F%8D%8F17@oneclickvpnkeys
 ss://5139af95-a453-46c6-831a-a532b6b51305@deep-radio.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%E2%9C%85%F0%9F%8D%B7%40vless_vmess%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 ss://52b45d8f-3ab7-44fd-af91-321a27982584@2.56.220.2:443?encryption=none&amp;security=tls&amp;sni=promo.worldofwarships.eu&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox&amp;type=ws&amp;host=mythstore.ir&amp;path=%2Fws%2F%3Fed%3D2048#%F0%9F%87%AB%F0%9F%87%B7%20V2rayngninja
 ss://52ee2491-0678-4911-967c-d56753d2e293@fin.melobigg.site:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=Fin.Melobigg.Site#Finland+1+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA
@@ -164,7 +164,7 @@ ss://Parsashonam-297@91.99.16.244:443?mode=auto&amp;path=%2FParsashonam-Parsasho
 ss://SvnTeamm@mtn.vpnprosec.com:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=FinV2rayK.svnteamfree.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380#🇫🇮@v2reybot_game
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkdFMXN5N3I4YUx6OGVzZGpYQ1hm@81.19.141.45:443#🇩🇪DE%20%20ROSE—676
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4@uk.london1.vpntester.net:15256#4Kian-9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4@uk.london1.vpntester.net:15256#4Nika-9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0VzJTSm1kS1VNSmpqa1ZmUkRkaA@170.130.31.114:8389#@Vip_Security join us - 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-0168
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-0191
@@ -224,7 +224,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YnJXWGZxTmlXV2JXNThLUlZMelA0@185.254.204.24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MjNjZGI5NGE0NTdmYWVl@141.95.109.160:11201#%F0%9F%87%A9%F0%9F%87%AADE-141.95.109.160-0063
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4N2UwZjllYzkzNzA0ZjI1@135.125.247.224:11201#🇩🇪DE%20%20ROSE—126
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#%F0%9F%87%AB%F0%9F%87%B7FR-135.125.245.131-0131
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#🇩🇪DE%20%20ROSE—124
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NjViYzgwOTE5YTQ4NGE1@57.129.89.142:11201#🇩🇪DE%20%20ROSE—129
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Nm1vRGxaeU5ZMjI3UzBuQmlOZDhQ@51.136.162.7:11439#%40V2ray_NG%F0%9F%87%B3%F0%9F%87%B1
@@ -243,7 +242,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGR2b1cwVGRLUnE=@161.97.68.139:443#%F0%9F%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q21jUTZkRjhMRXlaVTBZc01qZ3U4@77.73.68.155:54106#%F0%9F%87%B7%F0%9F%87%BARU-77.73.68.155-0064
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QXh1aXNPZ05xb1dadzc2VWU5blVL@51.104.229.3:20843#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20of%20Great%20Britain%20and%20Northern%20Ireland%2015
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QXh1aXNPZ05xb1dadzc2VWU5blVL@51.104.229.3:20843#%F0%9F%87%AC%F0%9F%87%A7GB-51.104.229.3-3655
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🇳🇱NL%20%20ROSE—542
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%B3%F0%9F%87%B1NL-92.112.126.90-0282
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%f0%9f%87%b3%f0%9f%87%b1%20NL%2014
@@ -258,6 +256,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY0FPVE51T3FaUXVLMWM5LW1DWEpR@45.87.154.143:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowcjkxQWoxTWVGUlN2b3k2@series7.samanehha.co:443?outline=1&prefix=HTTP%2F1.1%20#Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#%F0%9F%87%A9%F0%9F%87%AADE-141.95.109.94-0133
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#%f0%9f%87%a9%f0%9f%87%aa%20DE%205
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#🇩🇪[openproxylist.com] ss-DE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#🇩🇪DE%20%20ROSE—91
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxODE4NGZjNi0yNzU0LTRlNTMtYmMyMC00Yzg0ZGU5MzY3YmQ@158.180.239.73:22802#%F0%9F%87%AE%F0%9F%87%B9%20Italy
@@ -282,7 +281,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE=@185.5.38.111:55988#%F0%9F%87%AC%F0%9F%87%A7GB-185.5.38.111-0263
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE=@185.5.38.111:55988#%F0%9F%87%AC%F0%9F%87%A7GB-185.5.38.111-0276
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE=@185.5.38.111:55988#%f0%9f%87%ac%f0%9f%87%a7%20GB%206
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE@185.5.38.111:55988#4Kian-232
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE@185.5.38.111:55988#4Nika-233
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno=@107.181.147.235:40521#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ3hEc0ttWlJ1ejR3UkNLeVhKZEps@51.105.36.101:13928#%F0%9F%87%AC%F0%9F%87%A7_GB_536
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZDU3blJtNDJ3YXZWNjduZFNIOEdH@52.142.191.160:28454#رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣
@@ -296,7 +295,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#VTWORAY_WOLF 🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@93.186.201.64:57456#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B3%F0%9F%87%B1NL-185.242.86.156-0053
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNmZkMTMzYi0xNDRiLTQ4OWUtOTMxMS05MDhkZDdiNmIxN2E@120.232.165.26:12355#%F0%9F%87%AC%F0%9F%87%A7%20%5B%E8%8B%B1%5D%20United%20Kiongdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930#VTWORAY_WOLF  🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@38.180.44.28:1080#🇪🇪+استونیا+🕊️@Gozargah_Azadi
@@ -356,7 +355,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.237.185.89:990#%F0%9F%87%B1%F0%9F%87%B9LT-185.237.185.89-0675
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%F0%9F%87%B1%F0%9F%87%B9LT-193.135.174.135-0143
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%F0%9F%87%B1%F0%9F%87%B9LT-193.135.174.135-4580
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇸🇪 Join+Telegram:@Farah_VPN 🇸🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-0281
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-0290
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%f0%9f%87%aa%f0%9f%87%b8%20ES%201
@@ -413,7 +412,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMXQ2dGVpSHlPSjZuU3VBS09HYThyVkRBUUtGMHVUM3p
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMXQ2dGVpSHlPSjZuU3VBS09HYThyVkRBUUtGMHVUM3pNT1VYdFZQbFNVPQ==@13.53.137.45:80#%F0%9F%87%B8%F0%9F%87%AA+%40VPN_OCEAN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#🇸🇪@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDekVTZDBKQ0hKckI=@193.0.179.84:51348#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20,%20Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMkU2bEl0aVJYbVlFUkN5dlBkZ0h6@192.121.113.60:8443#4Kian-323
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMkU2bEl0aVJYbVlFUkN5dlBkZ0h6@192.121.113.60:8443#4Nika-325
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#سرورهایبیشتردرکانال تلگرام:@v2ray_ngchanl 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEcXVFSjZTSE92bk9YdGxzaUtEWXZr@3.74.55.245:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20,%20Frankfurt%20am%20Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEcXVFSjZTSE92bk9YdGxzaUtEWXZr@3.74.55.245:443#Germany+AWS
@@ -429,7 +428,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGcU8yWWJfWXhjMzJzNDVpbkFDU2V3@176.120.64.22:443#%F0%9F%87%A9%F0%9F%87%B0%20Denmark%20,%20Copenhagen
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdXU2WEw2eDdOb2luckNuckNJbW1w@57.128.219.105:5223#🇵🇱PL%20%20ROSE—421
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGemY1dmFYRnM3b0NZM1hiMzNhWjk0NXhraHZGdDJycnhkUkJZOUQzZFFlY05RS0VYeXNCWGIyZVZQekRWYjlpcU0zaUJod0pIRWk1ZVdoekFYSlhFUDJ2VXdXQ3BaWEQ=@208.67.105.196:42029#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGemY1dmFYRnM3b0NZM1hiMzNhWjk0NXhraHZGdDJycnhkUkJZOUQzZFFlY05RS0VYeXNCWGIyZVZQekRWYjlpcU0zaUJod0pIRWk1ZVdoekFYSlhFUDJ2VXdXQ3BaWEQ@208.67.105.196:42029#4Kian-327
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGemY1dmFYRnM3b0NZM1hiMzNhWjk0NXhraHZGdDJycnhkUkJZOUQzZFFlY05RS0VYeXNCWGIyZVZQekRWYjlpcU0zaUJod0pIRWk1ZVdoekFYSlhFUDJ2VXdXQ3BaWEQ@208.67.105.196:42029#4Nika-329
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.104.184.78:802#%F0%9F%87%A9%F0%9F%87%AADE-185.104.184.78-4305
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.104.184.78:804#%F0%9F%87%A9%F0%9F%87%AADE-185.104.184.78-3620
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@3.10.20.47:806#%F0%9F%87%AC%F0%9F%87%A7GB-3.10.20.47-3910
@@ -474,7 +473,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVWlodVE1aktOWHFZdnJLa3B1ZEk0SmlTM29PMGhCbk9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIaFVHMExaRDE5TWE=@45.153.231.57:443#RU_%E4%BA%8C%E7%88%B7%E7%BF%BB%E5%A2%99%20https%3A%2F%2F1808.ga%20%E8%8A%82%E7%82%B9_235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIenVhdG1Rc2hSc3k1VzdEUkNZclhO@40.115.121.217:25579#%40ho3ino00%F0%9F%A4%97%E2%9D%A4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIenVhdG1Rc2hSc3k1VzdEUkNZclhO@40.115.121.217:25579#%F0%9F%87%AE%F0%9F%87%AAIE-40.115.121.217-0111
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIenVhdG1Rc2hSc3k1VzdEUkNZclhO@40.115.121.217:25579#4Kian-568
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIenVhdG1Rc2hSc3k1VzdEUkNZclhO@40.115.121.217:25579#4Nika-571
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJOFZmc1F3S3gxYVBTT3dSMWJTQm9F@51.104.214.50:52955#%40V2ray_NG%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVURuclhFeHBiMElWVkhzRXhzS1dM@51.21.126.136:443#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20,%20Stockholm
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVURuclhFeHBiMElWVkhzRXhzS1dM@51.21.126.136:443#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%206
@@ -498,3 +497,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWVcydzlmd2Ryd2oycUM5TnlUQnVCTktRSlV2a0tuQ3A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1F3TlRndw==@185.231.205.80:1443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUMycmRreWRDeVlrc3ZLYjJRdkxL@51.104.194.81:51000#%F0%9F%87%AC%F0%9F%87%A7GB-51.104.194.81-2575
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUMycmRreWRDeVlrc3ZLYjJRdkxL@51.104.194.81:51000#%F0%9F%87%AC%F0%9F%87%A7_GB_538
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#%F0%9F%87%B1%F0%9F%87%BBLV-185.176.221.72-0147
