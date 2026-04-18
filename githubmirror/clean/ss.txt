@@ -4,9 +4,9 @@ ss://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&
 ss://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=jetfr228.global.ssl.fastly.net&amp;type=xhttp#France%200VH
 ss://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 ss://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=m.vk.com#United%20Kingdom%20Digital%20Ocean
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.92.214:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.187.91:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.163.166:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.210.223:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.2.109:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.200.62:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.240.231:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
@@ -27,7 +27,7 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.188.122:22224?type=ws&amp;securi
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.56.66:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.155.67:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#DailyV2ray
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.158.49.215:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram+%40ConfigV2RayNG+%F0%9F%87%BA%F0%9F%87%B8
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.25.161:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.16.188:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&amp;encryption=none&amp;pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yandex.ru&amp;sid=abc123#%40Vpn_Tehran%20%E2%9D%A4%EF%B8%8F%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&amp;encryption=none&amp;pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=m.vk.com&amp;sid=5fe811ec9283ce51#%40Vpn_Tehran%20%F0%9F%A4%8D%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 ss://07d43bbc-8f7f-43e5-aa22-f5b3222d3f63@fin.melov2ray.shop:8443/?type=grpc&amp;encryption=none&amp;serviceName=%40melov2ray&amp;security=tls&amp;sni=FIn.Melov2ray.Shop&amp;fp=random#%F0%9F%87%AB%F0%9F%87%AE%2B%40FreakConfig
@@ -65,7 +65,7 @@ ss://31eb929f-f82e-45f3-905b-747f9030091e@172.67.109.84:2053?mode=gun&amp;securi
 ss://32ba101a-1acb-4640-8206-309114e50de6@dl.magnataur.uk:45312?security=reality&amp;encryption=none&amp;pbk=YhjMYGbGTHGzxdvju5AoM8HGrEVwkG6F5oE1Eq9XVyA&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=discord.com&amp;sid=236cd291#ConfigV2RayNG
 ss://347adb42-8c94-51f2-9d9b-2bc65042c469@wlfspeedtest.wlftest.xyz:443?security=reality&amp;encryption=none&amp;pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&amp;headerType=none&amp;fp=ios&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net&amp;sid=ce#%40WomanLifeFreedomVPN
 ss://382d3e1e-4f13-477e-868a-3bfe33128bca@77.42.67.4:8443?security=reality&amp;encryption=mlkem768x25519plus.native.0rtt.PDuirO86TI_G0f2I0oJEFrbqYddOTMH9LnYN8RZel1Q&amp;pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=f4fa9f410d7134ea#%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE
-ss://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?alpn=h2&amp;encryption=none&amp;security=tls&amp;sni=uk1.fromblancwithlove.com&amp;type=tcp#%F0%9F%9A%B927@oneclickvpnkeys
+ss://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&amp;encryption=none&amp;security=tls&amp;sni=uk1.fromblancwithlove.com&amp;type=tcp#%F0%9F%8D%8E63@oneclickvpnkeys
 ss://3e6797e9-16d3-4390-91d7-3e1be61a944a@All.MsV2ray.online:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&amp;sni=de.MsV2ray.tech#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40MsV2ray+%7C+gRPC+-+All
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hetz.x-smm.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;host=hetz.x-smm.com&amp;fp=chrome&amp;type=ws&amp;sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
@@ -111,8 +111,6 @@ ss://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&am
 ss://8b865810-1876-41ea-b368-3f23506b6050@ezalor.uk:25558?security=reality&amp;encryption=none&amp;pbk=vYYv0j9-mxsjjYwfRgUTbvV_iykLh3i4_3qExi5qEn8&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=discord.com&amp;sid=605be375#ConfigV2RayNG
 ss://8dcae9dc-7ec3-4065-8d24-18eda4d7c7b5@159.69.198.253:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=de7.korda.top&amp;sni=de7.korda.top#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
 ss://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=nl54.vlessx.us&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40V2rayN_Free
-ss://913c6074-a747-492b-a7e9-5abfcad6369d@132.243.173.147:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&amp;security=reality&amp;sid=4fa44664f6a566d3&amp;sni=uk.milas.click&amp;type=tcp#%F0%9F%9A%B93@oneclickvpnkeys
-ss://913c6074-a747-492b-a7e9-5abfcad6369d@171.22.181.107:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&amp;security=reality&amp;sid=4fa44664f6a566d3&amp;sni=uk.milas.click&amp;type=tcp#%F0%9F%9A%B95@oneclickvpnkeys
 ss://913c6074-a747-492b-a7e9-5abfcad6369d@uk.milas.click:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&amp;security=reality&amp;sid=4fa44664f6a566d3&amp;sni=uk.milas.click&amp;type=tcp#%F0%9F%9A%B972@oneclickvpnkeys
 ss://91d807f4-d4ed-4537-f126-ef94efed7119@de.melobigg.site:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=De.Melobigg.Site#Germany+1+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA
 ss://96a16c9b-bd5d-49d2-a0b7-93e9f0b27466@104.21.56.58:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-&amp;sni=com.mic-mokhaderat-irancell-shatel-irancel.shop#%40Awlix_ir%F0%9F%87%A9%F0%9F%87%AA+-2
@@ -131,7 +129,7 @@ ss://Parsashonam-297@91.99.16.244:443?mode=auto&amp;path=%2FParsashonam-Parsasho
 ss://SvnTeamm@mtn.vpnprosec.com:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=FinV2rayK.svnteamfree.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380#🇫🇮@v2reybot_game
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkdFMXN5N3I4YUx6OGVzZGpYQ1hm@81.19.141.45:443#🇩🇪DE%20%20ROSE—676
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4@uk.london1.vpntester.net:15256#4Kian-9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4@uk.london1.vpntester.net:15256#4Nika-9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0VzJTSm1kS1VNSmpqa1ZmUkRkaA@170.130.31.114:8389#@Vip_Security join us - 38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-0160
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
@@ -269,7 +267,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMXQ2dGVpSHlPSjZuU3VBS09HYThyVkRBUUtGMHVUM3p
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMXQ2dGVpSHlPSjZuU3VBS09HYThyVkRBUUtGMHVUM3pNT1VYdFZQbFNVPQ==@13.53.137.45:80#%F0%9F%87%B8%F0%9F%87%AA+%40VPN_OCEAN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#🇸🇪@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDekVTZDBKQ0hKckI=@193.0.179.84:51348#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20,%20Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMkU2bEl0aVJYbVlFUkN5dlBkZ0h6@192.121.113.60:8443#4Kian-321
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMkU2bEl0aVJYbVlFUkN5dlBkZ0h6@192.121.113.60:8443#4Nika-321
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#سرورهایبیشتردرکانال تلگرام:@v2ray_ngchanl 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEcXVFSjZTSE92bk9YdGxzaUtEWXZr@3.74.55.245:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20,%20Frankfurt%20am%20Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTmktYU83REFwcEV5NXExT3FwdWNn@109.107.177.244:1165#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20,%20Amsterdam
@@ -372,7 +370,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.41.84.253:443#%F0%9F%87%AC%F0%9F%87%A7_GB_537
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.117.140.169:443#🇬🇧17 @shadowsockskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@40.120.41.82:443#%F0%9F%87%AC%F0%9F%87%A7GB-40.120.41.82-0188
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD6%209.3MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.11.144.103-0193
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.Org:443#%F0%9F%87%AC%F0%9F%87%A7GB-18.135.57.119-0797
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20%7C%E2%9A%A1%40EuServer
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
@@ -425,7 +423,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmEwNDNlNWVkYmU1MjBl@212.56.42.213:43690#%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#%F0%9F%87%AB%F0%9F%87%B7FR-54.37.78.130-0661
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#4Kian-691
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#4Nika-690
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZGMzOThkOC1iY2QzLTQ1MjMtYTJiMC0zZmFkMjQ2NGVjZTg=@au.doushimeng.com:20052#%F0%9F%87%AC%F0%9F%87%A7%C2%B7%E8%8B%B1%E5%9B%BD%C2%B7TG%40kkovokk%C2%B731
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaFhEU3JPM0hua2hPWld4Tk9ydklJ@62.113.114.116:42320#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20,%20Moscow
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkc0hxN0ptUkZoU2t2eHpDdU1GeQ@46.102.153.106:8389#@Vip_Security join us - 116
@@ -543,7 +541,7 @@ ss://YWVzLTEyOC1nY206OHhsZ1BlZW90Yzc5UkRMYWFiNmNkUEtZazljcnJhV1hBY3pyMU5iMVV5bz0
 ss://YWVzLTEyOC1nY206QElyYW5Qcm94eQ==@free-trial.iranproxyapi.cfd:80#%F0%9F%87%A9%F0%9F%87%AA_DE_849
 ss://YWVzLTEyOC1nY206S0FmZnk3b2llVkpZR0tGakh2VUUzZw==@141.95.106.33:1080#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.106.33-8798
 ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E@195.154.202.112:18292#🇫🇷FR%20%20ROSE—185
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@chengbai02.ascwt179.com:13223#🇬🇧[openproxylist.com] ss-GB
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@chengbai02.ascwt179.com:13223#🇬🇧[openproxylist.com] ss-GB
 ss://YWVzLTEyOC1nY206ZTQxYjhiMDAtZDk0MC00MDA2LTgwZmYtYmM3ODY1YjNiNWUw@v3-js-hk.as9929.uk:10061#中转节点-116.4KB/s
 ss://YWVzLTEyOC1nY206bUJsMWZZaFg4OHhrM0szOUllUHJSbm1zUUR2YjFoNGY@51.159.103.137:18290#🇫🇷FR%20%20ROSE—186
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom%20M247
@@ -609,7 +607,7 @@ ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@217.30.10.18:9003#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@217.30.10.63:9003#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.63-5047
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@217.30.10.70:9003#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0689
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@45.89.52.66:9003#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20,%20Izmir
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@213.183.59.190:9003#4Kian-981
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@213.183.59.190:9003#4Nika-980
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.68:9045#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-5219
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.70:9045#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-1099
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA@217.30.10.18:9045#%F0%9F%87%B5%F0%9F%87%B1PL%28AzadNet.t.me%29
@@ -910,6 +908,7 @@ ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ@217.30.10.18:9008#🇵🇱PL%20%20RO
 ss://YWVzLTI1Ni1nY206MjRvc0FmbFN4R1kxM0I2Zw@199.247.27.182:80#🇳🇱NL%20%20ROSE—172
 ss://YWVzLTI1Ni1nY206N0NJUkZsWXBWWg==@51.77.230.27:36968#💻 Channel 🆔 : @AlienVPN402 👽
 ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ==@195.133.5.36:60129#%F0%9F%87%B7%F0%9F%87%BARU-195.133.5.36-0037
+ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ@185.22.155.49:60129#🇷🇺[openproxylist.com] ss-RU
 ss://YWVzLTI1Ni1nY206NDJhMmM1NzktN2NmMS00ODE3LThhOWUtZTM2NTU4MTAzZjUw@84.200.91.158:443#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 ss://YWVzLTI1Ni1nY206NDZkNTEvOFFNeTQ4azU3Q0lmUzFDNXl4MklIc2pvRW5QSlliN3pYRGZBYz0@57.129.121.229:8443#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 ss://YWVzLTI1Ni1nY206NWViZWE2MjMtMzdiYS00NDYzLTgzNTUtMTYzMGQ1ODdiOGFk@192.142.18.127:443#🇳🇱NL%20%20ROSE—120
@@ -917,6 +916,7 @@ ss://YWVzLTI1Ni1nY206NjliYjFjYWItYTc1NC00ZmRjLWEwM2YtYTgwNmU3ZmEzZTA2@51.38.99.9
 ss://YWVzLTI1Ni1nY206ODNhY2Y2OWVkYjRlNTQ1Mw==@194.87.69.100:12091#%F0%9F%87%B7%F0%9F%87%BARU-194.87.69.100-0034
 ss://YWVzLTI1Ni1nY206ODgwMTMzOWUtOGVkMy00Mzg5LTlkMWQtMmYyMTFjY2YwN2Jl@194.165.59.93:442#🇮🇹IT%20%20ROSE—219
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%87%B5%F0%9F%87%B1PL-57.128.214.100-0240
+ss://YWVzLTI1Ni1nY206OWNhMjgwM2MxNmRlNzJjZA@46.17.40.197:10986#🇷🇺[openproxylist.com] ss-RU
 ss://YWVzLTI1Ni1nY206OWNkYzY0NDBkNDJjYjE5Yw==@89.125.103.52:20129#%F0%9F%87%AE%F0%9F%87%AAIE-89.125.103.52-0048
 ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#🇩🇪DE%20%20ROSE—138
 ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ==@195.58.49.100:10990#%F0%9F%87%B7%F0%9F%87%BARU-195.58.49.100-0035
@@ -1190,39 +1190,39 @@ ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ==@149.102.149.207:443#%F0%9F%87%AC%F
 ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ==@149.102.149.207:80#%F0%9F%87%AC%F0%9F%87%A7GB-149.102.149.207-0735
 ss://YWVzLTI1Ni1nY206dnE3WDFTNTJDNg==@65.109.142.16:8443#%F0%9F%87%AB%F0%9F%87%AEFI-65.109.142.16-2879
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#@Vip_Security join us - 349
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.51:6379#4Kian-3142
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.51:6379#4Nika-3141
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.85:6379#%E5%8A%A0%E6%8B%BF%E5%A4%A7_VV%E7%A7%91%E6%8A%80_95
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.89:6379#%E5%8A%A0%E6%8B%BF%E5%A4%A7_VV%E7%A7%91%E6%8A%80_27
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@139.99.68.21:6379#%F0%9F%87%B8%F0%9F%87%ACSG-139.99.68.21-4780
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.34:445#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-5226
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.34:6379#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-4047
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.74:445#4Kian-3146
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.74:445#4Nika-3145
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.7:6379#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.7-4844
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@145.239.1.100:6379#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@145.239.6.202:445#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@145.239.6.202:6379#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#@Vip_Security join us - 350
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.61.14:6379#4Kian-3149
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.61.14:6379#4Nika-3148
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.61.175:6379#%E7%BE%8E%E5%9B%BD_VV%E7%A7%91%E6%8A%80_143
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.61.213:6379#%E7%BE%8E%E5%9B%BD_VV%E7%A7%91%E6%8A%80_174
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.61.60:6379#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-4902
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.63.44:6379#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.44-4467
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.63.59:6379#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.63.79:6379#%E7%BE%8E%E5%9B%BD_VV%E7%A7%91%E6%8A%80_41
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.63.82:6379#4Kian-3155
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@169.197.142.187:6379#4Kian-3156
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.63.82:6379#4Nika-3154
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@169.197.142.187:6379#4Nika-3155
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@169.197.143.232:6379#%F0%9F%87%BA%F0%9F%87%B8US-169.197.143.232-4879
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.188.71:6379#4Kian-3158
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.188.99:6379#4Kian-3159
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.188.71:6379#4Nika-3157
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.188.99:6379#4Nika-3158
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.158:445#@Vip_Security join us - 351
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.61:6379#4Kian-3160
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.61:6379#4Nika-3159
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@195.154.200.150:6379#%E6%B3%95%E5%9B%BD_VV%E7%A7%91%E6%8A%80_137
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.19:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-4522
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.67:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-3981
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-3858
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.20:6379#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_VV%E7%A7%91%E6%8A%80_56
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#4Kian-3164
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.64.138.145:6379#4Kian-3165
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#4Nika-3163
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.64.138.145:6379#4Nika-3164
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.134.85:6379#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_VV%E7%A7%91%E6%8A%80_107
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.134.9:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-0856
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.135.19:6379#%F0%9F%87%BA%F0%9F%87%B8US_45
@@ -1232,13 +1232,13 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.21:6379#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.27:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-4057
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.91.102.30:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.91.102.30-5070
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.91.107.16:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-4454
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#4Kian-3175
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#4Nika-3174
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#%E6%B3%95%E5%9B%BD+%E6%A0%BC%E6%8B%89%E6%B2%83%E5%88%A9%E8%AE%B7OVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.20:6379#%F0%9F%87%AF%F0%9F%87%B5JP-85.208.108.20-5142
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.59:6379#%F0%9F%87%AF%F0%9F%87%B5JP-85.208.108.59-4761
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.60:6379#%F0%9F%87%AF%F0%9F%87%B5JP-85.208.108.60-4981
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.90:6379#4Kian-3180
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@ak1840.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:6379#4Kian-3181
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.90:6379#4Nika-3179
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@ak1840.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:6379#4Nika-3180
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDExOC4xMDcuMjQ0LjExMzo0NDU=#@Vip_Security join us - 352
 ss://a114d067-b900-4f60-87a5-50d4d63972b8@104.18.2.150:443?allowInsecure=1&amp;encryption=none&amp;host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&amp;security=tls&amp;sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&amp;type=ws#%F0%9F%8D%8E45@oneclickvpnkeys
 ss://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2082?path=%2F%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=Pishgam.mehrsazi.ir&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%7C%E2%9A%A1%40EuServer
