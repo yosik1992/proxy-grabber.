@@ -5,7 +5,6 @@ hysteria2://41aec03d-4345-4bff-9bab-69d36d80033c@94.103.3.40:2056/?insecure=1&sn
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&amp;obfs=salamander&amp;obfs-password=FnFgQIckcMRtKq7i&amp;insecure=1&amp;mport=50000-60000&amp;sni=Ab.ac#🇳🇱
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:443?insecure=1&sni=live.ok.ru#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2003
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:443?insecure=1&sni=live.ok.ru#%F0%9F%87%B7%F0%9F%87%BA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E4%BF%84%E7%BD%97%E6%96%AF%2001
-hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:443?insecure=1&sni=live.ok.ru#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2003%20TG%3A%20%40nodpai
 hysteria2://7dd10318-28fd-413f-81f0-cd0a286e4779@flkf2.mangshe.xyz:2056/?insecure=1&sni=flkf2.mangshe.xyz#🇩🇪DE%20%20ROSE—03
 hysteria2://7dd10318-28fd-413f-81f0-cd0a286e4779@flkf3.mangshe.xyz:2056/?insecure=1&sni=flkf3.mangshe.xyz#🇩🇪DE%20%20ROSE—05
 hysteria2://94931862-1484-11f0-9ab7-f23c95b6f51d@98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk:1743/?sni=98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk#🇺🇸US%20%20ROSE—09
@@ -26,9 +25,7 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&amp;insec
 hysteria2://germany_hysteria2_fastlane_wxue2k6d6:3Vbo9kzJszWmSzGIjnoytB2F98O023VD@150.241.79.106:1935?security=tls&amp;insecure=1&amp;sni=de2.h.fastlanehosting.ru#@darktunnelvip1
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇫🇮
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.8MB/s
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?insecure=1&sni=vpn-de-002.fastervpn.world#A%20-%20%F0%9F%87%A9%F0%9F%87%AA%20DE%2008%20TG%3A%20%40nodpai
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-fr-001.fastervpn.world:443?insecure=1&sni=vpn-fr-001.fastervpn.world#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2001
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#A%20-%20%F0%9F%87%AC%F0%9F%87%A7%20GB%2002%20TG%3A%20%40nodpai
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2001
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2006
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.0MB/s
