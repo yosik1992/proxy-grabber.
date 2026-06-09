@@ -10,6 +10,8 @@ hy2://13185bc123940cfa@[2a04:52c0:124:c2e8::1]:446?insecure=1&obfs=salamander&ob
 hy2://16eb6b9509341345@45.91.92.191:16402?insecure=1&obfs=salamander&obfs-password=e38d2c51#🔒 HYSTERIA-UDP 🇨🇭 CH-45.91.92.191:16402 📡 PING-000.00-MS
 hy2://16eb6b9509341345@45.91.92.191:16402?obfs=salamander&obfs-password=e38d2c51&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A8%F0%9F%87%AD%20CH-45.91.92.191:16402%20%F0%9F%93%A1%20PING-000.00-MS
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+hy2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&sni=de2.xiaoliyu.cyou#🇩🇪DE%20%20ROSE—11
+hy2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#🇩🇪DE%20%20ROSE—10
 hy2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?insecure=1&sni=d.eans.top#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://32242006cd6d9890@194.116.215.65:443?insecure=1&obfs=salamander&obfs-password=0eb626ab#🔒 HYSTERIA-UDP 🇳🇱 NL-194.116.215.65:443 📡 PING-000.00-MS
 hy2://32242006cd6d9890@194.116.215.65:443?insecure=1&obfs=salamander&obfs-password=0eb626ab#🔒 HYSTERIA-UDP 🇳🇱 NL-194.116.215.65:443 📡 PING-105.93-MS
@@ -53,12 +55,14 @@ hy2://GlysitGlysit@165.227.238.198:594?obfs=salamander&obfs-password=GlysitGlysi
 hy2://GlysitGlysit@165.227.238.198:594?obfs=salamander&obfs-password=GlysitGlysit&insecure=1&sni=bing.com#🔒 HYSTERIA-UDP 🇬🇧 GB-165.227.238.198:594 📡 PING-000.00-MS
 hy2://GlysitGlysit@[2a03:b0c0:1:d0::f8a:4001]:594?obfs=salamander&obfs-password=GlysitGlysit&insecure=1&sni=bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-[2a03:b0c0:1:d0::f8a:4001]:594%20%F0%9F%93%A1%20PING-000.00-MS
 hy2://GlysitGlysit@[2a03:b0c0:1:d0::f8a:4001]:594?obfs=salamander&obfs-password=GlysitGlysit&insecure=1&sni=bing.com#🔒 HYSTERIA-UDP 🇬🇧 GB-[2a03:b0c0:1:d0::f8a:4001]:594 📡 PING-000.00-MS
+hy2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443/?insecure=1&amp;sni=google.com#Hysteria 🇬🇧 @v2meowcf
 hy2://RhBlRjqD5I97szf87gQR662r6cV5yOK2@195.128.240.251:80?insecure=1&obfs=salamander&obfs-password=8w4jlX268iItraZSsWibq5gW0ZB1N0h2#🇸🇪SE%20|%20hy2%20|%20@azadi_az_inja_migzare%20|%2020
 hy2://RhBlRjqD5I97szf87gQR662r6cV5yOK2@195.128.240.251:80?insecure=1&obfs=salamander&obfs-password=8w4jlX268iItraZSsWibq5gW0ZB1N0h2#🔒 HYSTERIA-UDP 🇸🇪 SE-195.128.240.251:80 📡 PING-000.00-MS
 hy2://Telegram:%40v_2ra_y@128.140.100.144:7255?insecure=1&sni=fast.com&obfs=salamander&obfs-password=Telegram%3A%40v_2ra_y#🔒 HYSTERIA-UDP 🇩🇪 DE-128.140.100.144:7255 📡 PING-000.00-MS
 hy2://Telegram:%40v_2ra_y@128.140.100.144:7255?obfs=salamander&obfs-password=Telegram%3A%40v_2ra_y&insecure=1&sni=fast.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-128.140.100.144:7255%20%F0%9F%93%A1%20PING-000.00-MS
 hy2://Telegram:%40v_2ra_y@[2a01:4f8:1c1e:c388::1]:7255?insecure=1&sni=fast.com&obfs=salamander&obfs-password=Telegram%3A%40v_2ra_y#🔒 HYSTERIA-UDP 🇩🇪 DE-[2a01:4f8:1c1e:c388::1]:7255 📡 PING-000.00-MS
 hy2://Telegram:%40v_2ra_y@[2a01:4f8:1c1e:c388::1]:7255?obfs=salamander&obfs-password=Telegram%3A%40v_2ra_y&insecure=1&sni=fast.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-[2a01:4f8:1c1e:c388::1]:7255%20%F0%9F%93%A1%20PING-000.00-MS
+hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443/?insecure=1&amp;sni=google.com#Hysteria 🇳🇱 @v2meowcf
 hy2://YwuvGJk36B@81.168.83.89:2083?obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Maidenhead%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#🇩🇪
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
@@ -82,9 +86,10 @@ hy2://dfbcac72-5efb-4dca-baee-48fb06be3125@37.114.62.91:45582?insecure=1&sni=mo.
 hy2://dfbcac72-5efb-4dca-baee-48fb06be3125@37.114.62.91:55565?insecure=1&sni=eg01.xjichang.buzz#🔒 HYSTERIA-UDP 🇩🇪 DE-37.114.62.91:55565 📡 PING-000.00-MS
 hy2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20,%20Paris
 hy2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@de1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#ūüďü5@oneclickvpnkeys
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@jp4.oomz.ru:30000/?insecure=1&amp;sni=bing.com#ūüé°74@oneclickvpnkeys
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sb1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#ūüďü10@oneclickvpnkeys
+hy2://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@185.227.108.195:11000/?sni=de-node.farnet.top#🇩🇪DE%20%20ROSE—06
+hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@de1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟5@oneclickvpnkeys
+hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@jp4.oomz.ru:30000/?insecure=1&amp;sni=bing.com#🎡74@oneclickvpnkeys
+hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sb1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟10@oneclickvpnkeys
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&amp;sni=bing.com#SG
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&amp;sni=bing.com#TW
@@ -106,9 +111,12 @@ hy2://f40b1e441addaec3@64.176.191.187:443?insecure=1&sni=google.co&obfs=salamand
 hy2://f40b1e441addaec3@64.176.191.187:443?insecure=1&sni=google.co&obfs=salamander&obfs-password=2db7b42a#🔒 HYSTERIA-UDP 🇬🇧 GB-64.176.191.187:443 📡 PING-136.76-MS
 hy2://f40b1e441addaec3@[2001:19f0:6801:1ba7:5400:4ff:fea9:2455]:443?insecure=1&sni=google.co&obfs=salamander&obfs-password=2db7b42a#🔒 HYSTERIA-UDP 🇫🇷 FR-[2001:19f0:6801:1ba7:5400:4ff:fea9:2455]:443 📡 PING-000.00-MS
 hy2://f40b1e441addaec3@hys.cpionline.co:443?insecure=1&sni=google.co&obfs=salamander&obfs-password=2db7b42a#رایگان | HY2 | @irancpi_vpn | FR🇫🇷 | 0️⃣1️⃣
+hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.26.173:64772/?insecure=1&sni=bing.com#🇫🇷FR%20%20ROSE—09
 hy2://prlD*e!1b3Yipr$D795%3F@140.82.33.237:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=prlD*e%211b3Yipr%24D795%3F#%40EUT_VPN%20%7CHYSTERIA%7C%20%0ALOCATION%3A%20Germany%20%7C%F0%9F%87%A9%F0%9F%87%AA%7C
 hy2://prlD*e!1b3Yipr$D795%3F@140.82.33.237:443?insecure=1&sni=google.com&obfs=salamander&obfs-password=prlD*e%211b3Yipr%24D795%3F#🔒 HYSTERIA-UDP 🇩🇪 DE-140.82.33.237:443 📡 PING-000.00-MS
 hy2://prlD*e!1b3Yipr$D795%3F@140.82.33.237:443?obfs=salamander&obfs-password=prlD*e%211b3Yipr%24D795%3F&insecure=1&sni=google.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-140.82.33.237:443%20%F0%9F%93%A1%20PING-000.00-MS
+hy2://rstnnl2705:56Uhk1CcaR5mCmGpaN0AsOAmRscZSIaM@musicclips.videolinks.ru:8443/?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw#🇳🇱NL%20%20ROSE—08
+hy2://rstnnl2705:QtmSqzxgO95zXwNcgVYSjDl02aRsjrrl@reddeadfan.rd-team.ru:2026/?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#🇫🇮FI%20%20ROSE—07
 hy2://w9QUthomlprocHo@136.244.112.121:443/?insecure=1&sni=www.google.com#%40EUT_VPN%20%7CHYSTERIA%7C%20%0ALOCATION%3A%20France%20%7C%F0%9F%87%A8%F0%9F%87%B5%7C
 hy2://w9QUthomlprocHo@136.244.112.121:443?insecure=1&sni=www.google.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%B7%20FR-136.244.112.121:443%20%F0%9F%93%A1%20PING-000.00-MS
 hy2://w9QUthomlprocHo@136.244.112.121:443?insecure=1&sni=www.google.com#🔒 HYSTERIA-UDP 🇫🇷 FR-136.244.112.121:443 📡 PING-080.10-MS
@@ -130,4 +138,6 @@ hy2://y0qochAspE+u-HLfrip-@45.32.237.246:443?insecure=1&sni=Google.com&obfs=sala
 hy2://y0qochAspE+u-HLfrip-@45.32.237.246:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#🔒 HYSTERIA-UDP 🇳🇱 NL-45.32.237.246:443 📡 PING-136.81-MS
 hy2://y0qochAspE+u-HLfrip-@45.32.237.246:443?obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so&insecure=1&sni=Google.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-45.32.237.246:443%20%F0%9F%93%A1%20PING-000.00-MS
 hy2://zhangyang@130.61.50.75:6443/#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
+hy2://zhangyang@130.61.50.75:6443/?insecure=1&amp;sni=dash.cloudflare.com#🇩🇪DE  ROSE—03
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%87%A9%F0%9F%87%AADE%20%20ROSE%E2%80%9403
+hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#🇩🇪DE%20%20ROSE—05
