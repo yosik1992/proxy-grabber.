@@ -16,11 +16,8 @@ hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?security=tl
 hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?sni=slopllex.app#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://9f5ce1f6-d223-4f80-b848-72b7d662f189@5.39.202.94:443?sni=cz2.helper-internet.com&pinSHA256=random#%F0%9F%87%A8%F0%9F%87%BF61792%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
 hysteria2://9f5ce1f6-d223-4f80-b848-72b7d662f189@88.119.176.134:443?sni=lit7.helper-internet.com&pinSHA256=random#%F0%9F%87%B1%F0%9F%87%B961832%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hysteria2://@Masir_Sefid@18.157.222.169:4040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#🇩🇪@FreakConfig
 hysteria2://@Masir_Sefid@18.157.222.169:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#🇩🇪@FreakConfig
-hysteria2://@Masir_Sefid@18.157.222.169:44044?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#🇩🇪@FreakConfig
 hysteria2://@Masir_Sefid@18.157.222.169:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#🇩🇪@FreakConfig
-hysteria2://@Masir_Sefid@18.157.222.169:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=free.masir-sefid.shop#🇩🇪@FreakConfig
 hysteria2://@Masir_Sefid@18.157.222.169:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=free.masir-sefid.shop#🇩🇪@FreakConfig
 hysteria2://Masir_Sefid@206.189.58.246:2053?insecure=0&sni=Api1.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA60893%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
 hysteria2://Masir_Sefid@206.189.58.246:2087?insecure=0&sni=Api1.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA60894%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
@@ -28,7 +25,6 @@ hysteria2://Masir_Sefid@206.189.58.246:4040?insecure=0&sni=Api1.masir-sefid-1.my
 hysteria2://Masir_Sefid@206.189.58.246:54040?insecure=0&sni=Api1.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA60897%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
 hysteria2://Masir_Sefid@206.189.58.246:54040?security=tls&amp;obfs=salamander&amp;obfs-password=Masir_Sefid&amp;insecure=0&amp;sni=Api1.masir-sefid-1.my#t.me/BetV2ray (6649) DE 🇩🇪
 hysteria2://Masir_Sefid@206.189.58.246:8443?insecure=0&sni=Api1.masir-sefid-1.my&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA60896%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/SO...
-hysteria2://Masir_Sefid@207.154.242.160:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api.masir-sefid-1.my#🇩🇪61481
 hysteria2://Telegram-->@Ln2Ray@[2a14:3f87:f001:9::a]:45000?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram-->@Ln2Ray&amp;insecure=1&amp;sni=gavazn.55994421.xyz#🇳🇱
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#🇳🇱
@@ -49,7 +45,9 @@ hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@fi-hel-hostvds-07.sssrvpn.pro:1
 hysteria2://c7166f8f-236b-4fa4-b99c-172813b24f73@fi-hel-hostvds-07.sssrvpn.pro:13337/?obfs=salamander&obfs-password=killmebaby&sni=h2.mtproxy-hub.org#%F0%9F%87%AB%F0%9F%87%AE61841%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇫🇷
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&amp;insecure=1&amp;sni=apple.com#🇫🇷
+hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
+hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.26.173:64772?allowInsecure=1&insecure=1&security=tls&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B761819%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇫🇮
