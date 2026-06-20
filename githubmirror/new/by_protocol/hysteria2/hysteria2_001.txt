@@ -1,11 +1,8 @@
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?headerType=none&encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 hysteria2://16b19122-476d-4fa8-937c-d9746b98a22f@45.142.112.30:45565/?insecure=1&sni=uk.xjichang.buzz#%E5%BE%B7%E5%9B%BD02
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?security=tls&amp;insecure=0&amp;sni=de1.xiaoliyu.cyou#🌐 Anycast-IP | 🇧🇷 🇩🇪 | [BL]
 hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?headerType=none&encryption=none&sni=u711540us1244.csgfw.top&insecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
 hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?insecure=1&sni=u711540us1244.csgfw.top#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
 hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?sni=u711540us1244.csgfw.top#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
-hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?sni=u711540us1244.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
-hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&amp;obfs=salamander&amp;obfs-password=FnFgQIckcMRtKq7i&amp;insecure=1&amp;mport=50000-60000&amp;sni=Ab.ac#🇳🇱
 hysteria2://T$me$V2RayyNGvpn@70.34.205.15:443?security=tls&amp;obfs=salamander&amp;obfs-password=T.me$V2RayyNGvpn&amp;insecure=1&amp;sni=www.wordreference.com#🇸🇪@V2RayyNGvpn🇸🇪
 hysteria2://T$me$V2RayyNGvpn@70.34.205.15:443?security=tls&obfs=salamander&obfs-password=T.me$V2RayyNGvpn&insecure=1&sni=www.wordreference.com#🇸🇪@V2RayyNGvpn🇸🇪
 hysteria2://T$me$V2RayyNGvpn@70.34.205.15:443?security=tls&obfs=salamander&obfs-password=T.me$V2RayyNGvpn&insecure=1&sni=www.wordreference.com#🇸🇪@V2RayyNGvpn🇸🇪 ⛔برنامه V2RayNG
@@ -18,26 +15,24 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#🇳🇱
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
-hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&amp;obfs=salamander&amp;obfs-password=khameniiko@smad@ret&amp;insecure=1&amp;sni=kotlet.arshiacomplus.dpdns.org#🇬🇧
 hysteria2://b880e510-8196-44bb-b715-781a9461b4a0@aestheticperforator.ru:8443?security=tls&insecure=0&sni=aestheticperforator.ru#
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&amp;insecure=1&amp;sni=hl01.mistea.top#🇬🇧
-hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇫🇷
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&amp;insecure=1&amp;sni=apple.com#🇫🇷
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
-hysteria2://github.com/Alvin9999-newpac/fanqiang@hy2.313186.xyz:18066?insecure=0&sni=hy2.313186.xyz#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.3MB/s
 hysteria2://github.com/Alvin9999-newpac/fanqiang@hy2.313186.xyz:18066?insecure=0&sni=hy2.313186.xyz#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.9MB/s
 hysteria2://lak374gtxzrxz241@social.klipp.su:443/?obfs=salamander&amp;obfs-password=3sv5vpdl9xr84lyb&amp;sni=social.klipp.su#✈️95@oneclickvpnkeys
 hysteria2://lak374gtxzrxz241@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#
 hysteria2://lak374gtxzrxz241@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#%E2%9C%88%EF%B8%8F95@oneclickvpnkeys
 hysteria2://lak374gtxzrxz241@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#✈️95@NetFlowTools
 hysteria2://lak374gtxzrxz241@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#✈️95@oneclickvpnkeys
+hysteria2://lak374gtxzrxz241@social.klipp.su:443?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#
 hysteria2://lak374gtxzrxz241@social.klipp.su:443?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2004
 hysteria2://lak374gtxzrxz241@social.klipp.su:443?sni=social.klipp.su&insecure=0&obfs=salamander#
 hysteria2://lak374gtxzrxz241@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#
 hysteria2://lak374gtxzrxz241@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%E2%9C%88%EF%B8%8F95%40oneclickvpnkeys
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇫🇮
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?insecure=1&amp;sni=vpn-de-002.fastervpn.world#🇩🇪DE_1|2.6MB/s
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#🇷🇺@FreakConfig
+hysteria2://wundefinedg2dqmQqM@82.47.63.181:443?security=tls&amp;obfs=salamander&amp;obfs-password=T$me$V2RayyNGvpn@V2RayyNGvpn&amp;insecure=1&amp;sni=www.wordreference.com#🇵🇱@V2RayyNGvpn🇵🇱
+hysteria2://wundefinedg2dqmQqM@82.47.63.181:443?security=tls&obfs=salamander&obfs-password=T$me$V2RayyNGvpn@V2RayyNGvpn&insecure=1&sni=www.wordreference.com#🇵🇱@V2RayyNGvpn🇵🇱
 hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com&insecure=1&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%20%20ROSE%E2%80%9404
