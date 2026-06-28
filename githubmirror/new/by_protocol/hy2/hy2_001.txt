@@ -49,6 +49,7 @@ hy2://8c831d06a03b7ade@45.15.157.181:443?insecure=1&sni=www.google.com#🔒 HYST
 hy2://8c831d06a03b7ade@45.15.157.181:443?insecure=1&sni=www.google.com#🔒 HYSTERIA-UDP 🇫🇷 FR-45.15.157.181:443 📡 PING-179.58-MS
 hy2://96fb89bd-1f43-4393-9717-6414e7fa5e08@95.179.219.237:23637?insecure=1&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%B7%20FR-95.179.219.237:23637%20%F0%9F%93%A1%20PING-000.00-MS
 hy2://96fb89bd-1f43-4393-9717-6414e7fa5e08@95.179.219.237:23637?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇫🇷 FR-95.179.219.237:23637 📡 PING-000.00-MS
+hy2://9947b194-85ed-4128-965c-a1007ec88bf0@[2a0b:4142:a86::2]:28443/?insecure=1&sni=c9a0c4942b7edk1v6.587458.xyz#🇩🇪DE_@WangCai_8
 hy2://99999@194.5.97.15:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#%40EUT_VPN%20%7CHYSTERIA%7C%20%0ALOCATION%3A%20Netherlands%20%7C%F0%9F%87%B3%F0%9F%87%B1%7C
 hy2://99999@194.5.97.15:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-194.5.97.15%3A443%20%F0%9F%93%A1%20PING-000.00-MS
 hy2://99999@194.5.97.15:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒 HYSTERIA-UDP 🇳🇱 NL-194.5.97.15:443 📡 PING-000.00-MS
