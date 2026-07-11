@@ -1,10 +1,10 @@
 hysteria2://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@hyst-1.hysteria.ltd:5443?sni=hyst-1.hysteria.ltd&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 hysteria2://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@vkmks.hysteria.ltd:5443?sni=vkmks.hysteria.ltd&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 hysteria2://16b19122-476d-4fa8-937c-d9746b98a22f@45.142.112.30:45565/?insecure=1&sni=uk.xjichang.buzz#%E5%BE%B7%E5%9B%BD02
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?security=tls&amp;insecure=0&amp;sni=de1.xiaoliyu.cyou#🌐 Anycast-IP | 🇧🇷 🇩🇪 | [BL]
-hysteria2://58cb3fdyZN@91.107.152.188:40460?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&amp;sni=www.amd.com#🇩🇪 t-me-V2RayyNGvpn 🇩🇪
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg2.auragg.org:443?insecure=0&sni=argg2.auragg.org&obfs=&obfs-password=#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.8MB/s
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg3.auragg.org:443?insecure=0&sni=argg3.auragg.org&obfs=&obfs-password=#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C2.2MB/s
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=1&sni=de1.xiaoliyu.cyou&obfs=&obfs-password=#%F0%9F%87%A9%F0%9F%87%AADE_4%7C2.5MB/s
+hysteria2://58cb3fdyZN@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%20t-me-V2RayyNGvpn%20%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg2.auragg.org:443?insecure=0&sni=argg2.auragg.org&obfs=&obfs-password=#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.7MB/s
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg3.auragg.org:443?sni=argg3.auragg.org#🇳🇱 Нидерланды # 2
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?insecure=0&sni=qg.easyiran.org&obfs=salamander&obfs-password=ngljeqgna3hmfr2s#%F0%9F%87%A9%F0%9F%87%AA%40V2rayng_Fast
 hysteria2://CRzpXvIiyI@185.250.41.245:443?security=tls&amp;obfs=salamander&amp;obfs-password=T.me/V2RayyNGvpn&amp;insecure=1&amp;sni=www.wordreference.com#🇩🇪@ConfigV2RayNG 🇩🇪
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
