@@ -1,3 +1,27 @@
+trojan://telegram-id-privatevpns@54.93.240.151:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-5920
+trojan://telegram-id-privatevpns@63.177.32.122:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[1499][UnResolvedDomains][0][TROJAN][None][PrivateVPNs][2026-07-09][2026-07-21 02:06]
+trojan://telegram-id-privatevpns@63.177.32.122:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[1500][UnResolvedDomains][0][TROJAN][None][PrivateVPNs][2026-07-09][2026-07-21 02:07]
+trojan://telegram-id-privatevpns@63.182.140.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4FreeIran-5921
+trojan://telegram-id-privatevpns@63.183.59.137:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#
+trojan://telegram-id-privatevpns@63.184.219.224:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[1501][UnResolvedDomains][0][TROJAN][None][PrivateVPNs][2026-07-09][2026-07-21 02:06]
+trojan://telegram-id-privatevpns@63.184.219.224:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[1502][UnResolvedDomains][0][TROJAN][None][PrivateVPNs][2026-07-09][2026-07-21 02:07]
+trojan://telegram-id-privatevpns@63.184.244.52:22222?security=tls&amp;alpn=http/1.1&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@99.81.90.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 402
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
+trojan://vpn@45.82.14.144:2025?security=none&encryption=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2f#%f0%9f%87%b0%f0%9f%87%bf%20KZ%201
+trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=dns.google.com&path=%2f#%f0%9f%87%b0%f0%9f%87%bf%20KZ%202
+trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=%2f#%f0%9f%87%b0%f0%9f%87%bf%20KZ%203
+trojan://your_password@16.62.65.57:443?security=tls&sni=aws-ch-zurich-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1rocketnode.com#%F0%9F%87%A8%F0%9F%87%AD_CH_156
+trojan://your_password@54.93.172.88:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ge-frankfurt-1.f1rocketnode.com#%F0%9F%87%A9%F0%9F%87%AA_DE_151
+trojan://your_password@aws-ch-zurich-1.f1cflinea.com:443?security=tls&sni=aws-ch-zurich-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1cflinea.com#%F0%9F%87%BA%F0%9F%87%B8_US_218
+trojan://your_password@aws-ch-zurich-1.f1cflineb.com:443?security=tls&sni=aws-ch-zurich-1.f1cflineb.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1cflineb.com#%F0%9F%87%BA%F0%9F%87%B8_US_225
+trojan://your_password@aws-ch-zurich-1.f1rocketnode.com:443?security=tls&sni=aws-ch-zurich-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1rocketnode.com#%F0%9F%87%A8%F0%9F%87%AD_CH_241
+trojan://your_password@aws-es-madrid-1.f1rocketnode.com:443?security=tls&sni=aws-es-madrid-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-es-madrid-1.f1rocketnode.com#%F0%9F%87%AA%F0%9F%87%B8_ES_244
+trojan://your_password@aws-fr-paris-1.f1cflinea.com:443?security=tls&sni=aws-fr-paris-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-fr-paris-1.f1cflinea.com#%F0%9F%87%BA%F0%9F%87%B8_US_360
+trojan://your_password@aws-fr-paris-1.f1cflineb.com:443?security=tls&sni=aws-fr-paris-1.f1cflineb.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-fr-paris-1.f1cflineb.com#%F0%9F%87%BA%F0%9F%87%B8_US_361
+trojan://your_password@aws-fr-paris-1.f1rocketnode.com:443?security=tls&sni=aws-fr-paris-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-fr-paris-1.f1rocketnode.com#%F0%9F%87%AB%F0%9F%87%B7_FR_242
+trojan://your_password@aws-ge-frankfurt-1.f1cflinea.com:443?security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#%F0%9F%87%BA%F0%9F%87%B8_US_199
 trojan://your_password@aws-ge-frankfurt-1.f1cflineb.com:443?security=tls&sni=aws-ge-frankfurt-1.f1cflineb.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflineb.com#%F0%9F%87%BA%F0%9F%87%B8_US_177
 trojan://your_password@aws-ge-frankfurt-1.f1rocketnode.com:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ge-frankfurt-1.f1rocketnode.com#%F0%9F%87%A9%F0%9F%87%AA_DE_235
 trojan://your_password@aws-it-milan-1.f1rocketnode.com:443?security=tls&sni=aws-it-milan-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-it-milan-1.f1rocketnode.com#%F0%9F%87%AE%F0%9F%87%B9_IT_221
