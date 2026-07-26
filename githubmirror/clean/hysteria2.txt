@@ -9,7 +9,7 @@ hysteria2://4z2oldt85p494bgb@soskeynets.gateway-stream.com:52060?insecure=0&sni=
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga7.api3-max.ru:443?insecure=0&sni=taga7.api3-max.ru#US_11%7C3.2MB%2Fs
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa1.api3-max.ru:443?headerType=none&amp;encryption=none&amp;sni=wopa1.api3-max.ru&amp;insecure=0#🇬🇧 United Kingdom, Slough | [BL]
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ger.leontunel.ru:443?insecure=0&sni=ger.leontunel.ru#Channel%20%3A%20%40Daily_Configs
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#🇷🇺RU_1|1.2MB/s|9%
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?insecure=0&sni=usa1.spectrumproxy.shop&obfs=&obfs-password=#%F0%9F%87%B7%F0%9F%87%BARU_2%7C3.4MB/s
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443?sni=mercedes-grape.yyuyy.com#🇫🇷 France, Paris | [BL]
 hysteria2://FR+3uZ+qu5lMaeIEV2OeBK3sQJmmMiABg57L4KFWK78=@vpn.the2oser.lol:8443/?insecure=1#🇩🇪 Germany, Frankfurt am Main | [BL]
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&amp;sni=5.255.102.165#🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL]
@@ -26,3 +26,4 @@ hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riz
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%F0%9F%87%B7%F0%9F%87%BA122112%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443?sni=grape-turbo-fr.roxa.org#🇬🇧 United Kingdom, London | [BL]
 hysteria2://t-me-v2rayyngvpn@65.109.177.191:443?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;sni=www.oracle.com#🇫🇮@v2rayngvpn_1
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
