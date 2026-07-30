@@ -50,6 +50,7 @@ hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-pas
 hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒 HYSTERIA-UDP 🇳🇱 NL-194.5.97.15:443 📡 PING-137.67-MS
 hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#🔒 HYSTERIA-UDP 🇳🇱 NL-194.5.97.15:443 📡 PING-149.59-MS
 hy2://99999@194.5.97.15:443?obfs=salamander&obfs-password=99999&insecure=1&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-194.5.97.15:443%20%F0%9F%93%A1%20PING-139.81-MS
+hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443/?mport=50000-53000&amp;insecure=1&amp;sni=iosapps.itunes.apple.com#🇬🇧英国
 hy2://Dd8FfJSif0@91.107.152.188:40460/?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#🇩🇪DE  ROSE—17
 hy2://GlysitGlysit@165.227.238.198:594?obfs=salamander&obfs-password=GlysitGlysit&insecure=1&sni=bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AC%F0%9F%87%A7%20GB-165.227.238.198:594%20%F0%9F%93%A1%20PING-000.00-MS
 hy2://GlysitGlysit@165.227.238.198:594?obfs=salamander&obfs-password=GlysitGlysit&insecure=1&sni=bing.com#🔒 HYSTERIA-UDP 🇬🇧 GB-165.227.238.198:594 📡 PING-000.00-MS
