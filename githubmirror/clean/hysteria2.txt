@@ -1,19 +1,19 @@
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@178.215.238.30:443/?sni=germany1.noesissite.ru#
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443?insecure=0&sni=germany1.noesissite.ru#
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?insecure=1&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=w0tx1ju9iix6913p#%F0%9F%87%AB%F0%9F%87%AE%40V2rayng_Fast
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443?insecure=0&sni=germany1.noesissite.ru#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&amp;obfs=salamander&amp;obfs-password=w0tx1ju9iix6913p&amp;insecure=1&amp;sni=assets.gateway-stream.com#🇫🇮@FreakConfig
 hysteria2://16b19122-476d-4fa8-937c-d9746b98a22f@45.142.112.30:45565/?insecure=1&sni=uk.xjichang.buzz#%E5%BE%B7%E5%9B%BD02
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?security=tls&amp;insecure=0&amp;sni=de1.xiaoliyu.cyou#🌐 Anycast-IP | 🇧🇷 🇩🇪 | [BL]
 hysteria2://1Tm8undefinedEG5fl@91.107.178.22:443?insecure=1&sni=www.refersion.com&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak#%F0%9F%87%A9%F0%9F%87%AA%20Telegram%3D%20V2RayyNGvpn%20%F0%9F%87%A9%F0%9F%87%AA3
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52002?security=tls&amp;obfs=salamander&amp;obfs-password=ielzukpwth087afx&amp;insecure=0&amp;sni=assets.gateway-stream.com#
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52013?security=tls&amp;obfs=salamander&amp;obfs-password=cukfjxud1ebjuuzs&amp;insecure=0&amp;sni=assets.gateway-stream.com#
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@soskeynets.api3-max.ru:443?insecure=0&sni=wopa6.api3-max.ru#
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@soskeynets.api3-max.ru:443?insecure=0&sni=wopa6.api3-max.ru#%F0%9F%87%AC%F0%9F%87%A7128556%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443?sni=taga3.api3-max.ru&insecure=0#@OutlineReleasedKey
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443/?sni=taga5.api3-max.ru#%F0%9F%A6%8441@oneclickvpnkeys
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga9.api3-max.ru:443/?sni=taga9.api3-max.ru#%F0%9F%A6%8438@oneclickvpnkeys
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa10.api3-max.ru:443?sni=wopa10.api3-max.ru&amp;insecure=0#🇬🇧 United Kingdom, Leyton | [BL]
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa4.api3-max.ru:443?sni=wopa4.api3-max.ru&insecure=0#@OutlineReleasedKey
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443?sni=wopa5.api3-max.ru&insecure=0#@OutlineReleasedKey
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa6.api3-max.ru:443?insecure=0&sni=wopa6.api3-max.ru#
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa6.api3-max.ru:443?insecure=0&sni=wopa6.api3-max.ru#%F0%9F%87%AC%F0%9F%87%A7128556%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443/?sni=wopa7.api3-max.ru#%F0%9F%A6%8437@oneclickvpnkeys
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa9.api3-max.ru:443/?sni=wopa9.api3-max.ru#%F0%9F%A6%8440@oneclickvpnkeys
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wwopa2.api3-max.ru:443?sni=wwopa2.api3-max.ru&insecure=0#@OutlineReleasedKey
