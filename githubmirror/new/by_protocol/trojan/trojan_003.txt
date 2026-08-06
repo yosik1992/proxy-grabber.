@@ -1,3 +1,4 @@
+trojan://your_password@16.62.65.57:443?security=tls&sni=aws-ch-zurich-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1rocketnode.com#%F0%9F%87%A8%F0%9F%87%AD_CH_156
 trojan://your_password@16.62.65.57:443?security=tls&sni=aws-ch-zurich-1.f1rocketnode.com&type=tcp#4Sarina-be15758299
 trojan://your_password@188.114.99.0:443?security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#4Nika-a72212496e
 trojan://your_password@52.56.183.187:443?security=tls&sni=aws-uk-london-1.f1rocketnode.com&type=tcp#4Sarina-d4268cce01
