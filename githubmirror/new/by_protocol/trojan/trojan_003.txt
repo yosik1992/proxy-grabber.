@@ -1,25 +1,3 @@
-trojan://telegram-id-directvpn@54.76.45.13:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none#4Mohsen-be87e1bb19
-trojan://telegram-id-directvpn@54.76.45.13:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none#[8875][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
-trojan://telegram-id-directvpn@54.78.209.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#AKB 🕊️ 22
-trojan://telegram-id-directvpn@54.78.209.62:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-54.78.209.62-0145
-trojan://telegram-id-directvpn@63.177.173.183:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[8876][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
-trojan://telegram-id-directvpn@63.177.18.31:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#[8877][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
-trojan://telegram-id-directvpn@63.178.100.140:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[8878][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
-trojan://telegram-id-directvpn@63.178.134.70:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[8879][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
-trojan://telegram-id-directvpn@63.178.27.188:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#[8880][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
-trojan://telegram-id-directvpn@63.179.40.205:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[8881][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
-trojan://telegram-id-directvpn@63.179.9.91:22223/?type=tcp&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1#🎡48@oneclickvpnkeys
-trojan://telegram-id-directvpn@63.183.59.137:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#
-trojan://telegram-id-privatevpns@108.128.211.123:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-108.128.211.123-0297
-trojan://telegram-id-privatevpns@13.36.121.210:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.36.121.210-0864
-trojan://telegram-id-privatevpns@13.36.139.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[8882][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
-trojan://telegram-id-privatevpns@13.36.139.6:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[8883][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
-trojan://telegram-id-privatevpns@13.36.247.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[8884][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
-trojan://telegram-id-privatevpns@13.36.247.35:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[8885][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
-trojan://telegram-id-privatevpns@13.36.249.118:22222?security=tls&amp;alpn=http/1.1&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.36.252.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[8886][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
-trojan://telegram-id-privatevpns@13.37.130.107:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#
-trojan://telegram-id-privatevpns@13.37.149.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Jadi-89a92fcd9e
 trojan://telegram-id-privatevpns@13.37.160.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[8887][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
 trojan://telegram-id-privatevpns@13.37.160.116:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[8888][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
 trojan://telegram-id-privatevpns@13.37.161.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[8889][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-07][2026-08-07 02:00]
