@@ -241,6 +241,7 @@ ss://9d66932d-9eec-47de-972a-e98dee7231c1@ukall.lorqina.ir:31118?security=realit
 ss://9f323699-9f2b-4697-add2-46a6fd1217a9@7.bmi.ir.varzesh3.com.de:443?security=reality&amp;alpn=http%2F1.1&amp;encryption=none&amp;pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&amp;host=play.google.com&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=play.google.com&amp;sid=e915#[8161][FI][0][SS][None][mehrosaboran][2026-08-02][2026-08-10 00:48]
 ss://9faad682-fbcd-7b3f-b70c-22fae8774236@204.168.172.119:8443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=http&amp;host=play.google.com&amp;sni=play.google.com&amp;fp=firefox&amp;insecure=1&amp;allowInsecure=1&amp;pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&amp;sid=f49da53c&amp;spx=%2F#[8171][DE][0][SS][None][v2ray_vpn_ir][2026-08-01][2026-08-10 00:48]
 ss://I--_ve-_ve-_ve-_vUkh77-9ax_vv71z77-9NO-_vToj77-977-977-977-9SSHvv71rH--_vXPvv70077-9@hajlab.ucdavis.edu:443#[8232][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-10][2026-08-10 00:49]
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MWdVKzJUTzBUMnVkYTdtZy9YcUpyT2VmQjI1RExUWVVUK0dQcytydE9scz06VEdZLzhiRFY3NGp5dmR3akxZaXRmY09vWDlXY3I3cGYrNG00czhwdUV1Yz0@193.233.133.152:45393#
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU1uWVN1Z3c2RHAvcjRISWhvUmtvUUk2ak0zU3dMOStpN0dOUkx4QldIbz06bEVFaG1hUHlKQ0ZKU2M3SWxGMTIwYyt0b1dVbFFOdGVnbXpTd1MvTC8vcz0@80.91.86.179:1070#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%28218%29
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RmIxK20rUkExcUQraHdYaEZ2dDloOFVQamszMjBaajVQZkZLejJwL3pHOD06cGNxQkNnK1N1d0NjQVp4QWFIaHdQMzl3UnNWTHZpdWFOZUNtUTBYbnBmQT0=@168.222.49.82:53356#[8381][PL][0][SS][None][ext_raw.githubusercontent.com][2026-08-10][2026-08-10 00:49]
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RnlHNkVsam9WZUR5QzZ2VUcxdUxqekQxcmtnWnM0NEd5RDVZNXNoSTY2ND06VDVNWElGazdYUCswaW9GOUJaci9TTjVVTjNJTnRoQ0hBNEFvUUk0UXpRMD0=@91.107.242.241:10145#[8382][DE][0][SS][None][ext_raw.githubusercontent.com][2026-08-10][2026-08-10 00:49]
@@ -429,7 +430,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ==@144.24.224.65:61312#%F0%9F%87%AC%F0%9F%87%A7GB-144.24.224.65-0106
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.81.122:61312#🇬🇧 9@shadowsockskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.225.203:61312#🇬🇧 9@shadowsockskeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@144.24.226.223:61312#🇬🇧[openproxylist.com] ss-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUMycmRreWRDeVlrc3ZLYjJRdkxL@51.104.194.81:51000#%F0%9F%87%AC%F0%9F%87%A7GB-51.104.194.81-2575
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlk1WQ==@141.95.160.152:8388#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.160.152-5408
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20,%20Amsterdam
@@ -1205,7 +1205,6 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:3306#🇫🇷FR Dìa—1
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:3389#🇫🇷FR Dìa—246
 ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg==@pl04.outline.abvpn.ru:47777#[16896][MD][0][SS][None][ext_raw.githubusercontent.com][2026-08-10][2026-08-10 00:49]
 ss://YWVzLTI1Ni1nY206WjdaU1FSM09JOUpWUkE2Tg@23.185.248.11:17001#[16910][US][0][SS][None][ext_raw.githubusercontent.com][2026-08-10][2026-08-10 00:49]
-ss://YWVzLTI1Ni1nY206WkhaRFluTmhUSEZKU1ZWUk4wbExSWEJSWjJocFYxbFJaVWR4WjFwRVRtNDNOa2x6VUd0elZEVmphbE5zY1dOU1UzaFljelExVUU1RVFsUmtNMmhwVXc9PQ@185.154.194.207:37780#🇷🇺 5@shadowsockskeys
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.1.100:8118#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.1.100:8119#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.6.202:8118#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
