@@ -7,10 +7,10 @@ hysteria2://16b19122-476d-4fa8-937c-d9746b98a22f@45.142.112.30:45565/?insecure=1
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?security=tls&amp;insecure=0&amp;sni=de1.xiaoliyu.cyou#🌐 Anycast-IP | 🇧🇷 🇩🇪 | [BL]
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443/?sni=prodfr.h2corp.org#🇩🇪DE Dìa—39
 hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@yg3.mangshe.xyz:2056?insecure=1&sni=yg3.mangshe.xyz#%F0%9F%87%AC%F0%9F%87%A7GB
-hysteria2://22j0d00lev7mq0yv@ipaste.4ippi.ru:1935?insecure=0&sni=ipaste.4ippi.ru&obfs=salamander&obfs-password=816ys5fceofhpwft#%40Daily_Configs
+hysteria2://22j0d00lev7mq0yv@ipaste.4ippi.ru:1935?insecure=0&sni=ipaste.4ippi.ru&obfs=salamander&obfs-password=816ys5fceofhpwft#
 hysteria2://22j0d00lev7mq0yv@nrealistic.nn-foto.ru:1935/?obfs=salamander&amp;obfs-password=lhfl2z9mjngb7csh&amp;sni=nrealistic.nn-foto.ru#🛗100@oneclickvpnkeys
 hysteria2://22j0d00lev7mq0yv@social.klipp.su:443/?obfs=salamander&amp;obfs-password=3sv5vpdl9xr84lyb&amp;sni=social.klipp.su#🛗52@oneclickvpnkeys
-hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#%E6%B3%A2%E5%85%B0%20%231
+hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52020?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kkh2qmrbxmh8h22a#dc-udp-%F0%9F%87%A8%F0%9F%87%BF%20Czech%20Republic-Pragu...
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52021?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#dc-udp-%F0%9F%87%A9%F0%9F%87%AA%20Germany-Berlin-met_v...
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52022?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo#dc-udp-%F0%9F%87%A9%F0%9F%87%AA%20Germany-Dusseldorf-m...
@@ -21,9 +21,8 @@ hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52026?alp
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52027?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=4hnuy2eg2xgo6ue0#dc-udp-%F0%9F%87%AA%F0%9F%87%B8%20Spain-Madrid-met_vg8...
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52030?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=x5y77oxwfcl868u3#dc-udp-%F0%9F%87%AB%F0%9F%87%B7%20France-Bordeaux-met_...
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52031?alpn=h3&fp=chrome&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=p61ckuavkc1s2hfl#dc-udp-%F0%9F%87%AB%F0%9F%87%B7%20France-Marseille-met...
-hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52002?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ielzukpwth087afx#4Kian-0cd3d64a01
-hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52000?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco#%F0%9F%87%AB%F0%9F%87%AE142012%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
-hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52029?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=v8h63irhnay97090#%F0%9F%87%AB%F0%9F%87%AE142010%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
+hysteria2://4ff4adfb8e7a4bae9c959c54fa5af52f@assets.gateway-stream.com:52002?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ielzukpwth087afx#
+hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52029?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=v8h63irhnay97090#ConfigV2RayNG%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://544a7fdaa05a4dbe868288f8a9fb023c@assets.gateway-stream.com:52043?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=1n1g1xc7i50ga0v5#%F0%9F%87%AE%F0%9F%87%B9%20ConfigV2RayNG
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443/?sni=taga2.api3-max.ru#🇷🇺RU Dìa—10
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443/?sni=taga3.api3-max.ru#🇷🇺RU Dìa—50
@@ -38,10 +37,10 @@ hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443/?sni=wopa
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa9.api3-max.ru:443/?sni=wopa9.api3-max.ru#🇷🇺RU Dìa—36
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wwopa2.api3-max.ru:443/?sni=wwopa2.api3-max.ru#🇷🇺RU Dìa—34
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443/?sni=ger.leontunel.ru#🇩🇪DE Dìa—17
-hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443?sni=ang.leontunel.ru#%E8%8B%B1%E5%9B%BD
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443?sni=ang.leontunel.ru#
 hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%F0%9F%87%AB%F0%9F%87%AEFI
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?sni=gorbachev-th.kvnfreetest.uk#
-hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443?sni=gorbachev-th.kvnfreetest.uk#%E8%8D%B7%E5%85%B0%20%232
+hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443?insecure=0&sni=gorbachev-th.kvnfreetest.uk#
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443/?sni=fi-one.quiet-rogue.site#🇫🇮FI Dìa—06
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443/?sni=fi-one.quiet-rogue.site#🇫🇮FI Dìa—42
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443/?sni=mercedes-grape.yyuyy.com#🇩🇪DE Dìa—15
@@ -51,8 +50,9 @@ hysteria2://9b08bee0-2615-46c6-8939-54b575517a26@78.159.240.215:443/?insecure=1&
 hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?insecure=0&sni=a26738d5774ad803.devmrzero.ir&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9#%F0%9F%87%A9%F0%9F%87%AA142130%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@flkf3.mangshe.xyz:2056?insecure=1&amp;sni=flkf3.mangshe.xyz#🇩🇪DE_1|1.8MB/s|GPT⁺|YT-CN|NF|0%
 hysteria2://9dada88d-f8f8-459d-8a4f-4df2c973fe43@216.57.111.222:8443/?sni=h2.ecliptic-it.ru#🇳🇱NL Dìa—31
-hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443/?sni=grape-power-pl.ddnsguru.com#🇫🇮142134
+hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443/?sni=grape-power-pl.ddnsguru.com#%F0%9F%87%AB%F0%9F%87%AE142134%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@92.118.205.238:8443/?insecure=1&sni=grape-power-pl.ddnsguru.com#🇵🇱PL Dìa—47
+hysteria2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-nl-hy2.gigatapbot.top:1443?insecure=1&sni=pg-nl-hy2.gigatapbot.top#%F0%9F%87%B3%F0%9F%87%B1NL_1%7C1.9MB/s
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.197.139:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#🇫🇷FR Dìa—33
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#🇫🇷FR Dìa—61
 hysteria2://KevinZakarian@179.61.132.96:8443/?insecure=1&obfs=salamander&obfs-password=KevinZakarian&sni=179.61.132.96#🇩🇪DE Dìa—63
@@ -64,7 +64,7 @@ hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447/?sn
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱NL Dìa—65
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#🇩🇪DE Dìa—66
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#🇩🇪DE Dìa—67
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ru1.sferavpn.pro:443?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%F0%9F%87%B7%F0%9F%87%BA142075%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ru1.sferavpn.pro:443?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%F0%9F%87%B7%F0%9F%87%BA142124%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🇫🇷FR Dìa—14
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?insecure=1&amp;sni=www.linux.com#🇳🇱NL_1|3.1MB/s|GPT⁺|YT-RU|NF|D+|5%
 hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
@@ -80,6 +80,6 @@ hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443/
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#%F0%9F%87%B1%F0%9F%87%BBhysteria
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443/?sni=grape-turbo-fr.roxa.org#🇮🇹IT Dìa—30
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443/?sni=grape-turbo-fr.roxa.org#🇮🇹IT Dìa—37
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.218:8443/?sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1142052%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://t-me-v2rayyngvpn@65.109.177.191:443?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;sni=www.oracle.com#🇫🇮@v2rayngvpn_1
 hysteria2://voQTxwGh4I@91.107.178.22:443/?insecure=1&sni=www.refersion.com#🇩🇪DE Dìa—45
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
