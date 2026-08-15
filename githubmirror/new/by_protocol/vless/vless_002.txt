@@ -1,7 +1,3 @@
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=germany-2.ariyuz.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=germany-2.ariyuz.org#|🇨🇦
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?security=tls&type=ws&path=%2F&host=germany-2.ariyuz.org&packetEncoding=xudp&alpn=http%2F1.1&sni=germany-2.ariyuz.org&fp=chrome#
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?security=tls&type=ws&path=%2F&host=germany-2.ariyuz.org&packetEncoding=xudp&alpn=http%2F1.1&sni=germany-2.ariyuz.org&fp=chrome#RELAY🚩
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?security=tls&type=ws&path=%2F&host=germany-2.ariyuz.org&sni=germany-2.ariyuz.org&alpn=http%2F1.1#
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?security=tls&type=ws&path=%2F&host=germany-2.ariyuz.org&sni=germany-2.ariyuz.org&alpn=http%2F1.1# By EbraSha
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?security=tls&type=ws&path=%2F&host=germany-2.ariyuz.org&sni=germany-2.ariyuz.org&alpn=http%2F1.1#[659][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-13][2026-08-13 00:57]
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?security=tls&type=ws&path=/&host=germany-2.ariyuz.org&alpn=http/1.1&sni=germany-2.ariyuz.org&fp=chrome# By EbraSha
@@ -122,7 +118,6 @@ vless://040782e7-07a7-4e15-b2a0-ea63aaac17fc@germaan.jetstoreapp.ru:2055?securit
 vless://04173456-0752-4760-a7a1-470acc4ee1b7@185.40.153.217:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29%20%28202%29
 vless://04173456-0752-4760-a7a1-470acc4ee1b7@194.55.239.113:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29%20%28211%29
 vless://0417a448-e5d9-46a5-a60e-32062a61efab@visa.com:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=tel-falcunargo-nl2.falcunar.uk.eu.org&fp=random&type=ws&sni=tel-falcunargo-nl2.falcunar.uk.eu.org# By EbraSha
-vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&sni=shop-eu-de.amd.com&sid=09&spx=%2Fd1391238c7e6e89#[🇩🇪] [vl-re-ra] [260815-132721.613]
 vless://042c1f4d-1599-4816-b925-760cdabd5e9a@104.18.32.47:2096?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&serviceName=snn.ir.kayhan.ir.entekhab.ir.yjc.ir.alalamtv.net.irandaily.ir.presstv.ir&sni=magICAl-oRder668mk9ktrM.WindLEr.Co.Uk&type=grpc# By EbraSha
 vless://042c1f4d-1599-4816-b925-760cdabd5e9a@104.18.32.47:2096?encryption=none&security=tls&sni=magICAl-oRder668mk9ktrM.WindLEr.Co.Uk&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=snn.ir.kayhan.ir.entekhab.ir.yjc.ir.alalamtv.net.irandaily.ir.presstv.ir&mode=gun# By EbraSha
 vless://042c1f4d-1599-4816-b925-760cdabd5e9a@104.18.32.47:2096?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=grpc&amp;serviceName=snn.ir.kayhan.ir.entekhab.ir.yjc.ir.alalamtv.net.irandaily.ir.presstv.ir&amp;allowInsecure=0&amp;sni=magICAl-oRder668mk9ktrM.WindLEr.Co.Uk#[763][US][0][VLESS][None][Outline_Vpn][2026-05-30][2026-08-13 00:57]
@@ -244,6 +239,8 @@ vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80/?type=ws&enc
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws# By EbraSha
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws# By EbraSha
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&security=none&type=ws&host=OV-Italy1.09vpn.com&path=%2Fvless%2F#%F0%9F%87%AE%F0%9F%87%B9%205%20-%20IT%20-%20VLESS%2FWS%20-%2080
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&host=ov-italy1.09vpn.com#
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?path=/vless/&amp;security=&amp;encryption=none&amp;host=ov-italy1.09vpn.com&amp;type=ws#
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?security=none&type=ws&path=%2Fvless%2F&host=ov-italy1.09vpn.com&packetEncoding=xudp&sni=ov-italy1.09vpn.com#
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?security=none&type=ws&path=%2Fvless%2F&host=ov-italy1.09vpn.com&packetEncoding=xudp&sni=ov-italy1.09vpn.com#[818][IT][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-13][2026-08-13 00:57]
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?type=ws&path=%2Fvless%2F&host=OV-Italy1.09vpn.com#
@@ -270,6 +267,7 @@ vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?security=tls&type=ws
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls# By EbraSha
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#4Kian-5798
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#4Kian-c8db80f0e3
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#4Sarina-5049
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#4Sarina-5140
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#4Sarina-5152
@@ -498,3 +496,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.149.230:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.149.230:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#4Sarina-5161
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.149.230:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#4Sarina-5773
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.150.251:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.151.65:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.152.13:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
