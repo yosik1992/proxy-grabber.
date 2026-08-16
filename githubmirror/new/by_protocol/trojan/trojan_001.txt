@@ -308,7 +308,7 @@ trojan://AE62539071@54.170.38.205:443?security=tls&sni=unbiased-garfish.rooster4
 trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.74.159.195-0111
 trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.74.159.195-0716
 trojan://AE62539071@54.74.210.220:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-54.74.210.220-1657
-trojan://AE62539071@dashing-bedbug.rooster465.autos:443?allowInsecure=1#[zhuhaiuk#023] DE - zhuhai.uk 04
+trojan://AE62539071@54.74.210.220:443?sni=funny-hen.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇮🇪 @MrMeshkyChannel 826255
 trojan://AE62539071@dashing-bedbug.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%2012
 trojan://AE62539071@dashing-bedbug.rooster465.autos:443?sni=dashing-bedbug.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇩🇪DE_150|317KB/s
 trojan://AE62539071@dashing-bedbug.rooster465.autos:443?sni=dashing-bedbug.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%208
@@ -339,6 +339,7 @@ trojan://AE62539071@healthy-panda.rooster465.autos:443?sni=healthy-panda.rooster
 trojan://AE62539071@helped-haddock.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2029
 trojan://AE62539071@helped-haddock.rooster465.autos:443?sni=helped-haddock.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2011
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-54.74.159.195-0109
+trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#🇮🇪[openproxylist.com] trojan-IE
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2025
 trojan://AE62539071@kind-stork.rooster465.autos:443?sni=kind-stork.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%202
 trojan://AE62539071@kind-stork.rooster465.autos:443?type=tcp&amp;security=tls&amp;allowInsecure=1#🇮🇪IE_3 | ⬇️ 5.9MB/s
@@ -382,7 +383,6 @@ trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls#%F0%9F%87
 trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls#🇮🇪[openproxylist.com] trojan-IE
 trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%201
 trojan://AE62539071@unbiased-garfish.rooster465.autos:443?sni=unbiased-garfish.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2012
-trojan://AE62539071@uncommon-feline.rooster465.autos:443?allowInsecure=1#[zhuhaiuk#112] KR - zhuhai.uk 20
 trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%205
 trojan://AE62539071@upright-bedbug.rooster465.autos:443?allowInsecure=1#[zhuhaiuk#160] HK - zhuhai.uk 08
 trojan://AE62539071@whole-woodcock.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%203
@@ -469,13 +469,14 @@ trojan://FH72359861@renewed-porpoise.rooster465.autos:443?security=tls&path=%2f#
 trojan://FH72359861@summary-firefly.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-34.245.159.68-0400
 trojan://FH72359861@summary-firefly.rooster465.autos:443?security=tls#🇮🇪[openproxylist.com] trojan-IE
 trojan://FH72359861@summary-firefly.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%207
-trojan://FH72359861@summary-firefly.rooster465.autos:443?type=raw&headerType=none&security=tls#[🇮🇪] [tr-tl-ra] [260816-104231.715]
+trojan://FH72359861@summary-firefly.rooster465.autos:443?type=raw&headerType=none&security=tls#[🇮🇪] [tr-tl-ra] [260816-132545.070]
 trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%204
 trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&sni=summary-lemming.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-35.159.21.7-0131
 trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&sni=summary-lemming.rooster465.autos#🇩🇪[openproxylist.com] trojan-DE
 trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&sni=summary-lemming.rooster465.autos&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%2014
 trojan://FH72359861@summary-lemming.rooster465.autos:443?sni=summary-lemming.rooster465.autos&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%2011
 trojan://FH72359861@touching-turtle.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2021
+trojan://FH72359861@tough-hermit.rooster465.autos:443?allowInsecure=1#[zhuhaiuk#029] FR - zhuhai.uk 02
 trojan://FH72359861@trusting-elf.rooster465.autos:443?allowInsecure=0&sni=trusting-elf.rooster465.autos#4Mohsen-5676b94b70
 trojan://FH72359861@trusting-elf.rooster465.autos:443?allowInsecure=0&sni=trusting-elf.rooster465.autos#EPODONIOS
 trojan://FH72359861@trusting-elf.rooster465.autos:443?allowInsecure=0&sni=trusting-elf.rooster465.autos#[5175][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -497,4 +498,3 @@ trojan://IRnRhGfXmw@discord.com:2087?mode=gun&security=tls&alpn=h2,http/1.1&fp=c
 trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?type=tcp&amp;security=tls&amp;headerType=none&amp;allowInsecure=1#NL🇳🇱-668🔥
 trojan://LSS6HLnp7IeEEJUcox@uk-1.tr202607.com:443?type=tcp&amp;security=tls&amp;headerType=none&amp;allowInsecure=1#GB🇬🇧-97🔥
 trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.2:889?security=tls&sni=cdn.cjhh.lol&type=tcp#4FreeIran-e3cc65daed
-trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.2:889?security=tls&sni=cdn.cjhh.lol&type=tcp#[5306][TW][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]

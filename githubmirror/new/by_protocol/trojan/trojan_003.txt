@@ -1,3 +1,5 @@
+trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#[9626][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
+trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#[9627][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://telegram-id-directvpn@35.158.187.4:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://telegram-id-directvpn@35.159.27.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://telegram-id-directvpn@35.177.242.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#AKB 🕊️ 895
@@ -496,5 +498,3 @@ trojan://your_password@aws-ge-frankfurt-1.f1rocketnode.com:443?security=tls&sni=
 trojan://your_password@aws-it-milan-1.f1rocketnode.com:443?security=tls&sni=aws-it-milan-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-it-milan-1.f1rocketnode.com#%F0%9F%87%AE%F0%9F%87%B9_IT_221
 trojan://your_password@aws-se-stockholm-1.f1cflinea.com:443?security=tls&sni=aws-se-stockholm-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1cflinea.com#%F0%9F%87%BA%F0%9F%87%B8_US_239
 trojan://your_password@aws-se-stockholm-1.f1cflinea.com:443?security=tls&sni=aws-se-stockholm-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1cflinea.com#4Nika-6a9eb9e3ca
-trojan://your_password@aws-se-stockholm-1.f1cflinea.com:443?security=tls&sni=aws-se-stockholm-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1cflinea.com#[10078][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-trojan://your_password@aws-se-stockholm-1.f1cflineb.com:443?security=tls&sni=aws-se-stockholm-1.f1cflineb.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1cflineb.com#%F0%9F%87%BA%F0%9F%87%B8_US_371
