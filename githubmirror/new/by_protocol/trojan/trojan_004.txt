@@ -1,7 +1,3 @@
-trojan://telegram-id-privatevpns@18.133.94.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#VMESS_VLESS_PRO+%7C+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C
-trojan://telegram-id-privatevpns@18.134.188.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 826
-trojan://telegram-id-privatevpns@18.134.211.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 784
-trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#4Jadi-e6fb33d7a7
 trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#[11535][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-19][2026-08-19 00:32]
 trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#[11536][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-19][2026-08-19 00:32]
 trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#[11537][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-19][2026-08-19 00:32]
@@ -267,6 +263,7 @@ trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=c
 trojan://tunnel-astrovpn_official_pl@pl#[11768][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-19][2026-08-19 00:32]
 trojan://vip@www.gov.se:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#[11804][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-19][2026-08-19 00:32]
 trojan://vmRtExJrt6@51.195.255.103:8443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=uk-03.allhubb.info#[11809][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-19][2026-08-19 00:32]
+trojan://wdpfgquvro9ok774@benzema.ehsanazizi-speed-server.com:2118?type=raw&headerType=none&security=none#[🇩🇪] [tr-no-ra] [260821-133232.988]
 trojan://your_password@15.236.64.14:443?security=tls&sni=aws-fr-paris-1.f1rocketnode.com&type=tcp#4FreeIran-a56c6cbab0
 trojan://your_password@15.236.64.14:443?security=tls&sni=aws-fr-paris-1.f1rocketnode.com&type=tcp#[11875][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-19][2026-08-19 00:32]
 trojan://your_password@16.171.12.136:443?security=tls&sni=aws-se-stockholm-1.f1rocketnode.com&type=tcp#4Mohsen-738999f5e3
