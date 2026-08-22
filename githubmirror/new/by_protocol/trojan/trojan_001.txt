@@ -390,9 +390,11 @@ trojan://AE62539071@distinct-quail.rooster465.autos:443?sni=distinct-quail.roost
 trojan://AE62539071@emerging-weevil.rooster465.autos:443?sni=emerging-weevil.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2021
 trojan://AE62539071@enough-basilisk.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%2039
 trojan://AE62539071@enough-basilisk.rooster465.autos:443?security=tls&sni=enough-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.100-4881
+trojan://AE62539071@enough-basilisk.rooster465.autos:443?security=tls&sni=enough-basilisk.rooster465.autos#🇵🇱[openproxylist.com] trojan-PL
 trojan://AE62539071@enough-basilisk.rooster465.autos:443?sni=enough-basilisk.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%2053
 trojan://AE62539071@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%20134
 trojan://AE62539071@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.19-4879
+trojan://AE62539071@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos#🇵🇱[openproxylist.com] trojan-PL
 trojan://AE62539071@game-firefly.rooster465.autos:443?sni=game-firefly.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%2016
 trojan://AE62539071@game-thrush.rooster465.autos:443?allowInsecure=0&sni=game-thrush.rooster465.autos#[3022][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-22][2026-08-22 00:32]
 trojan://AE62539071@game-thrush.rooster465.autos:443?allowInsecure=0&sni=game-thrush.rooster465.autos#[3023][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-22][2026-08-22 00:32]
@@ -427,7 +429,7 @@ trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls#%F0%9F%87%
 trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2026
 trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls&sni=thorough-falcon.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#%f0%9f%87%b3%f0%9f%87%b1%20NL%2013
 trojan://AE62539071@thorough-falcon.rooster465.autos:443?sni=thorough-falcon.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2030
-trojan://AE62539071@thorough-falcon.rooster465.autos:443?type=raw&headerType=none&security=tls#[🇳🇱] [tr-tl-ra] [260822-104041.616]
+trojan://AE62539071@thorough-falcon.rooster465.autos:443?type=raw&headerType=none&security=tls#[🇳🇱] [tr-tl-ra] [260822-132258.972]
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%2021
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?security=tls&sni=tolerant-mosquito.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.89-0243
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?security=tls&sni=tolerant-mosquito.rooster465.autos&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%2058
@@ -496,5 +498,3 @@ trojan://EQ30679154@discrete-basilisk.rooster465.autos:443?sni=discrete-basilisk
 trojan://EQ30679154@distinct-ibex.rooster465.autos:443?sni=distinct-ibex.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%2081
 trojan://EQ30679154@distinct-ibex.rooster465.autos:443?sni=distinct-ibex.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%2062
 trojan://EQ30679154@eager-louse.rooster465.autos:443#🇳🇱NL_355|418KB/s
-trojan://EQ30679154@eager-louse.rooster465.autos:443?sni=eager-louse.rooster465.autos&amp;type=tcp&amp;fp=chrome#🇳🇱NL_301|414KB/s
-trojan://EQ30679154@eager-louse.rooster465.autos:443?sni=eager-louse.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%209
