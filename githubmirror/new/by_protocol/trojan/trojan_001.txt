@@ -77,7 +77,6 @@ trojan://3723507166611775488@195.133.93.81:443/?type=tcp&security=tls&sni=sensib
 trojan://39116b0d-e810-402b-b194-8084bebb6da7@217.79.184.22:443?security=tls&sni=mashreghnews.ir&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AA_DE_593
 trojan://392f8755-75e7-481e-927e-0f3aae34234e@62.210.136.177:1935?security=tls&sni=$www.stream.shoppingitalia.live&allowInsecure=1&type=tcp#%F0%9F%87%AB%F0%9F%87%B7_FR_641
 trojan://39b9e540-4684-11f0-b86f-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#[632][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
-trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?allowInsecure=1#🇬🇧[openproxylist.com] trojan-GB
 trojan://3ed4d5f3-68e9-42fc-978a-22afc2523e5a@5.104.107.143:443?security=tls&sni=de1.xn--mes358a9urctx.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@213.202.216.14:443?security=tls&headerType=none&type=tcp&sni=downloadde.xn--mes358acgm99l.com#رایگان | TROJAN | @VmessProtocol | DE🇩🇪 | 0️⃣3️⃣
 trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@213.202.216.14:443?type=tcp&sni=downloadde.xn--mes358acgm99l.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%C2%B7%E5%BE%B7%E5%9B%BD%C2%B7TG%40kkovokk%C2%B7102
@@ -136,12 +135,10 @@ trojan://58143779-42ae-4ef7-8cbf-b921196a340d@91.195.240.12:443?security=tls&sni
 trojan://58143779-42ae-4ef7-8cbf-b921196a340d@91.195.240.12:443?security=tls&sni=data-ru.efyunpan.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://58143779-42ae-4ef7-8cbf-b921196a340d@91.195.240.12:443?security=tls&sni=data-za.efyunpan.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://5d59a6f0-48a1-11f0-94a7-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#[1001][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
-trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@45.90.216.147:8443?security=reality&sni=cloud.mail.ru&fp=firefox&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&sid=8c3785d47c2017ec&spx=%2f&type=tcp&path=%2f#%f0%9f%87%b7%f0%9f%87%ba%20RU%203
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@fr.techdatacloud.org:8443?type=tcp&security=reality&pbk=rX_EsbUNJAUJH4HUKyqAzxQx-4zoDj3vhmXj6q2tazQ&fp=firefox&sni=cloud.mail.ru&sid=7df51a98b9d98a7a&spx=%2F#[1007][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?security=reality&amp;sni=cloud.mail.ru&amp;fp=firefox&amp;pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&amp;sid=8c3785d47c2017ec&amp;spx=/&amp;type=tcp&amp;path=/#🇷🇺 RU 2
-trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&fp=firefox&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&sid=8c3785d47c2017ec&spx=%2f&type=tcp&path=%2f#%f0%9f%87%b7%f0%9f%87%ba%20RU%202
+trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&fp=firefox&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&sid=8c3785d47c2017ec&spx=%2f&type=tcp&path=%2f#%f0%9f%87%b7%f0%9f%87%ba%20RU%201
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#🇷🇺[openproxylist.com] trojan-RU
-trojan://5e89314202a8405f@kuso30.pacemakere.com:101?allowInsecure=1#🇬🇧[openproxylist.com] trojan-GB
 trojan://5f5cbdd9cc@82.223.108.64:443?security=tls&sni=sp1.connecton.surf#%F0%9F%87%AA%F0%9F%87%B8ES-82.223.108.64-0398
 trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443/?type=ws&path=%2FWxWOWO1YA9bs2HOmaeWimvT3&security=tls&sni=uK803.890689.Xyz#[1021][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
 trojan://6040a753-e35b-4384-8713-96f3c639b621@172.67.200.238:443/?type=ws&path=%2FWxWOWO1YA9bs2HOmaeWimvT3&security=tls&sni=uK803.890689.Xyz#[1022][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
@@ -339,9 +336,9 @@ trojan://Mitivpn@151.101.110.219:443?path=/de&amp;security=tls&amp;alpn=http/1.1
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=3-mitivpn.global.ssl.fastly.net&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=global.fastly.com#🇩🇪 @v2rayngvpn_1
 trojan://Mitivpn@151.101.56.6:443?path=/fastly=mitivpn&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=4-4-3-mitivpn.global.ssl.fastly.net&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#🇩🇪@v2rayngvpn_1
 trojan://ND91608427@15.237.137.197:443/?type=tcp&security=tls&sni=fancy-skink.rooster465.autos&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29%20%2818%29
-trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-202.78.163.148-0885
+trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-202.78.163.148-0915
 trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.148-0207
-trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-202.78.163.248-0891
+trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-202.78.163.248-0921
 trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.248-0213
 trojan://ND91608427@3.64.59.246:443/?type=tcp&security=tls&sni=gentle-raptor.rooster465.autos&fp=chrome#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29%20%2818%29
 trojan://ND91608427@54.217.133.71:443/?type=tcp&security=tls&sni=willing-beagle.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE%28AzadNet.t.me%29%20%283%29
@@ -473,6 +470,7 @@ trojan://edcfbd77-d607-53a9-842c-32592c2504b2@104.19.209.229:2052/?type=httpupgr
 trojan://ee4657c907@uk1.connecton.surf:443?security=tls&sni=uk1.connecton.surf&type=tcp&headerType=none#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%7C%2BTROJAN%2B%7C%2B%40iP_CF%2B%7C%2BGB%F0%9F%87%AC%F0%9F%87%A7%2B%7C%2B0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 trojan://ee4657c907@uk1.connecton.surf:443?security=tls&type=tcp&headerType=none#v2ray_167
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@45.88.148.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-0042
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@45.88.148.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-0948
 trojan://f0883703-3161-4d18-b243-4b2ca0647a05@xibaozi.19890604.day:10846?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%BF%20_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%A8%F0%9F%87%BF_CZ_%E6%8D%B7%E5%85%8B
 trojan://f0883703-3161-4d18-b243-4b2ca0647a05@xibaozi.19890604.day:10846?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%A8%F0%9F%87%BF_CZ_%E6%8D%B7%E5%85%8B
 trojan://f0883703-3161-4d18-b243-4b2ca0647a05@xibaozi.19890604.day:10846?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#AI-%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%A8%F0%9F%87%BF_CZ_%E6%8D%B7%E5%85%8B
@@ -498,3 +496,5 @@ trojan://f5b40770-df43-40fc-b7de-e2f65371e6e6@91.195.240.12:443?security=tls&sni
 trojan://fQkGQafiTd@138.124.90.40:52556?security=reality&sni=aws.amazon.com&fp=chrome&pbk=wrYXdw8PdyMzrf01h0R9l_9SVuIXuK563TmOqOK4rH4&sid=f6338d1bfe27&spx=%2F&type=tcp&headerType=none#[6136][AT][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443/?type=ws&host=uk1.bw8848.org&path=%2Fuk1-uk1-gcjtze&security=tls&sni=uk1.bw8848.org#[6177][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
 trojan://humanity@104.16.174.12:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#🇩🇪⇝ @GpConnectSho کانکت شو! 💠
+trojan://humanity@104.18.152.113:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#@Tasiyanc 🇫🇷
+trojan://humanity@104.18.152.152:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2
