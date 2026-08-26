@@ -136,10 +136,10 @@ trojan://58143779-42ae-4ef7-8cbf-b921196a340d@91.195.240.12:443?security=tls&sni
 trojan://58143779-42ae-4ef7-8cbf-b921196a340d@91.195.240.12:443?security=tls&sni=data-za.efyunpan.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://5d59a6f0-48a1-11f0-94a7-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#[1001][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@45.90.216.147:8443?security=reality&amp;sni=cloud.mail.ru&amp;fp=firefox&amp;pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&amp;sid=8c3785d47c2017ec&amp;spx=/&amp;type=tcp&amp;path=/#🇷🇺 @MrMeshkyChannel 797228
+trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@45.90.216.147:8443?security=reality&sni=cloud.mail.ru&fp=firefox&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&sid=8c3785d47c2017ec&spx=/&type=tcp&path=/#🇷🇺[openproxylist.com] trojan-RU
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@fr.techdatacloud.org:8443?type=tcp&security=reality&pbk=rX_EsbUNJAUJH4HUKyqAzxQx-4zoDj3vhmXj6q2tazQ&fp=firefox&sni=cloud.mail.ru&sid=7df51a98b9d98a7a&spx=%2F#[1007][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?security=reality&amp;sni=cloud.mail.ru&amp;fp=firefox&amp;pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&amp;sid=8c3785d47c2017ec&amp;spx=/&amp;type=tcp&amp;path=/#🇷🇺 RU 2
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&fp=firefox&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&sid=8c3785d47c2017ec&spx=%2f&type=tcp&path=%2f#%f0%9f%87%b7%f0%9f%87%ba%20RU%201
-trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#🇷🇺[openproxylist.com] trojan-RU
 trojan://5f5cbdd9cc@82.223.108.64:443?security=tls&sni=sp1.connecton.surf#%F0%9F%87%AA%F0%9F%87%B8ES-82.223.108.64-0398
 trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443/?type=ws&path=%2FWxWOWO1YA9bs2HOmaeWimvT3&security=tls&sni=uK803.890689.Xyz#[1021][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
 trojan://6040a753-e35b-4384-8713-96f3c639b621@172.67.200.238:443/?type=ws&path=%2FWxWOWO1YA9bs2HOmaeWimvT3&security=tls&sni=uK803.890689.Xyz#[1022][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
@@ -173,9 +173,11 @@ trojan://74811f39-8f69-4334-9e0f-a8a25d7413c1@78.47.217.216:993?security=tls&sni
 trojan://74811f39-8f69-4334-9e0f-a8a25d7413c1@78.47.217.216:993?security=tls&sni=www.casperco.online&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Mundelsheim%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://74811f39-8f69-4334-9e0f-a8a25d7413c1@www.casperco.online:993?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-78.47.217.216-1531
 trojan://77b0664f-037c-4734-87d3-8fdb28b8bfdc@51.255.49.192:443?security=tls&sni=speedtest.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?allowInsecure=0&sni=hk.catxstar.com#🇮🇹[openproxylist.com] trojan-IT
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0-%3E%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?sni=hk.catxstar.com#%F0%9F%87%AE%F0%9F%87%B9IT%E6%84%8F%E5%A4%A7%E5%88%A9
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?sni=hk.catxstar.com#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0-%3E%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?type=raw&headerType=none&security=tls&sni=hk.catxstar.com#[🇮🇹] [tr-tl-ra] [260826-105727.218]
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20065?type=raw&headerType=none&security=tls&sni=hk.catxstar.com#[🇮🇹] [tr-tl-ra] [260826-133704.785]
 trojan://7f6cc460-3518-11ee-bd14-1239d0255272@51.159.59.186:443?security=tls&sni=zula.ir&allowInsecure=1&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://8089420e-7955-4e1e-8b87-ca48fc5b2eae@aa005.zhuan99.men:10005?allowInsecure=0&peer=zhu.99ton.men&sni=zhu.99ton.men#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0A%E2%80%94%E4%B8%93%E7%BA%BF%E4%B8%BB
 trojan://8089420e-7955-4e1e-8b87-ca48fc5b2eae@aa011.zhuan99.men:10011?allowInsecure=0&peer=zhu.99ton.men&sni=zhu.99ton.men#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0A%E4%B8%93%E7%BA%BF%E5%A4%87
@@ -387,11 +389,10 @@ trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443/?type=tcp&security
 trojan://ZjzcW3LXeJ@cf.network383.online:2096?security=tls&sni=fracukayi0pixif.carfin.tech&fp=chrome&type=ws&host=fracukayi0pixif.carfin.tech&path=%2F%40apt_mahdi#%F0%9F%87%A9%F0%9F%87%AA%20%40apt_mahdi-trojan-ws-tls
 trojan://[email protected]:449?security=tls&sni=russiapower.accesscam.org#[4760][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
 trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0-%3E%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?sni=hk.catxstar.com#%F0%9F%87%B5%F0%9F%87%B1PL%E6%B3%A2%E5%85%B0
 trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0-%3E%F0%9F%87%B3%F0%9F%87%B4_NO_%E6%8C%AA%E5%A8%81
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20056?security=tls&type=tcp&sni=hk.catxstar.com#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%20207.2KB%2Fs
 trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0-%3E%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0
 trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20085?allowInsecure=1&sni=hk.catxstar.com#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0-%3E%F0%9F%87%B3%F0%9F%87%B4_NO_%E6%8C%AA%E5%A8%81
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20085?sni=hk.catxstar.com#%F0%9F%87%B3%F0%9F%87%B4NO%E6%8C%AA%E5%A8%81
 trojan://a17dec70-4213-11f0-8ece-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#[4784][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
 trojan://a77ad20a55@ru1.connecton.surf:443?security=tls&sni=ru1.connecton.surf&allowInsecure=1&type=tcp#%F0%9F%87%B7%F0%9F%87%BA_RU_387
 trojan://a7c7bbf0-48a1-11f0-b880-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#[4823][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
@@ -497,4 +498,3 @@ trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd02.jcnode.top:36403?security=t
 trojan://f5a45b77-2e79-4ca2-b271-aaac65bb45cc@gdct001.theyydsnode.top:52758?allowInsecure=1&peer=uk01.ckcloud.info&sni=uk01.ckcloud.info#JCBB_%20%E8%8B%B1%E5%9B%BD02%E3%80%90vip1%E3%80%91
 trojan://f5a45b77-2e79-4ca2-b271-aaac65bb45cc@gdct002.theyydsnode.top:44532?allowInsecure=1&peer=uk01.ckcloud.info&sni=uk01.ckcloud.info#JCBB_%20%E8%8B%B1%E5%9B%BD01%E3%80%90vip1%E3%80%91
 trojan://f5a45b77-2e79-4ca2-b271-aaac65bb45cc@gdct003.theyydsnode.top:24662?allowInsecure=1&peer=uk01.ckcloud.info&sni=uk01.ckcloud.info#JCBB_%20%E8%8B%B1%E5%9B%BD03%E3%80%90vip1%E3%80%91
-trojan://f5b40770-df43-40fc-b7de-e2f65371e6e6@91.195.240.12:443?security=tls&sni=data-jp.efyunpan.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
