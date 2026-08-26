@@ -24,7 +24,7 @@ hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insec
 hysteria2://391f093f-85fc-473d-abe2-ea607b9ff567@217.150.197.54:8443?security=tls&amp;insecure=1&amp;sni=quic.tyr-agentstvo.tech#🇷🇺|RU|@wxgqlfx|137#🇷🇺|RU|@wxgqlfx|137
 hysteria2://391f093f-85fc-473d-abe2-ea607b9ff567@37.18.14.156:8443?security=tls&amp;insecure=1&amp;sni=quic.tyr-agentstvo.tech#🇷🇺|RU|@wxgqlfx|138#🇷🇺|RU|@wxgqlfx|138
 hysteria2://391f093f-85fc-473d-abe2-ea607b9ff567@46.243.235.23:8443?security=tls&amp;insecure=1&amp;sni=quic.tyr-agentstvo.tech#🇷🇺|RU|@wxgqlfx|136#🇷🇺|RU|@wxgqlfx|136
-hysteria2://39b27e20-16f5-45a1-8139-7c9b7f51b6f8@ru.xiaoliyu.cyou:4433?insecure=1#RU_1%7C1.9MB%2Fs
+hysteria2://39b27e20-16f5-45a1-8139-7c9b7f51b6f8@ru.xiaoliyu.cyou:4433?security=tls&amp;insecure=1&amp;sni=ru.xiaoliyu.cyou#🇷🇺|RU|@wxgqlfx|86
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@kz.frkn.org:443?security=tls&amp;insecure=0#🇰🇿|KZ|@wxgqlfx|125
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe2.frkn.org:443?security=tls&amp;insecure=0#🇫🇮|FI|@wxgqlfx|123
 hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=off&amp;insecure=1#🇷🇺RU_5|191KB/s|A004-260618
@@ -87,6 +87,7 @@ hysteria2://KevinZakarian@179.61.132.96:8443/?insecure=1&obfs=salamander&obfs-pa
 hysteria2://Krab9Hyst2_Rk7pQ2xL@151.247.197.253:36723/?insecure=1&sni=www.cloudflare.com#France%20%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=5.255.102.165#🇳🇱NL Dìa—64
 hysteria2://NL2026hy@147.45.149.88:8443?insecure=0&sni=nl.nobelchat.ru&obfs=salamander&obfs-password=SalamanderNL2026#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443/?insecure=1&sni=hopp-netherland-new.dynuddns.net#🇳🇱152351
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.133:8443/?sni=grape-zet-turbo-nl.yyuyy.com#🇳🇱NL Dìa—16
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.73:8443?security=tls&amp;insecure=1&amp;sni=grape-zet-turbo-nl.yyuyy.com#🇳🇱|NL|@wxgqlfx|236
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.76:8443?security=tls&amp;insecure=1&amp;sni=hopp-netherland-new.dynuddns.net#🇳🇱|NL|@wxgqlfx|92
@@ -106,6 +107,10 @@ hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora5.api3-max.ru:443?security=
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#🇩🇪DE Dìa—66
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#🇩🇪DE Dìa—67
 hysteria2://belgium_hysteria2_fastlane_a118d9y0r@113.30.152.25:443?insecure=1&sni=be1.h.fastlanehosting.ru#%E6%AF%94%E5%88%A9%E6%97%B6
+hysteria2://c0a137ca-08d2-4734-95ed-2131ea6b45d9@185.247.185.238:25443?sni=cloudrynth.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+hysteria2://c0a137ca-08d2-4734-95ed-2131ea6b45d9@194.87.56.99:25443?sni=cloudrynth.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+hysteria2://c0a137ca-08d2-4734-95ed-2131ea6b45d9@62.76.233.254:25443?sni=cloudrynth.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+hysteria2://c0a137ca-08d2-4734-95ed-2131ea6b45d9@91.240.86.70:27443?sni=cloudrynth.com#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B%2ACIDR%5D
 hysteria2://c2601f6c59ed832f9129533608eea8eb@8-210-142-69.liao.kdns.fr:50160?security=tls&amp;insecure=1&amp;sni=8-210-142-69.liao.kdns.fr#🇭🇰|HK|@wxgqlfx|48
 hysteria2://c4a4d98d-8d64-4e76-bc50-096b07d82382@139.28.98.26:443?security=tls&amp;insecure=1&amp;sni=nl-hysteria.boxypn.com#🇳🇱|NL|@wxgqlfx|18
 hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=1&amp;sni=de1.sferavpn.pro#🇩🇪|DE|@wxgqlfx|203
@@ -114,18 +119,18 @@ hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.120:8443?insecure=1
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443?security=tls&amp;insecure=1&amp;sni=keyhop-offshore.roxa.org#🇩🇪|DE|@wxgqlfx|182
 hysteria2://ed77b662dbdf1a817d5eb75ae940cac4@198-46-188-116.liao.kdns.fr:50160?security=tls&amp;insecure=1&amp;sni=198-46-188-116.liao.kdns.fr#🇺🇸|US|@wxgqlfx|20
 hysteria2://f056b41dc9f2b516e333738d1345a6be46a8ca80a3870ffe@n.nl.cleanersaz.help:443?security=tls&amp;insecure=1#🇳🇱|NL|@wxgqlfx|205
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1#%F0%9F%87%B7%F0%9F%87%BA152183%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0#%F0%9F%87%B7%F0%9F%87%BA152183%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443?insecure=1&amp;sni=www.linux.com#🇳🇱NL_1|3.1MB/s|GPT⁺|YT-RU|NF|D+|5%
 hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?security=tls&amp;insecure=1&amp;sni=www.microsoft.com#🇫🇷|FR|@wxgqlfx|108
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?security=tls&amp;insecure=1&amp;sni=hopp-legend-se.roxa.org#🇫🇮|FI|@wxgqlfx|155
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?insecure=0&sni=hopp-legend-se.roxa.org#GB-London-8165724-tthb
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443/?sni=hopp-legend-se.roxa.org#🇳🇴NO Dìa—69
 hysteria2://hysteria2_fastlane_04ng96ah3:nqZabliS7TcydBDDKid682NfoWQxVzkM@2.26.26.164:1935/?sni=de9.h.fastlanehosting.ru&amp;insecure=0#🇨🇭Switzerland [Hysteria2]
+hysteria2://hysteria2_fastlane_04ng96ah3@2.26.26.164:443?insecure=0&sni=de9.h.fastlanehosting.ru#%F0%9F%87%A9%F0%9F%87%AA152368%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://hysteria2_fastlane_fyo5j4e7k:AF4HTpKlMZdNBsrVhdwr4GCHNptUaVT0@91.132.160.243:1935/?sni=de6.h.fastlanehosting.ru&amp;insecure=0#󠁧󠁢🇬🇧England [Hysteria2]
 hysteria2://k-qZIMk71_90gFFSfFiP688PqB6yLxie@2.27.42.66:43327?security=tls&amp;insecure=1&amp;sni=gate-v1.not-a-projects.xyz#🇫🇮|FI|@wxgqlfx|169
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443/?insecure=1&sni=germany3.h2corp.local#
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1#🇩🇪DE Dìa—05
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&sni=germany3.h2corp.local#%E5%BE%B7%E5%9B%BD%20%237
-hysteria2://netherlands_2_hysteria2_fastlane_2024vcg4k:m1i77DnTa9eS3uVX4LEmduJ5wfjFRaAv@147.45.50.168:1935/?sni=nl3.h.fastlanehosting.ru&amp;insecure=0#🇳🇱Netherlands 2 [Hysteria2]
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&sni=germany3.h2corp.local#4Jadi-58cf216b7b
 hysteria2://netherlands_2_hysteria2_fastlane_eixz26jia:bD8fTQnt3naGn540nOqrzUUmzHLZIFk8@89.110.82.85:1935/?sni=nl9.h.fastlanehosting.ru&amp;insecure=0#🇳🇱Netherlands 2 [Hysteria2]
 hysteria2://oCYFcbOo8s@hys22.wba-pn.ru:443/?sni=hys22.wba-pn.ru#%F0%9F%8F%9377@oneclickvpnkeys
 hysteria2://p0IbtS8wCZ@91.107.174.32:25810/?insecure=1&sni=www.amd.com#🇩🇪DE Dìa—46
@@ -137,9 +142,10 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443/?sni=gra
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8443/?insecure=1&sni=grape-turbo-fr.roxa.org#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.133:8080?security=tls&amp;insecure=1&amp;sni=grape-turbo-fr.roxa.org#🇳🇱|NL|@wxgqlfx|146
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8080?security=tls&amp;insecure=1&amp;sni=grape-turbo-fr.roxa.org#🇳🇱|NL|@wxgqlfx|177
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443?security=tls&amp;insecure=1&amp;sni=grape-turbo-fr.roxa.org#🇳🇱|NL|@wxgqlfx|230
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443/?insecure=1&sni=grape-turbo-fr.roxa.org#🇳🇱152342
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.143:8080?security=tls&amp;insecure=1&amp;sni=grape-turbo-fr.roxa.org#🇳🇱|NL|@wxgqlfx|132
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.143:8443?security=tls&amp;insecure=1&amp;sni=grape-turbo-fr.roxa.org#🇳🇱|NL|@wxgqlfx|112
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:443?insecure=1&sni=cabinet.wwwinternetvideo.click#EE-Tallinn-h-561871-ttuu
 hysteria2://t-me-v2rayyngvpn@65.109.177.191:443?security=tls&amp;obfs=salamander&amp;obfs-password=t-me-V2RayyNGvpn&amp;insecure=1&amp;sni=www.oracle.com#🇫🇮@v2rayngvpn_1
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52008?alpn=h3&amp;fm={"udp":[{"settings":{"password":"93lc6r07zfx4crct"},"type":"salamander"}]}&amp;fp=chrome&amp;obfs=salamander&amp;obfs-password=93lc6r07zfx4crct&amp;security=tls&amp;sni=assets.gateway-stream.com#dc-udp-🇧🇪 Belgium-Brussels
 hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?insecure=1&sni=germany1.h2corp.local#

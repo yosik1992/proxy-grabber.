@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6697#Helionix%20_%20%20%F0%9F%87%A9%F0%9F%87%AAGermany%202
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.6.202:6679#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.6.202:6697#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-4400
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.99.188.71:6679#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-4425
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.99.188.71:6697#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-5184
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.99.188.99:6679#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.99-4195
@@ -38,7 +42,7 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008?type=tcp&amp;headerT
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008?type=tcp&amp;headerType=none#🇩🇪 @MDvpnSEC
 ss://YWVzLTI1Ni1nY206WHJwQThoTmpRNjdPRGRhdQ==@149.102.152.25:443#%F0%9F%87%AC%F0%9F%87%A7GB-149.102.152.25-1410
 ss://YWVzLTI1Ni1nY206WHJwQThoTmpRNjdPRGRhdQ==@149.102.152.25:80#%F0%9F%87%AC%F0%9F%87%A7GB-149.102.152.25-0507
-ss://YWVzLTI1Ni1nY206WHJwQThoTmpRNjdPRGRhdQ@149.102.152.25:443#🇬🇧[openproxylist.com] ss-GB
+ss://YWVzLTI1Ni1nY206WHJwQThoTmpRNjdPRGRhdQ@149.102.152.25:80#🇬🇧[openproxylist.com] ss-GB
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:3306#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:3389#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5000#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
@@ -140,11 +144,13 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#%F0%9F%87%AB%F0%9F%
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#Helionix%20_%20%F0%9F%87%B5%F0%9F%87%B1Poland%2057
 ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@195.133.5.207:20188#%F0%9F%87%B7%F0%9F%87%BARU-195.133.5.207-1626
 ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.40.234:40112#🇷🇺 23@shadowsockskeys
+ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZUAxOTUuMTMzLjUuMjA3OjIwMTg4Pw==#%F0%9F%87%B7%F0%9F%87%BA_RU%E4%BF%84%E7%BE%85%E6%96%AF%E4%B8%A8yoyapai.com%5Cr
 ss://YWVzLTI1Ni1nY206Z2Y2eGx6ZGN5amdtcDV1YQ==@178.104.156.1:443#%F0%9F%87%AC%F0%9F%87%A7GB-178.104.156.1-0512
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.162:10901#%F0%9F%87%AE%F0%9F%87%B9IT-194.87.47.162-0514
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@62.76.234.92:10901#%F0%9F%87%AE%F0%9F%87%B9IT-62.76.234.92-0515
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@62.76.234.92:10901#%F0%9F%87%AE%F0%9F%87%B9IT-62.76.234.92-0517
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.92:10901#] 🇮🇹 IT-10901
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.92:10901#🇮🇹[openproxylist.com] ss-IT
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg==@194.87.69.207:20998#%F0%9F%87%B7%F0%9F%87%BARU-194.87.69.207-0519
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg==@194.87.69.207:40119#%F0%9F%87%B7%F0%9F%87%BARU-194.87.69.207-0520
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@176.32.34.152:10910#🇷🇺RU Dìa—118
@@ -242,6 +248,8 @@ ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@51.83.192.80:8388#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@51.83.192.80:8388#%F0%9F%87%AB%F0%9F%87%B7FR-51.83.192.80-0542
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#%F0%9F%87%AB%F0%9F%87%B7FR-57.131.48.45-0545
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#%F0%9F%87%AB%F0%9F%87%B7FR-57.131.48.45-0547
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#🇵🇱[openproxylist.com] ss-PL
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹[openproxylist.com] ss-IT
 ss://YWVzLTI1Ni1nY206bVZNTmh2REZoRkg1NmEyaUZGNFpPUFR2a1NFUGJGWG9lM2VRMjA1eEhUVT0=@www.outline.network.ak1986.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2443#رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣5️⃣
 ss://YWVzLTI1Ni1nY206c2xraUpMc1crMmM5VWlYMFh2eElTTXZmaVpXcjUzTWpEcXgxRHVBQzFWRT0=@www.outline.network.ak1989.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2443#رایگان | SS | @OutlineVpnOfficial | SE🇸🇪 | 0️⃣3️⃣
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.1.100:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
@@ -490,11 +498,3 @@ ss://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@164.37.104.234:443?security=reality&am
 ss://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@31.77.152.14:443?security=reality&amp;encryption=none&amp;pbk=jJQ3uy2Se5ObXCsYJnT-2ukvUMRiOBBfOZ38Wnm2Ygs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de1.murhost.network&amp;sid=a75046af5dcaf1d2#[17019][DE][0][SS][None][hopev2ray][2026-08-15][2026-08-25 00:33]
 ss://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@31.77.152.14:443?security=reality&amp;encryption=none&amp;pbk=jJQ3uy2Se5ObXCsYJnT-2ukvUMRiOBBfOZ38Wnm2Ygs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de1.murhost.network&amp;sid=a75046af5dcaf1d2#[17020][DE][0][SS][None][hopev2ray][2026-08-15][2026-08-25 00:33]
 ss://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&amp;security=reality&amp;sid=84f9881951050a30&amp;sni=gb1.murhost.network&amp;type=tcp#[17021][GB][0][SS][None][oneclickvpnkeys][2026-08-18][2026-08-25 00:33]
-ss://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&amp;security=reality&amp;sid=84f9881951050a30&amp;sni=gb1.murhost.network&amp;type=tcp#[17022][GB][0][SS][None][oneclickvpnkeys][2026-08-19][2026-08-25 00:33]
-ss://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&amp;security=reality&amp;sid=84f9881951050a30&amp;type=tcp#[17023][GB][0][SS][None][oneclickvpnkeys][2026-08-20][2026-08-25 00:33]
-ss://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?security=reality&amp;encryption=none&amp;pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gb1.murhost.network&amp;sid=84f9881951050a30#[17024][GB][0][SS][None][proxy_kafee][2026-08-19][2026-08-25 00:33]
-ss://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?security=reality&amp;encryption=none&amp;pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gb1.murhost.network&amp;sid=84f9881951050a30#[17025][GB][0][SS][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
-ss://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?security=reality&amp;encryption=none&amp;pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gb1.murhost.network&amp;sid=84f9881951050a30#[17026][GB][0][SS][None][vpn_tehran][2026-08-18][2026-08-25 00:33]
-ss://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?security=reality&amp;encryption=none&amp;pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gb1.murhost.network&amp;sid=84f9881951050a30#[17027][GB][0][SS][None][Outline_Vpn][2026-08-15][2026-08-25 00:33]
-ss://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?security=reality&amp;encryption=none&amp;pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gb1.murhost.network&amp;sid=84f9881951050a30#[17028][GB][0][SS][None][Outline_Vpn][2026-08-19][2026-08-25 00:33]
-ss://a7e62a74-0a45-4512-89d8-9845052764c8@ir.evovpn.ru:443?security=reality&amp;encryption=none&amp;pbk=e3-NBhCfh1A2gy6MyckQ2VmDDMgh5roW-gYVSznwS1Y&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yandex.ru&amp;sid=d44c2054e3a9063b#[17043][UnResolvedDomains][0][SS][None][ext_raw.githubusercontent.com][2026-08-25][2026-08-25 00:33]
