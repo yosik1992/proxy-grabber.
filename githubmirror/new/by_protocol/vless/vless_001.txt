@@ -457,7 +457,7 @@ vless://032863bc-9508-01ff-1735-112282a4da83@ifmbv9bife41.dop100.com:2053?mode=g
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%4040darktunnelvip1
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 vless://03446511-2806-4fc0-b02f-f10d2d3a33c6@185.16.36.200:43439?&security=reality&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=ae99c61853e8a6ae&fp=firefox&sni=cdn-up.perecbass.ru&type=grpc&serviceName=&mode=gun#%F0%9F%87%B5%F0%9F%87%B1%20%E6%B3%A2%E5%85%B0%20%7C%20POL
-vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?encryption=none&type=grpc&security=reality&fp=chrome&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&sni=yahoo.com&sid=fd7f&spx=%2F#[🇰🇿] [vl-re-gr] [260830-091242.227]
+vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?encryption=none&type=grpc&security=reality&fp=chrome&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&sni=yahoo.com&sid=fd7f&spx=%2F#[🇰🇿] [vl-re-gr] [260830-154016.671]
 vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@138.124.87.247:510?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gTLxGPaumAT1gY3dEXIbZcr0Ocspb1hdrEG5oBkPOA8&security=reality&sni=cdn.vkvideo.ru&type=tcp# By EbraSha
 vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@3g.vles.space:510?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gTLxGPaumAT1gY3dEXIbZcr0Ocspb1hdrEG5oBkPOA8&security=reality&sni=cdn.vkvideo.ru&type=tcp# By EbraSha
 vless://036aba87-eb49-47b3-bc12-333f778eee60@65.109.216.82:1223?path=/&amp;security=none&amp;encryption=none&amp;host=divarcdn.com&amp;type=ws#🇫🇮+فنلاند+🕊️@Gozargah_Azadi
