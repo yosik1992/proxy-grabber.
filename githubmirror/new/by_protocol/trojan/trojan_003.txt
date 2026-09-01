@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@3.74.185.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6205][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
+trojan://telegram-id-privatevpns@3.74.209.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 460
+trojan://telegram-id-privatevpns@3.75.161.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6206][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
+trojan://telegram-id-privatevpns@3.75.2.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6207][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
 trojan://telegram-id-privatevpns@3.76.184.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6208][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
 trojan://telegram-id-privatevpns@3.76.240.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 45
 trojan://telegram-id-privatevpns@3.77.101.134:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
