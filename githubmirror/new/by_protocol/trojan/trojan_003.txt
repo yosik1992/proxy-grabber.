@@ -1,3 +1,10 @@
+trojan://telegram-id-privatevpns@3.68.139.230:22222?type=tcp&sni=trojan.burgerip.co.uk&allowInsecure=1http/1.1#[6201][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
+trojan://telegram-id-privatevpns@3.70.108.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6202][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
+trojan://telegram-id-privatevpns@3.70.33.164:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6203][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
+trojan://telegram-id-privatevpns@3.72.137.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6204][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
+trojan://telegram-id-privatevpns@3.72.54.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣
+trojan://telegram-id-privatevpns@3.74.185.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6205][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
+trojan://telegram-id-privatevpns@3.74.209.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 460
 trojan://telegram-id-privatevpns@3.75.161.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6206][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
 trojan://telegram-id-privatevpns@3.75.2.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6207][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
 trojan://telegram-id-privatevpns@3.76.184.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6208][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
