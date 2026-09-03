@@ -73,6 +73,7 @@ ss://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@speedtest2.wlftest.xyz:443?security=re
 ss://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@speedtest2.wlftest.xyz:443?security=reality&amp;encryption=none&amp;pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&amp;headerType=none&amp;fp=ios&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision-udp443&amp;sni=www.speedtest.net&amp;sid=ce#[8306][CA][0][SS][None][WomanLifeFreedomVPN][2023-07-07][2026-09-01 02:21]
 ss://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@wlfspeedtest.wlftest.xyz:443?security=reality&amp;encryption=none&amp;pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&amp;headerType=none&amp;fp=ios&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision-udp443&amp;sni=www.speedtest.net&amp;sid=ce#[8307][CA][0][SS][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
 ss://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@wlfspeedtest.wlftest.xyz:443?security=reality&amp;encryption=none&amp;pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&amp;headerType=none&amp;fp=ios&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision-udp443&amp;sni=www.speedtest.net&amp;sid=ce#[8308][CA][0][SS][None][WomanLifeFreedomVPN][2023-07-08][2026-09-01 02:21]
+ss://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@wlfspeedtest.wlftest.xyz:443?security=reality&encryption=none&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&sid=ce#EPODONIOS
 ss://85457383-b175-8f3f-fb29-4db891cd2127@gbbbb.qarvian.ir:8443?security=reality&amp;encryption=none&amp;pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&amp;host=play.google.com&amp;headerType=http&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=icloud.com&amp;sid=f49da53c#[8309][UnResolvedDomains][0][SS][None][prrofile_purple][2026-07-30][2026-09-01 02:21]
 ss://86208db7-8bbc-42c2-9eb2-ffe5675502c3@fetch.anotherok.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=U7O4wCUNinuk5M-ADV1e4sJ_iA7-JVBEXB8nev6kzzs&amp;fp=firefox&amp;type=grpc&amp;serviceName=api.v1.StreamService&amp;sni=fetch.anotherok.com&amp;sid=335555b164619360#[8356][DE][0][SS][None][nofiltering2][2026-07-18][2026-09-01 02:21]
 ss://86208db7-8bbc-42c2-9eb2-ffe5675502c3@fetch.anotherok.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=U7O4wCUNinuk5M-ADV1e4sJ_iA7-JVBEXB8nev6kzzs&amp;fp=firefox&amp;type=grpc&amp;serviceName=api.v1.StreamService&amp;sni=fetch.anotherok.com&amp;sid=335555b164619360#[8357][DE][0][SS][None][prrofile_purple][2026-07-17][2026-09-01 02:21]
@@ -176,7 +177,6 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QWwzZlJyQzVEVkVyRWRoUkVwb3V2NXh4eGt
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QkpXZlZzUmlIeUZMMEJwbUV1Sk9OcFBneVFjRHcrL0pEaFVuVEU5ak5jQT0@129.151.85.220:61312#🇬🇧 | 19
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TEY3Y0o0NXJFclFqNmtsRlk3VGtyUUk0bzZydnFmTElPQVJieTlaMlYvND0=@129.151.89.64:61312#[10005][GB][0][SS][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TzM5aC9QaisvNlFzWFd1UlJDT2ZycUFUbE9vejB2NW9rVU9mSytYNFhXTT0@158.101.202.112:45819#🇳🇱 | 4
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6U0dyWGZJUFl3Ri9EYUI0c3J5d1IyVjNYVnRYdkRsbjM3SldzV3E1TzQ0WT0@129.151.73.201:61312#🇬🇧[openproxylist.com] ss-GB
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6U2wvcHFaRFdKYW00akJaaU5uY2NFSkVPVjlmQmZBVStxdVYzQlZhZm5rQT0@144.24.224.213:61312#🇬🇧 31@shadowsockskeys
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UTloTTdBTG9aZEZZeUxEUVlzUUxqSzBxRTlnbno0L091RUkxWGxKTllQVT0@163.176.61.216:59319#[10024][BR][0][SS][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UVFmUENQYld5RGl0S1d2SlJkaHpNTytHdHBQaGplajhWOWRNdUxzOGlBcz0@79.76.113.182:59924# 🇩🇪 1@shadowsockskeys
@@ -251,7 +251,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Nm1vRGxaeU5ZMjI3UzBuQmlOZDhQ@51.136.162.7:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#Italy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWYyMjZiNzcyNmY0ZDRjYjVjNzJmZTNiNTcwNTBmMA==@3.75.179.86:443#%F0%9F%87%A9%F0%9F%87%AADE-3.75.179.86-0042
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWYyMjZiNzcyNmY0ZDRjYjVjNzJmZTNiNTcwNTBmMA==@3.75.179.86:443#%F0%9F%87%A9%F0%9F%87%AADE-3.75.179.86-0044
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4aEFubEhxRXFJdzJ3ekZHQnRvM1ZR@Italy3.fapinet.website:52941#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.134-0045
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N09uREVaWUdqYTQ=@178.18.244.2:443#%F0%9F%87%A9%F0%9F%87%AADE-178.18.244.2-3787
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N09uREVaWUdqYTQ=@178.18.244.2:443#Germany+Contabo
@@ -311,6 +310,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@tt.hsrdnr.ir:2044?secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Lm1lL091dGxpbmVWcG5PZmZpY2lhbA==@www.outline.network.w8jird2g0z2b6arthwuf6c1plwayx6a43e9gywtzdw674s7a0tcuritauv6dac1.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8880#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RGEwWnBtNGNBWWtvYzly@20.223.129.129:443#%F0%9F%87%AE%F0%9F%87%AAIE-20.223.129.129-0068
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RU8xQXMxMEVmZkRXNXN2WEF3Z3Zi@77.105.140.135:2562#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20,%20Amsterdam
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243#🇩🇪[openproxylist.com] ss-DE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243?type=tcp#🇩🇪 @V2RAYNG_IP ✅
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243?type=tcp#🇩🇪 @V2RAYNG_IP 🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWw=@213.108.198.158:8444#%F0%9F%87%A9%F0%9F%87%AADE-213.108.198.158-0072
