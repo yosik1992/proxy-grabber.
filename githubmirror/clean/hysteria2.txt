@@ -79,7 +79,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.38.82.167:443/?insecure=1&sni=vpn-fr-001
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#🇫🇷 Rose—09
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.162.6:443/?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷 Rose—34
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#🇫🇷 Rose—04
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%AC%F0%9F%87%A7GB_8%7C4.8MB/s
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#GB_8%7C4.8MB%2Fs
 hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723/?insecure=1&sni=www.cloudflare.com#🇩🇪 Rose—35
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443/?insecure=1&sni=hopp-netherland-new.dynuddns.net#🇮🇹 Rose—22
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443/?insecure=1&sni=hopp-netherland-new.dynuddns.net#🇮🇹 Rose—24
@@ -112,7 +112,7 @@ hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&a
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52002?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-🇦🇹
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52028?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-🇪🇸
 hysteria2://france_2_hysteria2_fastlane_ta9m8kofg:OUnReI0uOy3RuPiPsImkgfKNav48UKxw@109.120.179.197:1935/?sni=fr3.h.fastlanehosting.ru&amp;insecure=0#🇫🇷France 2 [Hysteria2]
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111/?insecure=1&sni=bing.com#%F0%9F%91%9D91@oneclickvpnkeysvless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&security=reality&sid=dd6ce6af95001a&sni=www.sony.com&type=tcp#%F0%9F%91%9D92@oneclickvpnkeysvmess://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?encryption=auto&security=tls&type=tcp#%F0%9F%91%9D93@oneclickvpnkeys
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2025
 hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?security=tls&amp;insecure=1&amp;sni=www.microsoft.com#🇫🇷|FR|@wxgqlfx|108
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.231:8080/?sni=hopp-legend-se.roxa.org#🇵🇱 Rose—14
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?security=tls&amp;insecure=1&amp;sni=hopp-legend-se.roxa.org#🇫🇮|FI|@wxgqlfx|155
