@@ -1,4 +1,3 @@
-trojan://telegram-id-privatevpns@3.76.184.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6187][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-04][2026-09-04 01:43]
 trojan://telegram-id-privatevpns@3.76.240.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 45
 trojan://telegram-id-privatevpns@3.77.101.134:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 trojan://telegram-id-privatevpns@3.77.162.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6188][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-04][2026-09-04 01:43]
@@ -126,8 +125,7 @@ trojan://telegram-id-privatevpns@63.183.59.137:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@63.184.244.52:22222?security=tls&amp;alpn=http/1.1&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@99.81.90.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 402
 trojan://telegram-id-vlessconfig@35.178.114.243:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#[6243][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-04][2026-09-04 01:43]
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls#🇬🇧[openproxylist.com] trojan-GB
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?type=raw&headerType=none&security=tls#[🇬🇧] [tr-tl-ra] [260904-083002.503]
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?type=raw&headerType=none&security=tls#[🇬🇧] [tr-tl-ra] [260904-150800.187]
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://tunnel-astrovpn_official_pl@pl#[6351][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-04][2026-09-04 01:43]
