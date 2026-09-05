@@ -1,3 +1,6 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.137.169:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.139.200:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.143.110:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.147.251:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.149.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.15.157:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
@@ -495,6 +498,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.34.74:22224?type=ws&security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.45.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.59.127:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.68.225:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.93.190:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.125.49:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.13.5:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk# By EbraSha
