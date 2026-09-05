@@ -90,12 +90,13 @@ hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&amp;ob
 hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=1&amp;sni=de1.sferavpn.pro#🇩🇪|DE|@wxgqlfx|203
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🇫🇷 Rose—36
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443?security=tls&amp;insecure=1&amp;sni=keyhop-offshore.roxa.org#🇩🇪|DE|@wxgqlfx|182
+hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@cdncache.pleiades.codes:8443?sni=cdncache.pleiades.codes#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#🇰🇿 Rose—39
 hysteria2://ed77b662dbdf1a817d5eb75ae940cac4@198-46-188-116.liao.kdns.fr:50160?security=tls&amp;insecure=1&amp;sni=198-46-188-116.liao.kdns.fr#🇺🇸|US|@wxgqlfx|20
 hysteria2://f056b41dc9f2b516e333738d1345a6be46a8ca80a3870ffe@n.nl.cleanersaz.help:443?security=tls&amp;insecure=1#🇳🇱|NL|@wxgqlfx|205
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&amp;insecure=0#🇷🇺|RU|@wxgqlfx|124
-hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52002?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-🇦🇹
-hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52028?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-🇪🇸
+hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52002?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%A6%F0%9F%87%B9%20Austria-Vienna
+hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52028?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%AA%F0%9F%87%B8%20Spain-Valencia
 hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?security=tls&amp;insecure=1&amp;sni=www.microsoft.com#🇫🇷|FR|@wxgqlfx|108
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.231:8080/?sni=hopp-legend-se.roxa.org#🇵🇱 Rose—14
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?security=tls&amp;insecure=1&amp;sni=hopp-legend-se.roxa.org#🇫🇮|FI|@wxgqlfx|155
@@ -103,8 +104,8 @@ hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&
 hysteria2://k-qZIMk71_90gFFSfFiP688PqB6yLxie@2.27.42.66:43327?security=tls&amp;insecure=1&amp;sni=gate-v1.not-a-projects.xyz#🇫🇮|FI|@wxgqlfx|169
 hysteria2://kVfzhSpshc@hys1.wba-pn.ru:443?security=tls&amp;insecure=0#🇷🇺 [HY] Россия #16277 | РосТуннель
 hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52050?alpn=h3&amp;fp=chrome&amp;obfs=salamander&amp;obfs-password=fuw2k1ddrouwxr3u&amp;security=tls&amp;sni=giftcard.gateway-stream.com#dc-udp-🇳🇱 Netherlands-Amsterdam
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443/?insecure=1&sni=germany3.h2corp.local#
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443/?insecure=1&amp;sni=germany3.h2corp.local#☺️43@oneclickvpnkeys
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&amp;sni=germany3.h2corp.local#☺️50@oneclickvpnkeys
 hysteria2://niEGIEcu9rRmRBoA3yYiKtFRv87BMRnFEpozCmNTHyY@give.internet-card.sbs:24444?sni=bel7bel.internet-card.sbs&amp;alpn=h3#🇫🇷 France, Paris | [BL]
 hysteria2://nqlool6l2dnfg45q@giftcard.gateway-stream.com:52000?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🇫🇮162511
 hysteria2://nqlool6l2dnfg45q@giftcard.gateway-stream.com:52038?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🇫🇮162509
