@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@3.254.219.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 774
 trojan://telegram-id-privatevpns@3.255.62.12:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%AA%20IE-3.255.62.12:22222%20%F0%9F%93%A1%20PING-080.26-MS
 trojan://telegram-id-privatevpns@3.64.15.101:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.64.15.101-0132
 trojan://telegram-id-privatevpns@3.65.67.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
@@ -84,8 +85,6 @@ trojan://telegram-id-privatevpns@51.44.118.76:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@51.44.127.193:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@51.44.198.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6214][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-04][2026-09-04 01:43]
 trojan://telegram-id-privatevpns@51.44.34.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-bcb4862ab6
-trojan://telegram-id-privatevpns@51.44.39.226:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4Mohsen-239c3861b3
-trojan://telegram-id-privatevpns@51.44.39.226:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://telegram-id-privatevpns@51.44.56.77:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#[6215][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-04][2026-09-04 01:43]
 trojan://telegram-id-privatevpns@51.45.55.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Jadi-863237e568
 trojan://telegram-id-privatevpns@52.17.43.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#VMESS_VLESS_PRO+%7C+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C
@@ -144,11 +143,20 @@ trojan://telegram-id-privatevpns@63.183.59.137:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@63.184.244.52:22222?security=tls&amp;alpn=http/1.1&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@99.81.90.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 402
 trojan://telegram-id-vlessconfig@35.178.114.243:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#[6243][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-04][2026-09-04 01:43]
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?type=raw&headerType=none&security=tls&alpn=http%2F1.1#[🇬🇧] [tr-tl-ra] [260906-144640.862]
-trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&alpn=http/1.1&fp=android&insecure=1&security=tls&sni=speedtest.tinkoff.ru&type=tcp#🇬🇧[openproxylist.com] trojan-GB
+trojan://tripitropa444@45.85.88.194:2174?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.85.88.194-1004
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?alpn=http%2f1.1&fp=chrome&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%209
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?alpn=http%2f1.1&fp=qq&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%208
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls&alpn=http%2f1.1&fp=chrome&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%2012
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls&alpn=http%2f1.1&fp=qq&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%207
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls&fp=android&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%206
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls&fp=ios&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%2010
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?type=raw&headerType=none&security=tls&alpn=http%2F1.1#[🇬🇧] [tr-tl-ra] [260906-191233.459]
+trojan://tripitropa994825@45.85.88.194:2234?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.85.88.194-1005
+trojan://tripitropa994825@45.85.88.194:2234?security=tls&sni=vps.tropicalhosting.net#🇬🇧[openproxylist.com] trojan-GB
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://tunnel-astrovpn_official_pl@pl#[6351][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-04][2026-09-04 01:43]
+trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?allowInsecure=1&amp;sni=cd.rutracker-cn.com#@Hope_Net-join-us-on-Telegram
 trojan://vip@www.gov.se:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#[6381][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-04][2026-09-04 01:43]
 trojan://vmRtExJrt6@51.195.255.103:8443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=uk-03.allhubb.info#[6386][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-04][2026-09-04 01:43]
 trojan://your_password@15.236.64.14:443?security=tls&sni=aws-fr-paris-1.f1rocketnode.com&type=tcp#4FreeIran-a56c6cbab0
