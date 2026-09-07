@@ -1,3 +1,15 @@
+trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#[6580][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
+trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#[6581][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
+trojan://telegram-id-privatevpns@3.123.67.61:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#[6582][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
+trojan://telegram-id-privatevpns@3.124.16.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6583][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
+trojan://telegram-id-privatevpns@3.124.179.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6584][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
+trojan://telegram-id-privatevpns@3.124.250.187:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒
+trojan://telegram-id-privatevpns@3.125.188.184:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Nika-32e3128768
+trojan://telegram-id-privatevpns@3.125.188.184:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#[6585][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
+trojan://telegram-id-privatevpns@3.127.13.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 706
+trojan://telegram-id-privatevpns@3.127.154.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 733
+trojan://telegram-id-privatevpns@3.127.24.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6586][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
+trojan://telegram-id-privatevpns@3.127.30.45:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Sarina-b504ae18ee
 trojan://telegram-id-privatevpns@3.127.30.45:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#[6587][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
 trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-5f14daf64b
 trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#[6588][IE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
@@ -88,7 +100,6 @@ trojan://telegram-id-privatevpns@51.20.228.20:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@51.20.241.181:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-51.20.241.181-0139
 trojan://telegram-id-privatevpns@51.20.47.145:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Sarina-86a10274b1
 trojan://telegram-id-privatevpns@51.20.47.145:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#[6627][SE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
-trojan://telegram-id-privatevpns@51.21.107.17:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@51.21.116.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 598
 trojan://telegram-id-privatevpns@51.21.44.179:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AA%20SE-51.21.44.179:22222%20%F0%9F%93%A1%20PING-105.25-MS
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp#[6628][SE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
@@ -130,7 +141,6 @@ trojan://telegram-id-privatevpns@54.171.7.212:22222?security=tls&sni=trj.rolling
 trojan://telegram-id-privatevpns@54.171.7.212:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#[6643][IE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
 trojan://telegram-id-privatevpns@54.171.81.189:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4FreeIran-a63211e2bc
 trojan://telegram-id-privatevpns@54.171.81.189:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#[6644][IE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
-trojan://telegram-id-privatevpns@54.220.32.75:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@54.229.43.23:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-54.229.43.23-2114
 trojan://telegram-id-privatevpns@54.247.113.99:22222?security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%AA_IE_613
 trojan://telegram-id-privatevpns@54.247.136.66:22222?security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%AA_IE_626
@@ -170,8 +180,6 @@ trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=c
 trojan://tunnel-astrovpn_official_pl@pl#[6760][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
 trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?allowInsecure=1&amp;sni=cd.rutracker-cn.com#[6772][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-09-06][2026-09-07 01:35]
 trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?allowInsecure=1&amp;sni=cd.rutracker-cn.com#[6773][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-09-06][2026-09-07 01:36]
-trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?allowInsecure=1&sni=cd.rutracker-cn.com#4FreeIran-00e51a36ef
-trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?allowInsecure=1&sni=cd.rutracker-cn.com#EPODONIOS
 trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?allowInsecure=1&sni=cd.rutracker-cn.com#[6774][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
 trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?allowInsecure=1&sni=cd.rutracker-cn.com#[6775][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
 trojan://vip@www.gov.se:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#[6810][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
