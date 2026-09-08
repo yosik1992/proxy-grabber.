@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#[6574][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
+trojan://telegram-id-privatevpns@3.120.242.243:22222?security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AA_DE_830
+trojan://telegram-id-privatevpns@3.120.80.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Nika-b79c2c6be4
+trojan://telegram-id-privatevpns@3.121.145.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6575][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
 trojan://telegram-id-privatevpns@3.121.254.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Jadi-c876699334
 trojan://telegram-id-privatevpns@3.123.128.240:22222?security=tls&sni=trj.rollingnext.co.uk#4Nika-bf2a3f35bf
 trojan://telegram-id-privatevpns@3.123.128.240:22222?security=tls&sni=trj.rollingnext.co.uk#[6576][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
@@ -180,7 +184,6 @@ trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&allo
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://tunnel-astrovpn_official_pl@pl#[6760][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
 trojan://u78pf9hiyifswgg9@185.204.170.125:252?path=/&amp;security=tls&amp;alpn=h2,http/1.1&amp;insecure=0&amp;host=185.204.170.125&amp;fp=chrome&amp;ech=AGL+DQBeAAAgACA47RSS1LmVkphlPWHOkD83GKKoGFbpeMDwc+SVMO/CdAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xODUuMjA0LjE3MC4xMjUAAA==&amp;type=ws&amp;allowInsecure=0&amp;sni=185.204.170.125#[🇩🇪]t.me/ConfigV2RayNG
-trojan://u78pf9hiyifswgg9@185.204.170.125:252?type=ws&host=185.204.170.125&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=185.204.170.125#[🇩🇪] [tr-tl-ws] [260908-031239.798]
 trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?allowInsecure=1&amp;sni=cd.rutracker-cn.com#[6772][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-09-06][2026-09-07 01:35]
 trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?allowInsecure=1&amp;sni=cd.rutracker-cn.com#[6773][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-09-06][2026-09-07 01:36]
 trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?allowInsecure=1&sni=cd.rutracker-cn.com#[6774][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
