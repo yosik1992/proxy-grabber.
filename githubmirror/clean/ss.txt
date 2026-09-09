@@ -65,7 +65,7 @@ ss://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path
 ss://1d69b662-74b4-0001-8353-7c48e11ab9cd@br-83-ru.netzrun.at:443?type=raw&security=tls&flow=xtls-rprx-vision&sni=br-83-ru.netzrun.at&fp=firefox#[1800][RU][0][SS][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
 ss://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129?security=reality&amp;encryption=none&amp;pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=d70393f0ad1c7552#[1808][RU][0][SS][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
 ss://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&amp;host=ov-italy1.09vpn.com&amp;path=%2Fvless%2F&amp;security=none&amp;type=ws#[1822][IT][0][SS][None][oneclickvpnkeys][2026-09-06][2026-09-07 01:35]
-ss://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?security=reality&encryption=none&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraph.co.uk&sid=deee73#[1855][IR][0][SS][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
+ss://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?security=reality&encryption=none&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraph.co.uk&sid=deee73#EPODONIOS
 ss://1ff9ceea-7008-4c0e-a832-32a0c81f0c46@xucino-trovepo.northgazette.org:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=xucino-trovepo.northgazette.org&amp;alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&amp;fp=qq&amp;security=reality&amp;pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&amp;sid=f0ba53a31b489b3e#[1877][UnResolvedDomains][0][SS][None][proxymtprotoir][2026-09-04][2026-09-07 01:35]
 ss://2022-blake3-aes-256-gcm:rrR97O6JIRzSRG8uHimVCgLEssjipthiC4Hlieq%2F4%2Fw=%3AB+gmrP1txQliTTw0NNVoHZ+wjNAL3nKHZopLtqlEAnI=@65.109.215.50:13049#🇫🇮 Rose—92
 ss://2022-blake3-chacha20-poly1305:MKzw1HxJdrY1+Pm12sIuiKt277hbryrPFKlSVTBWyMY=@134.98.147.129:45819#🇳🇱 Rose—91
@@ -272,7 +272,7 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aU9obVpuUUk3ZmxzRmVWK3NCdi9aVG1JdG9
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6anBKeG8zR0JPMFo3a1FqeURMdDBIVGlQdUkrUjVTNlVReG5heGFISlVHZz0@129.153.74.252:50356#[9932][US][0][SS][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bVNzRHlsRVdFVnM0Ukp1ZGNrNE8wU2NIaGV6WEI5UlpzOU43MGw1ZXNxTT0@134.98.144.146:45819#[9943][NL][0][SS][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bzB5Nk1UWnZaY2Z2bFF2NVVWTk5WY3BWbklhL3ZhRUs0ZHRNWGNEQjBOOD0@129.151.95.1:61312#[9952][GB][0][SS][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dG5KNHJMUVlxWHlxVzc5SFpGU3Rpd0ZHeGhKWDI1MndtbldzK2ZqUDVObz0@129.151.84.17:61312#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%7C%20GBR
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dG5KNHJMUVlxWHlxVzc5SFpGU3Rpd0ZHeGhKWDI1MndtbldzK2ZqUDVObz0@129.151.84.17:61312#🇬🇧[openproxylist.com] ss-GB
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dkhicVJmdUVsVzd5amdKV2pGQmFHUkYzVzczVTdqSXZYWDhYZHNMdGgycz0=@129.146.60.204:50356#
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ejVSdEtmcWNqc3VlRWdTRUs1RnpSU1VySXZVemxMZkpnRVdvNUJrWnFJND0@138.2.87.37:56927#[9995][SG][0][SS][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU1uWVN1Z3c2RHAvcjRISWhvUmtvUUk2ak0zU3dMOStpN0dOUkx4QldIbz06bEVFaG1hUHlKQ0ZKU2M3SWxGMTIwYyt0b1dVbFFOdGVnbXpTd1MvTC8vcz0@80.91.86.179:1070#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2885%29
@@ -310,6 +310,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3TWIyVE41UGhCeEkyUjJGdWp0cm5S@51.89.206.18:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3WFNGbWdDdXdhVEVIUklRTUNmQlZO@twlatx.dnset.com:8443#Canada+Telus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YnJXWGZxTmlXV2JXNThLUlZMelA0@185.254.204.240:443#Spain+Cloudi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:1#🇩🇪8@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:3#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%20%7C%20DEU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Nm1vRGxaeU5ZMjI3UzBuQmlOZDhQ@51.136.162.7:11439#%40V2ray_NG%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWYyMjZiNzcyNmY0ZDRjYjVjNzJmZTNiNTcwNTBmMA==@3.75.179.86:443#%F0%9F%87%A9%F0%9F%87%AADE-3.75.179.86-0027
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4aEFubEhxRXFJdzJ3ekZHQnRvM1ZR@Italy3.fapinet.website:52941#[10724][CZ][0][SS][None][ext_raw.githubusercontent.com][2026-09-07][2026-09-07 01:36]
@@ -794,7 +795,9 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.40.17.62:443#%F0%9F%87%AC%F0%9F%87%A7GB
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.40.94.70:443#%F0%9F%87%AC%F0%9F%87%A7GB-13.40.94.70-0217
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.132.203.206:443#%F0%9F%87%AC%F0%9F%87%A7GB-18.132.203.206-0308
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.252.205.48:443#%F0%9F%87%AE%F0%9F%87%AAIE-3.252.205.48-0215
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.177.213.229:443#%F0%9F%87%AC%F0%9F%87%A7GB_5%7C5.3MB/s
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.214.208.36:443#%F0%9F%87%AE%F0%9F%87%AAIE-52.214.208.36-0311
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.247.231.139:443#%F0%9F%87%AE%F0%9F%87%AAIE_1%7C1.3MB/s
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#%F0%9F%87%A9%F0%9F%87%AADE-63.180.254.10-0000
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.250.223.202:443#🇮🇪 Rose—60
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.241.245.82:443#🇮🇪 Rose—73
@@ -1023,6 +1026,7 @@ ss://YWVzLTI1Ni1nY206NjliYjFjYWItYTc1NC00ZmRjLWEwM2YtYTgwNmU3ZmEzZTA2@51.38.99.9
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@185.22.155.162:10808#%F0%9F%87%B7%F0%9F%87%BARU-185.22.155.162-0322
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#%F0%9F%87%AE%F0%9F%87%B9IT-82.102.26.117-4200
 ss://YWVzLTI1Ni1nY206QXFnQndZRGVRQQ==@91.107.141.164:2096#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Falkenstein%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#🇸🇪[openproxylist.com] ss-SE
 ss://YWVzLTI1Ni1nY206R2VaYlg0RW5vYw==@5.181.27.97:15100#%F0%9F%87%AC%F0%9F%87%A7GB-5.181.27.97-8932
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@145.239.1.100:7306#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@145.239.1.100:7307#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
