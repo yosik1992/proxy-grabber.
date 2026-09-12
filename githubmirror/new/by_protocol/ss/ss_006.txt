@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@145.239.1.100:2376#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@145.239.1.100:2376#%F0%9F%87%A9%F0%9F%87%AADE-145.239.1.100-5015
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#%F0%9F%87%AB%F0%9F%87%B7FR_%40vpn_oceanss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#%F0%9F%87%AB%F0%9F%87%B7FR_%40vpn_ocean
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.188.71:2376#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-5025
@@ -101,7 +100,6 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.158.150.168:4444#%F0%9F%87%AB%F0%9F
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#Helionix%20_%20%F0%9F%87%B5%F0%9F%87%B1Poland%2065
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:443#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20,%20Gorz%C3%B3w%20Wielkopolski
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:443#Helionix%20_%20%F0%9F%87%B5%F0%9F%87%B1Poland%2015
-ss://YWVzLTI1Ni1nY206cU12Sm1DYk1kdUtVb2VIcQ@66.245.207.70:8388#🇮🇹[openproxylist.com] ss-IT
 ss://YWVzLTI1Ni1nY206dnE3WDFTNTJDNg==@65.109.142.16:8443#%F0%9F%87%AB%F0%9F%87%AEFI-65.109.142.16-2879
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#@Vip_Security join us - 307
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#[15249][CA][0][SS][None][ext_raw.githubusercontent.com][2026-09-10][2026-09-10 01:49]
@@ -268,6 +266,7 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#[15320][CA][0][SS][N
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#[15321][CA][0][SS][None][ext_raw.githubusercontent.com][2026-09-10][2026-09-10 01:49]
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#[15322][CA][0][SS][None][ext_raw.githubusercontent.com][2026-09-10][2026-09-10 01:49]
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#[v2rayNplus]
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦[openproxylist.com] ss-CA
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445?type=tcp&headerType=none#EPODONIOS
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445?type=tcp&headerType=none#[15323][CA][0][SS][None][ext_raw.githubusercontent.com][2026-09-10][2026-09-10 01:49]
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#
@@ -498,3 +497,4 @@ ss://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?path
 ss://e1a928be-e289-4aef-b92e-4106fabdf42f@ye-join.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=mahi.kosnanatfilterchi.eu.org&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://e1f9db77-3a6a-4726-a30c-b536bb9c2800@dl.graygoat.uk:47845?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#[18035][UnResolvedDomains][0][SS][None][v2ray_outlineir][2023-12-10][2026-09-10 01:49]
 ss://e3e56efc-57c3-4a7c-b1f3-5776b86f4c52@104.19.232.80:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-&amp;sni=com.turkdonar.cloud#%40Awlix_ir%F0%9F%87%A9%F0%9F%87%AA+%283%29
+ss://e3e56efc-57c3-4a7c-b1f3-5776b86f4c52@108.162.193.0:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-Telegramjoin:@Awlix_ir-&amp;sni=com.turkdonar.cloud#%40Awlix_ir%F0%9F%87%A9%F0%9F%87%AA+%281%29
