@@ -1,6 +1,3 @@
-trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-6b2fc85838
-trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#[6265][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-13][2026-09-13 01:45]
-trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#[6266][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-13][2026-09-13 01:45]
 trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#[6267][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-13][2026-09-13 01:45]
 trojan://telegram-id-privatevpns@3.123.67.61:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#[6268][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-13][2026-09-13 01:45]
 trojan://telegram-id-privatevpns@3.124.16.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6269][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-13][2026-09-13 01:45]
@@ -147,8 +144,6 @@ trojan://telegram-id-privatevpns@54.247.136.66:22222?security=tls&sni=trj.rollin
 trojan://telegram-id-privatevpns@54.247.99.25:22222?sni=trj.rollingnext.co.uk&allowInsecure=1&type=tcp&path=&host=trj.rollingnext.co.uk#t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.72.120.247:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4FreeIran-9586069ee5
 trojan://telegram-id-privatevpns@54.72.120.247:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#[6329][IE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-13][2026-09-13 01:45]
-trojan://telegram-id-privatevpns@54.75.255.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-84d94620ba
-trojan://telegram-id-privatevpns@54.75.255.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#EPODONIOS
 trojan://telegram-id-privatevpns@54.75.255.147:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[6330][IE][0][TROJAN][None][Hope_Net][2026-09-13][2026-09-13 01:45]
 trojan://telegram-id-privatevpns@54.75.255.147:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[6331][IE][0][TROJAN][None][ConfigsHUB][2026-09-13][2026-09-13 01:45]
 trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-854d7b30f8
