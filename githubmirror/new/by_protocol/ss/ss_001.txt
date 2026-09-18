@@ -165,6 +165,7 @@ ss://31eb929f-f82e-45f3-905b-747f9030091e@172.67.109.84:2053?mode=gun&amp;securi
 ss://32ba101a-1acb-4640-8206-309114e50de6@dl.magnataur.uk:45312?security=reality&amp;encryption=none&amp;pbk=YhjMYGbGTHGzxdvju5AoM8HGrEVwkG6F5oE1Eq9XVyA&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=discord.com&amp;sid=236cd291#ConfigV2RayNG
 ss://33a57acf-163f-4cdd-8b23-cc52a58f2362@69.84.182.98:2053?path=%2FIfUknowThenUKnow&amp;security=tls&amp;encryption=none&amp;host=mrx.xher0.de&amp;fp=chrome&amp;type=ws&amp;sni=mrx.xher0.de#[3095][US][0][SS][None][kiava][2026-01-27][2026-09-16 02:03]
 ss://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#[3104][UnResolvedDomains][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
+ss://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#EPODONIOS
 ss://347adb42-8c94-51f2-9d9b-2bc65042c469@wlfspeedtest.wlftest.xyz:443?security=reality&amp;encryption=none&amp;pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&amp;headerType=none&amp;fp=ios&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net&amp;sid=ce#[3105][CA][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
 ss://347adb42-8c94-51f2-9d9b-2bc65042c469@wlfspeedtest.wlftest.xyz:443?security=reality&amp;encryption=none&amp;pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&amp;headerType=none&amp;fp=ios&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.speedtest.net&amp;sid=ce#[3106][CA][0][SS][None][WomanLifeFreedomVPN][2023-07-09][2026-09-16 02:03]
 ss://35b5783e-cde8-4a3f-82c6-0778f32a6e5e@62.60.178.200:20322?security=reality&amp;encryption=none&amp;pbk=-3D1yyc2r7xOKDJ_nvn5x5Ij7tWYxKTpQmKiukGG7B4&amp;host=%2FJKVPN_BIA_CHANEL%40JKVPN&amp;headerType=none&amp;fp=chrome&amp;spx=%2FJKVPN_BIA_CHANEL%40JKVPN&amp;type=tcp&amp;sni=www.latimes.com&amp;sid=4d#[3221][US][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
@@ -481,7 +482,6 @@ ss://Channel-VPNCUSTOMIZE@5.75.240.193:443/?type=grpc&amp;encryption=none&amp;sn
 ss://I--_ve-_ve-_ve-_vUkh77-9ax_vv71z77-9NO-_vToj77-977-977-977-9SSHvv71rH--_vXPvv70077-9@hajlab.ucdavis.edu:443#[6972][US][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N282eUxSamdoeWNodUJtcGtxSTRUSURlNUVEejdzMGxwNEVQVTMxRmN3RT0@129.146.61.109:50356#4FreeIran-366d401c21
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N282eUxSamdoeWNodUJtcGtxSTRUSURlNUVEejdzMGxwNEVQVTMxRmN3RT0@129.146.61.109:50356#EPODONIOS
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NFlJazJCQVYyQUV4dllEc1FydzRFTGxRSlAvYjRwb0VYanpGYlNYd01hbz0@129.151.92.18:61312#🇬🇧[openproxylist.com] ss-GB
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlmOWg0eFVVMnRsYnJBM2dXWDB6WDBTTzEwU1RUM1U2ejFPbGtuUkFvOD0@130.61.183.63:59924#[7079][DE][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QWwzZlJyQzVEVkVyRWRoUkVwb3V2NXh4eGtVKzV3Z1l0a0dSWWlFRGhRdz0@130.61.236.143:59924#[7089][DE][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QXJxVWRoaGVJWGdNR3VwVVd3YmJ2Wjd5UkFXeTVqSG1pUHR4d3JMaHMzaz0@130.61.131.106:59924#4Nika-372931cffd
@@ -490,11 +490,11 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QXJxVWRoaGVJWGdNR3VwVVd3YmJ2Wjd5UkF
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QXJxVWRoaGVJWGdNR3VwVVd3YmJ2Wjd5UkFXeTVqSG1pUHR4d3JMaHMzaz0@130.61.131.106:59924#[7091][DE][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UTloTTdBTG9aZEZZeUxEUVlzUUxqSzBxRTlnbno0L091RUkxWGxKTllQVT0@163.176.61.216:59319#[7157][BR][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YUNlTHJOU21ZdjdNNWQwaVFUSEhoYktWWTZHeW14K1RsNDBOV211QnBFST0@129.151.74.18:61312#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%7C%20GBR
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YUNlTHJOU21ZdjdNNWQwaVFUSEhoYktWWTZHeW14K1RsNDBOV211QnBFST0@129.151.74.18:61312#🇬🇧[openproxylist.com] ss-GB
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Z0JQbDhNdVFVbi9QQkZWeStkS2lNY1BMNmMwRXJnaDhabW1HcU1JSDJOQT0=@92.5.231.133:45819#🇳🇱[openproxylist.com] ss-NL
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZElRLy9ieC9CRGhINStZV3AzUk4wQ3ZCZld5OVdKUEVMQnhPRjN0YTkzaz0@129.151.74.128:61312#[7188][GB][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6anBKeG8zR0JPMFo3a1FqeURMdDBIVGlQdUkrUjVTNlVReG5heGFISlVHZz0@129.153.74.252:50356#[7211][US][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bVNzRHlsRVdFVnM0Ukp1ZGNrNE8wU2NIaGV6WEI5UlpzOU43MGw1ZXNxTT0@134.98.144.146:45819#[7223][NL][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6c0RoRWhISHZaOHRTVXppR0dEdDFyUXVoN2JnVHBVY2NmdzVKbkdzQXZCND0=@134.65.61.47:61312#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C3.5MB/s
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6c0RoRWhISHZaOHRTVXppR0dEdDFyUXVoN2JnVHBVY2NmdzVKbkdzQXZCND0=@134.65.61.47:61312#🇬🇧[openproxylist.com] ss-GB
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ejVSdEtmcWNqc3VlRWdTRUs1RnpSU1VySXZVemxMZkpnRVdvNUJrWnFJND0@138.2.87.37:56927#[7272][SG][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmFDdHBlTWlldEdzSlk1MGg2akRXNnc9PQ@167.233.188.191:4680#🇩🇪 V2RayyNGvpn
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Q0RGdnhGVER0Tjgyd2NMM2pNUk5QZz09OjloYythT1RhNm9PWnVCUFg5RVV4dkE9PQ==@178.105.187.73:8557#[7297][DE][0][SS][None][ext_raw.githubusercontent.com][2026-09-16][2026-09-16 02:03]
