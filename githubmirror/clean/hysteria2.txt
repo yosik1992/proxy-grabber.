@@ -2,7 +2,8 @@ hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?insecure=1&sni
 hysteria2://16b19122-476d-4fa8-937c-d9746b98a22f@45.142.112.30:45565/?insecure=1&sni=uk.xjichang.buzz#%E5%BE%B7%E5%9B%BD02
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@es1.xiaoliyu.cyou:4433/?insecure=1#%F0%9F%87%AA%F0%9F%87%B8174910%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#%E5%92%95
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443/?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443/?sni=hy.quattro-tech.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20%5B%2ACIDR%5D
 hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?insecure=0&sni=giftcard.gisora.ir&obfs=salamander&obfs-password=09p333uviv2qal0y#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%B7%F0%9F%87%BA
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&amp;obfs=salamander&amp;obfs-password=uw9b2qq5rx&amp;insecure=0&amp;sni=fiproxy1.lockdwn.com#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?insecure=1&sni=gorbachev-th.kvnfreetest.uk#
@@ -24,7 +25,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-00
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.162.6:443/?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷 Rose—34
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#🇫🇷 Rose—04
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#%E8%8B%B1%E5%9B%BD
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#%F0%9F%87%AC%F0%9F%87%A7174829%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#%E5%98%8E
 hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723/?insecure=1&sni=www.cloudflare.com#🇩🇪 Rose—35
 hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443?sni=hys26.wba-pn.ru#4Kian-12efd7fc79
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443/?insecure=1&sni=hopp-netherland-new.dynuddns.net#🇮🇹 Rose—22
@@ -36,10 +37,9 @@ hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&amp;
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&amp;obfs=salamander&amp;obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&amp;insecure=0&amp;sni=de1.sferavpn.pro#• 🇩🇪  @ConfigV2RayNG
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🇫🇷 Rose—36
 hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#🇰🇿 Rose—39
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.231:8080/?sni=hopp-legend-se.roxa.org#🇵🇱 Rose—14
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&sni=hopp-legend-se.roxa.org#🇫🇮 Rose—15
-hysteria2://hysteria2_fastlane_f6dt3q19m%3AvqCgcZnSL76jftd4853Sq8pUCmsYIjTJ@87.239.111.109:1935?sni=ru2.h.smartaisupport.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D%20VK
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443/?insecure=1&sni=germany3.h2corp.local#
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&sni=germany3.h2corp.local#4Jadi-58cf216b7b
