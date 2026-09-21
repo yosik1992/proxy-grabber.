@@ -5,10 +5,10 @@ hysteria2://16b19122-476d-4fa8-937c-d9746b98a22f@45.142.112.30:45565/?insecure=1
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?insecure=0&sni=152-69-231-175.liao.kdns.fr#%E5%92%95
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?insecure=0&sni=152-69-231-175.liao.kdns.fr#%E5%92%95%202
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?insecure=0&sni=152-69-231-175.liao.kdns.fr#%E5%92%95%203
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?insecure=0&sni=152-69-231-175.liao.kdns.fr#%E5%92%95%204
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#%E5%92%95
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#4Sarina-6ec27ba618
 hysteria2://2a3b101d-d8f9-40e7-9373-b0ef487c0035@46.8.210.129:22443?sni=disk.api-yandex.net#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B%2ACIDR%5D
-hysteria2://2a3b101d-d8f9-40e7-9373-b0ef487c0035@46.8.210.129:22443?sni=disk.api-yandex.net&alpn=h3#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%5B%2ACIDR%5D
 hysteria2://2a3b101d-d8f9-40e7-9373-b0ef487c0035@46.8.210.152:23443?sni=disk.api-yandex.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 hysteria2://2a3b101d-d8f9-40e7-9373-b0ef487c0035@46.8.210.152:23443?sni=disk.api-yandex.net&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 hysteria2://319ed24b1c7203aa@tishina-axe.dedyn.io:8443?alpn=h3&insecure=1&sni=tishina-axe.dedyn.io#%F0%9F%87%AA%F0%9F%87%AA_EE_%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A
@@ -33,6 +33,7 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.7:8443?sni=hopp-ger
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.8:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com&obfs=&obfs-password=#%F0%9F%87%A9%F0%9F%87%AADE_4%7C3.4MB/s
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.8:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com&obfs=&obfs-password=#4Kian-af58b96068
 hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?insecure=1#4Sarina-5c114ca264
+hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?insecure=1&sni=hys28.wba-pn.ru#@OutlineReleasedKey
 hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1&sni=hys13.wba-pn.ru#4Jadi-9adb40c746
 hysteria2://EkF2Yw0Lc7@hys34.wba-pn.ru:443?insecure=1&sni=hys34.wba-pn.ru#4Sarina-46b226ee1e
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@193.41.5.243:8443/?insecure=1&sni=hy2-germany.unlimited-access.ru#🇩🇪 Rose—11
@@ -71,13 +72,11 @@ hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.c
 hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#🇰🇿 Rose—39
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1#RU_1%7C2.7MB%2Fs
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1#RU_1%7C2.7MB%2Fs%203
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1#_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 hysteria2://f89c89df-905c-4df3-ab07-4f1a37a81005@api.fastline-labs.com:443?sni=api.fastline-labs.com#🇩🇪DE_3|1.3MB/s|GPT⁺|NF|10%
 hysteria2://f89c89df-905c-4df3-ab07-4f1a37a81005@status.fastline-labs.com:443?sni=status.fastline-labs.com#🇩🇪DE_1|3.3MB/s|GPT⁺|YT-DE|NF|10%
 hysteria2://fa1b99c89b5479752ae95af92a79e833@89.124.86.136:1443?insecure=0&sni=fast.patrik-service.com#%F0%9F%87%AA%F0%9F%87%BA%20%40V2_MOD_SHOP
-hysteria2://fa1b99c89b5479752ae95af92a79e833@89.124.86.136:1443?security=tls&insecure=0&sni=fast.patrik-service.com#🇪🇺
 hysteria2://fdd503fe-9cef-4c91-948a-8149a7c8a2d2@ru.xiaoliyu.cyou:4433?insecure=1&sni=ru.xiaoliyu.cyou#%F0%9F%87%B7%F0%9F%87%BA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E4%BF%84%E7%BD%97%E6%96%AF%2002
 hysteria2://github.com/Alvin9999-newpac/fanqiang@178.18.147.66:29900?insecure=1&amp;sni=www.microsoft.com#🇳🇱NL_1|2.9MB/s|GPT⁺|YT-RU|NF|D+|0%
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.231:8080/?sni=hopp-legend-se.roxa.org#🇵🇱 Rose—14
