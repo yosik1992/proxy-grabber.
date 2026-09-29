@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@18.158.32.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6395][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
 trojan://telegram-id-privatevpns@18.168.161.11:22222?sni=trojan.miwan.co.uk#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://telegram-id-privatevpns@18.168.233.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#t.me%2FConfigsHub
 trojan://telegram-id-privatevpns@18.168.239.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[6396][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
