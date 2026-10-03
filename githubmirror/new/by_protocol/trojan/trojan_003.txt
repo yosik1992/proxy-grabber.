@@ -1,12 +1,3 @@
-trojan://telegram-id-privatevpns@18.132.35.140:22222?security=tls&sni=trj.rollingnext.co.uk#[6166][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
-trojan://telegram-id-privatevpns@18.132.35.140:22222?security=tls&sni=trj.rollingnext.co.uk#[6167][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
-trojan://telegram-id-privatevpns@18.132.92.245:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-18.132.92.245-0206
-trojan://telegram-id-privatevpns@18.132.99.188:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#[6168][GB][0][TROJAN][None][Hope_Net][2026-09-16][2026-10-01 02:49]
-trojan://telegram-id-privatevpns@18.132.99.188:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[6169][GB][0][TROJAN][None][Hope_Net][2026-09-17][2026-10-01 02:49]
-trojan://telegram-id-privatevpns@18.133.145.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S405)
-trojan://telegram-id-privatevpns@18.133.94.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#VMESS_VLESS_PRO+%7C+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C
-trojan://telegram-id-privatevpns@18.134.188.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 826
-trojan://telegram-id-privatevpns@18.134.211.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 784
 trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#4Jadi-e6fb33d7a7
 trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#[6170][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
 trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#[6171][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
@@ -246,7 +237,7 @@ trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?headerType=http&host=www.upwor
 trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?security=none&amp;host=www.upwork.com&amp;headerType=http&amp;type=tcp#@v2ray313 کانالمون❤️
 trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?security=none&host=www.upwork.com&headerType=http&type=tcp#4FreeIran-439834e05f
 trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?security=none&host=www.upwork.com&headerType=http&type=tcp#EPODONIOS
-trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?type=raw&headerType=http&host=www.upwork.com&path=%2F&security=none#[🇨🇭] [tr-no-ra] [261003-090827.388]
+trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?type=raw&headerType=http&host=www.upwork.com&path=%2F&security=none#[🇨🇭] [tr-no-ra] [261003-152704.100]
 trojan://vip@www.gov.se:443/?type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#[6387][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
 trojan://vmRtExJrt6@51.195.255.103:8443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=uk-03.allhubb.info#[6392][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
 trojan://your_password@15.236.64.14:443?security=tls&sni=aws-fr-paris-1.f1rocketnode.com&type=tcp#4FreeIran-a56c6cbab0
