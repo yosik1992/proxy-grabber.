@@ -1,3 +1,4 @@
+trojan://f5a45b77-2e79-4ca2-b271-aaac65bb45cc@gdct003.theyydsnode.top:24662?allowInsecure=1&peer=uk01.ckcloud.info&sni=uk01.ckcloud.info#JCBB_%20%E8%8B%B1%E5%9B%BD03%E3%80%90vip1%E3%80%91
 trojan://f5b40770-df43-40fc-b7de-e2f65371e6e6@91.195.240.12:443?security=tls&sni=data-jp.efyunpan.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://f5b40770-df43-40fc-b7de-e2f65371e6e6@91.195.240.12:443?security=tls&sni=data-us.efyunpan.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://f62b3d55-66e5-4a2e-9ddc-a294bbce7b13@58.16.188.36:233?security=tls&sni=inf-uk1.qchwnd.moe#[4662][CN][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
@@ -19,10 +20,12 @@ trojan://humanity@185.255.179.166:443?allowInsecure=0&sni=www.calmlunch.com&type
 trojan://humanity@185.255.179.166:443?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#[🇫🇷] [tr-tl-ws] [261004-011202.832]
 trojan://humanity@188.114.97.6:443?path=/assignment&amp;security=tls&amp;fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104"]},"type":"fragment"}]}&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#🇳🇱%
 trojan://humanity@188.114.97.6:443?path=/assignment&amp;security=tls&amp;fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104"]},"type":"fragment"}]}&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#🇳🇱@FreakConfig
+trojan://humanity@188.114.97.6:443?path=/assignment&amp;security=tls&amp;fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"}}]}&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#🇳🇱@FreakConfig
 trojan://humanity@188.114.97.7:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs+udp://8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#@FreeStrongVpn - 🇩🇪
 trojan://humanity@188.114.97.7:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs+udp://8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
 trojan://humanity@188.114.97.7:443?path=/assignment?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;security=tls&amp;insecure=0&amp;ech=ip.gs+udp://8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
 trojan://humanity@188.42.145.180:443?allowInsecure=1&sni=www.volumeroot.com&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#%F0%9F%87%B3%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20trojan-NL-...
+trojan://humanity@188.42.145.180:443?allowInsecure=1&sni=www.volumeroot.com&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#🇳🇱[openproxylist.com] trojan-NL
 trojan://humanity@188.42.145.180:443?path=/assignment&amp;security=tls&amp;alpn=http/1.1&amp;host=www.volumerOot.coM.&amp;fp=chrome&amp;type=ws&amp;sni=wWw.Volumeroot.cOm.#[] 🇳🇱
 trojan://humanity@188.42.145.180:443?path=/assignment&amp;security=tls&amp;alpn=http/1.1&amp;host=www.volumeroot.com&amp;fp=chrome&amp;type=ws&amp;sni=www.volumeroot.com#[] 🇳🇱
 trojan://humanity@188.42.145.180:443?path=/assignment&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=www.volumeroot.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.volumeroot.com#@FreeStrongVpn - 🇳🇱
@@ -495,6 +498,3 @@ trojan://telegram-id-privatevpns@16.171.108.14:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@16.171.203.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣2️⃣
 trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-db0035bee9
 trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#[6160][SE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
-trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#[6161][SE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
-trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#[6162][SE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
-trojan://telegram-id-privatevpns@176.34.168.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣4️⃣
