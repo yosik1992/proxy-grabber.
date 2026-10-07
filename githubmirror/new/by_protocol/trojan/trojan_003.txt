@@ -1,3 +1,13 @@
+trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#[6340][SE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#[6341][SE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+trojan://telegram-id-privatevpns@13.50.27.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 580
+trojan://telegram-id-privatevpns@13.51.103.168:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.51.103.168-2082
+trojan://telegram-id-privatevpns@13.51.180.91:22222?security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=trojan.burgerip.co.uk#@v2ray_youtube
+trojan://telegram-id-privatevpns@13.53.179.45:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4FreeIran-3d4ee4f804
+trojan://telegram-id-privatevpns@13.53.179.45:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#[6342][SE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+trojan://telegram-id-privatevpns@13.53.247.202:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#[6343][SE][0][TROJAN][None][Hope_Net][2026-09-17][2026-10-04 03:10]
+trojan://telegram-id-privatevpns@15.188.133.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 555
+trojan://telegram-id-privatevpns@15.188.153.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[6344][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 trojan://telegram-id-privatevpns@15.188.182.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-d9b2c192e9
 trojan://telegram-id-privatevpns@15.188.224.58:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.188.224.58-0874
 trojan://telegram-id-privatevpns@15.188.227.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 16
