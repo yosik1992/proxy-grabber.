@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5000#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5001#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5600#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5600#%F0%9F%87%AB%F0%9F%87%B7_%E6%B3%95%E5%9B%BD_VV%E7%A7%91%E6%8A%80_19
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5601#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:8888#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:8888#%F0%9F%87%AB%F0%9F%87%B7_%E6%B3%95%E5%9B%BD_VV%E7%A7%91%E6%8A%80_52
@@ -76,6 +80,7 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#%F0%9F%87%B5%F0%9F%8
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#Helionix%20_%20%F0%9F%87%B5%F0%9F%87%B1Poland%2057
 ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.45.31:10991#🇷🇺 4@shadowsockskeys
+ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.45.31:20880#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20%7C%20RUS
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.204:10901#%F0%9F%87%AE%F0%9F%87%B9IT-194.87.47.204-0642
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.92:10901#] 🇮🇹 IT-10901
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@145.239.1.100:9101#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
@@ -202,7 +207,7 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:443#Helionix%20_%20%F0%9
 ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA==@141.227.134.63:17000#%F0%9F%87%AB%F0%9F%87%B7FR-141.227.134.63-0580
 ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA==@206.189.52.4:17000#%F0%9F%87%A9%F0%9F%87%AADE-206.189.52.4-0583
 ss://YWVzLTI1Ni1nY206dnE3WDFTNTJDNg==@65.109.142.16:8443#%F0%9F%87%AB%F0%9F%87%AEFI-65.109.142.16-2879
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#@Vip_Security join us - 340
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#@Vip_Security join us - 306
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#[11304][CA][0][SS][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.51:6379#4Kian-1523161019
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.85:6379#%E5%8A%A0%E6%8B%BF%E5%A4%A7_VV%E7%A7%91%E6%8A%80_95
@@ -231,7 +236,7 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@145.239.1.100:6379#[11313][DE][0][SS][
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@145.239.1.100:6379#[11314][DE][0][SS][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@145.239.6.202:445#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@145.239.6.202:6379#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#@Vip_Security join us - 341
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#@Vip_Security join us - 307
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#Channel+id:+@ShadowProxy66🇨🇵
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#Helionix%20_%20%F0%9F%87%AB%F0%9F%87%B7France%2029
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#[11315][FR][0][SS][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
@@ -272,7 +277,7 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.188.71:6379#[11330][NL][0][SS][
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.188.99:6379#4Nika-770fd6a3f7
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.188.99:6379#[11331][NL][0][SS][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.188.99:6379#[11332][NL][0][SS][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.158:445#@Vip_Security join us - 342
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.158:445#@Vip_Security join us - 308
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.158:445#[11333][GB][0][SS][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.61:6379#4Nika-8f676feb77
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@172.99.190.61:6379#[11334][GB][0][SS][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
@@ -395,7 +400,7 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.90:6379#4Kian-ad66dd42d4
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.90:6379#[11388][CA][0][SS][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.90:6379#[11389][CA][0][SS][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@ak1840.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:6379#4Mohsen-9ae796975f
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDExOC4xMDcuMjQ0LjExMzo0NDU=#@Vip_Security join us - 343
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDExOC4xMDcuMjQ0LjExMzo0NDU=#@Vip_Security join us - 309
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDExOC4xMDcuMjQ0LjExMzo0NDU=#[11390][HK][0][SS][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
 ss://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=nl57.vlessx.us&amp;fp=chrome&amp;type=ws&amp;sni=nl57.Vlessx.us#%F0%9F%87%B3%F0%9F%87%B1+%40V2rayN_Free
 ss://a3542b81-4113-46b6-b08f-22fa8cc70a52@facelessvoid.uk:38603?security=reality&amp;encryption=none&amp;pbk=FiF3ZsKECcn5Ru4WVCJIGb6J9bJGxfdXgHaxbaouAxo&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=discord.com&amp;sid=a9ac7ed3#%40VPN_OCEAN
@@ -493,8 +498,3 @@ ss://bbb7910f-3005-225f-3fe1-6cce2dff2d60@87.229.100.157:80/?type=ws&amp;encrypt
 ss://bbbeae7c-13df-498b-8ba3-298c17e3b4bc@been.serv00.net:29229?encryption=none&amp;security=tls&amp;type=ws&amp;sni=been.serv00.net&amp;host=been.serv00.net&amp;path=%2f#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%E6%B3%A2%E5%85%B0%2011
 ss://bc76d157-a4cf-4706-91a7-98a0548b3685@171.25.158.148:443?security=reality&amp;encryption=none&amp;pbk=knjyzZZ389On4vmhE4VYSMJ5fe3k8QiJkPE4YXY-SDY&amp;host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&amp;headerType=none&amp;fp=safari&amp;spx=%2F&amp;type=tcp&amp;sni=seser.krusofiya.fun&amp;sid=5bdb6f716289adb2#[12354][SE][0][SS][None][marambashi][2026-09-30][2026-10-07 03:02]
 ss://bd17023e-3d45-4625-996e-4864e1f2ac78@5.75.240.193:443/?type=grpc&amp;encryption=none&amp;serviceName=%40VPNCUSTOMIZE&amp;sni=www.iranserver.com&amp;fp=random&amp;security=reality&amp;pbk=qrWdM7lRUSiZgZW-sohUHuZVimTyjdGXejTnMUu_kWs&amp;sid=4c226372#[12362][UnResolvedDomains][0][SS][None][Capital_NET][2023-09-02][2026-10-07 03:01]
-ss://bd17023e-3d45-4625-996e-4864e1f2ac78@5.75.240.193:443/?type=grpc&amp;encryption=none&amp;serviceName=%40VPNCUSTOMIZE&amp;sni=www.iranserver.com&amp;fp=random&amp;security=reality&amp;pbk=qrWdM7lRUSiZgZW-sohUHuZVimTyjdGXejTnMUu_kWs&amp;sid=4c226372#[12363][UnResolvedDomains][0][SS][None][Capital_NET][2023-09-02][2026-10-07 03:02]
-ss://be3c103d-2c93-4f8e-adb9-2631537f80eb@de57.tranzit-net.ru:443?security=reality&amp;encryption=none&amp;pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=d.tranzit-net.ru#[12414][UnResolvedDomains][0][SS][None][Outline_Vpn][2026-08-31][2026-10-07 03:01]
-ss://be3c103d-2c93-4f8e-adb9-2631537f80eb@de57.tranzit-net.ru:443?security=reality&amp;encryption=none&amp;pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=d.tranzit-net.ru#[12415][UnResolvedDomains][0][SS][None][Outline_Vpn][2026-08-31][2026-10-07 03:02]
-ss://bf3303bd-17ee-4508-bf01-14c378802e61@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=cdn-uk.fxcdn.ir&amp;type=ws&amp;allowInsecure=1&amp;sni=cdn-uk.fxcdn.ir#[12441][US][0][SS][None][DarkVPNpro][2026-01-21][2026-10-07 03:01]
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@94.159.102.107:8443#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
