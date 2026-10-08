@@ -1,3 +1,12 @@
+trojan://telegram-id-privatevpns@35.157.117.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4FreeIran-56c21cac46
+trojan://telegram-id-privatevpns@35.157.166.126:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Jadi-a8e42b47b0
+trojan://telegram-id-privatevpns@35.158.18.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Jadi-57ac3c1133
+trojan://telegram-id-privatevpns@35.158.218.34:22222?security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1&type=tcp#%F0%9F%87%A9%F0%9F%87%AA_DE_572
+trojan://telegram-id-privatevpns@35.158.230.241:22222?security=tls&amp;alpn=http/1.1&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.176.9.232:22222?type=tcp&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
+trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-aaba1e7040
+trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=trj.rollingnext.co.uk#[3948][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
+trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=trj.rollingnext.co.uk#[3949][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
 trojan://telegram-id-privatevpns@35.178.209.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 612
 trojan://telegram-id-privatevpns@35.179.34.56:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
 trojan://telegram-id-privatevpns@35.180.16.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Nika-1c00a8ff7d
@@ -6,7 +15,6 @@ trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollin
 trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollingnext.co.uk#[3950][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
 trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollingnext.co.uk#[3951][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
 trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollingnext.co.uk#[3952][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
-trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.36.215-0976
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#4Mohsen-b51acc35e9
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#[3953][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#[3954][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
