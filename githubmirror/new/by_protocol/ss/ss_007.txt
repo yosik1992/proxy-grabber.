@@ -1,8 +1,3 @@
-ss://bd17023e-3d45-4625-996e-4864e1f2ac78@5.75.240.193:443/?type=grpc&amp;encryption=none&amp;serviceName=%40VPNCUSTOMIZE&amp;sni=www.iranserver.com&amp;fp=random&amp;security=reality&amp;pbk=qrWdM7lRUSiZgZW-sohUHuZVimTyjdGXejTnMUu_kWs&amp;sid=4c226372#[12363][UnResolvedDomains][0][SS][None][Capital_NET][2023-09-02][2026-10-07 03:02]
-ss://be3c103d-2c93-4f8e-adb9-2631537f80eb@de57.tranzit-net.ru:443?security=reality&amp;encryption=none&amp;pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=d.tranzit-net.ru#[12414][UnResolvedDomains][0][SS][None][Outline_Vpn][2026-08-31][2026-10-07 03:01]
-ss://be3c103d-2c93-4f8e-adb9-2631537f80eb@de57.tranzit-net.ru:443?security=reality&amp;encryption=none&amp;pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=d.tranzit-net.ru#[12415][UnResolvedDomains][0][SS][None][Outline_Vpn][2026-08-31][2026-10-07 03:02]
-ss://bf3303bd-17ee-4508-bf01-14c378802e61@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=cdn-uk.fxcdn.ir&amp;type=ws&amp;allowInsecure=1&amp;sni=cdn-uk.fxcdn.ir#[12441][US][0][SS][None][DarkVPNpro][2026-01-21][2026-10-07 03:01]
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@94.159.102.107:8443#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
 ss://bm9uZTpodHRwcw@90.156.211.232:8443#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29
 ss://c0e8fb58-a60f-4c15-9444-4e7c109797a8@fast.jkerm.com:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=italyji.global.ssl.fastly.net.&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#[12555][US][0][SS][None][FreakConfig][2026-10-03][2026-10-07 03:01]
 ss://c0e8fb58-a60f-4c15-9444-4e7c109797a8@fast.jkerm.com:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=italyji.global.ssl.fastly.net.&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#[12556][US][0][SS][None][FreakConfig][2026-10-03][2026-10-07 03:02]
@@ -48,11 +43,9 @@ ss://ceae186b-1e60-4a64-9d52-200a63ef946b@CDN.user.com:2087?mode=gun&amp;securit
 ss://chacha20-ietf-poly1305:Ps4MSc9PUejUkW3E@68.219.211.88:443#EPODONIOS
 ss://chacha20-ietf-poly1305:Ps4MSc9PUejUkW3E@68.219.211.88:443#[13168][IE][0][SS][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
 ss://chacha20-ietf-poly1305:Ps4MSc9PUejUkW3E@68.219.211.88:443#[13169][IE][0][SS][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.23.32:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.23.32-1571
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.18-1583
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0190
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0701
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#%F0%9F%87%AC%F0%9F%87%A7GB-169.150.210.233-1636
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0716
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#%F0%9F%87%AC%F0%9F%87%A7GB-169.150.210.233-1469
 ss://d03d8815-a06f-408f-a62f-6c84869b96a9@elegant-corporation.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#[13242][UnResolvedDomains][0][SS][None][v2rayngvp][2025-08-10][2026-10-07 03:02]
 ss://d0e2ae3e-0be7-4dcf-9abb-dcc82aabc076@germany2.avrilon.us:443?security=reality&amp;encryption=mlkem768x25519plus.native.0rtt.IU93_zTVl-948HR94z9259IKoTU_qSM_0ttmIUamVh8&amp;pbk=rA_ItMaIiG_OUjcaTLpxOoF-OHh4WJsNUfWh7QUn_xU&amp;headerType=none&amp;fp=chrome&amp;spx=%2F0147b059b8565c5&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=qapartners.sec.samsung.com&amp;sid=0a3ff4a7#[13257][UnResolvedDomains][0][SS][None][nofiltering2][2026-07-22][2026-10-07 03:02]
 ss://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?security=reality&amp;encryption=none&amp;pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F42618003b1db127&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=origin.vpnoodles.ru&amp;sid=4af4102cb26e59#[13259][US][0][SS][None][v2rayNG_Matsuri][2026-10-02][2026-10-07 03:02]
