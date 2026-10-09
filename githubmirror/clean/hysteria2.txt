@@ -10,7 +10,7 @@ hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@177.1.195.242:24000?security=tl
 hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&amp;obfs=salamander&amp;obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&amp;insecure=0&amp;mport=21000-21999&amp;sni=hy.kirian.su#🇫🇮@FreakConfig
 hysteria2://81d953a0-f0cf-4452-a669-747d32efd6c1@78.17.53.9:26000?insecure=0&sni=hy.kirian.su&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5#%F0%9F%87%B3%F0%9F%87%B1190450%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#🇨🇭 Rose—33
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@157.228.69.91:27313?sni=spainspeedboostjbl88.qcloud.surf#
+hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@157.228.69.91:27313?insecure=1&sni=spainspeedboostjbl88.qcloud.surf#
 hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@mai.song69.fun:20270/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=#@GozargahAzad|🇩🇪
 hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@spainspeedboostjbl88.qcloud.surf:27313?alpn=h3&sni=spainspeedboostjbl88.qcloud.surf#
 hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?insecure=0&sni=gift-catalog.aroonia.ir&obfs=salamander&obfs-password=6cmj1dymhm79hopl#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%A9%F0%9F%87%AA
@@ -25,7 +25,7 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.40:8443?sni=hop-ger
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.40:9443?sni=hop-germany-september.dynuddns.com#
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.41:8443?sni=hop-germany-september.dynuddns.com#
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.41:9443/?sni=hop-germany-september.dynuddns.com#%E2%9C%88%EF%B8%8F45@oneclickvpnkeys
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.42:9443/?sni=hop-germany-september.dynuddns.com#✈️64@oneclickvpnkeys
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.42:9443/?sni=hop-germany-september.dynuddns.com#
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.6:8443?sni=hopp-germany-new.ddnsguru.com#4Sarina-4f952978eb
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.7:8443?sni=hopp-germany-new.ddnsguru.com#4FreeIran-73093ad6e4
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.8:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com#4Mohsen-3c61dae949
