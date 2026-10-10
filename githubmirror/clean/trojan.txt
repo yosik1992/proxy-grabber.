@@ -205,10 +205,8 @@ trojan://UX82473651@3.253.106.233:443?security=tls&sni=loved-shark.rooster465.au
 trojan://UX82473651@3.75.93.113:443?security=tls&sni=meet-goshawk.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-3.75.93.113-2193
 trojan://UX82473651@34.242.77.118:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.77.118-2044
 trojan://UX82473651@63.178.198.94:443?security=tls&sni=pleased-albacore.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-63.178.198.94-1546
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1&sni=adapting-basilisk.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%20%7C%20IRL
-trojan://UX82473651@enabling-snipe.rooster465.autos:443?allowInsecure=1&sni=enabling-snipe.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20%E6%B3%A2%E5%85%B0%20%7C%20POL
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1&sni=adapting-basilisk.rooster465.autos#🇮🇪[openproxylist.com] trojan-IE
 trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0197
-trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1&sni=master-possum.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%20%7C%20IRL
 trojan://UX82473651@meet-goshawk.rooster465.autos:443?security=tls&sni=meet-goshawk.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-3.75.93.113-0167
 trojan://UX82473651@pleased-albacore.rooster465.autos:443?security=tls&sni=pleased-albacore.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-63.178.198.94-0164
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.77.118-0237
@@ -265,10 +263,12 @@ trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:59832?security=tls
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd02.jcnode.top:36403?security=tls&sni=uk01.ckcloud.info#4Sarina-921be68ee9
 trojan://f5a45b77-2e79-4ca2-b271-aaac65bb45cc@gdct002.theyydsnode.top:44532?allowInsecure=1&peer=uk01.ckcloud.info&sni=uk01.ckcloud.info#JCBB_%20%E8%8B%B1%E5%9B%BD01%E3%80%90vip1%E3%80%91
 trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443?security=tls&type=grpc&serviceName=grpcbeast&path=%2f#%f0%9f%87%a8%f0%9f%87%bf%20CZ%201
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?allowInsecure=0#🇩🇪[openproxylist.com] trojan-DE
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-194.87.6.192-2242
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?type=tcp&security=tls&sni=pol2.fytpn.com&fp=chrome#🇵🇱[openproxylist.com] trojan-PL
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@stoniy.fytpn.com:2097?type=tcp&security=tls&sni=stoniy.fytpn.com&fp=chrome#🇪🇪[openproxylist.com] trojan-EE
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?sni=pol2.fytpn.com#🇵🇱[openproxylist.com] trojan-PL
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@stoniy.fytpn.com:2097?sni=stoniy.fytpn.com#🇪🇪[openproxylist.com] trojan-EE
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443/?type=ws&host=uk1.bw8848.org&path=%2Fuk1-uk1-gcjtze&security=tls&sni=uk1.bw8848.org#[2588][GB][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-07][2026-10-07 03:02]
+trojan://humanity@104.18.35.86:443?allowInsecure=1&sni=www.volumerOot.coM.&alpn=http/1.1&type=ws&host=www.volumerOot.coM.&path=/assignment#🇳🇱[openproxylist.com] trojan-NL
 trojan://humanity@141.193.213.172:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;ech=ip.gs+udp://8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#🇫🇷@FreakConfig
 trojan://humanity@172.64.145.133:443?path=/assignment&amp;security=tls&amp;fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"},"type":"fragment"},{"settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"},"type":"fragment"}]}&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#🇩🇪ConfigV2RayNG
 trojan://humanity@172.67.149.60:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;ech=ip.gs+udp://8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#✨ @NOFiLTERING2 | ❤️ وصل شدی جوین شو | ⚡ | 🇩🇪
