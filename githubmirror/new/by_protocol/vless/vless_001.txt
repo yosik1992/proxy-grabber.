@@ -295,7 +295,9 @@ vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&s
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#******-@SPEEDS_VPN
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#******-@SPEEDS_VPN`
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?security=none&allowInsecure=0&encryption=none&type=ws&path=/# By EbraSha
-vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?sni=co-pl.speedtec.ru&flow=xtls-rprx-vision&fp=random&security=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...
+vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=tls&encryption=none&insecure=0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=random&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=co-pl.speedtec.ru#%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA
+vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?sni=co-pl.speedtec.ru&flow=xtls-rprx-vision&fp=random&security=tls#%F0%9F%87%B5%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vless-PL-1...%20%231
+vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?sni=co-pl.speedtec.ru&flow=xtls-rprx-vision&fp=random&security=tls#🇵🇱[openproxylist.com]vless-PL
 vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@co-a.speedtec.ru:443?flow=xtls-rprx-vision&security=reality&sni=co-pl.speedtec.ru&fp=random&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&type=raw#
 vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@109.248.162.239:43630/?type=tcp&encryption=none&flow=#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29%20%2814%29
 vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&host=JOIN_BEDE_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#
@@ -496,5 +498,3 @@ vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?path=%2F&security=
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=germany-2.ariyuz.org&fp=chrome&type=ws&allowInsecure=0&sni=germany-2.ariyuz.org#@netishield 130
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?security=tls&type=ws&path=%2F&host=germany-2.ariyuz.org&sni=germany-2.ariyuz.org&alpn=http%2F1.1# By EbraSha
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?security=tls&type=ws&path=%2F&host=germany-2.ariyuz.org&sni=germany-2.ariyuz.org&alpn=http%2F1.1#[687][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?security=tls&type=ws&path=/&host=germany-2.ariyuz.org&alpn=http/1.1&sni=germany-2.ariyuz.org&fp=chrome# By EbraSha
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?security=tls&type=ws&path=/&host=germany-2.ariyuz.org&alpn=http/1.1&sni=germany-2.ariyuz.org&fp=chrome#//Russia/St Petersburg
