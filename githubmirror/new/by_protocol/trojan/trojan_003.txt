@@ -1,3 +1,5 @@
+trojan://telegram-id-privatevpns@35.181.111.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-ad9895b0db
+trojan://telegram-id-privatevpns@35.181.165.132:22222?security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1&type=tcp#%F0%9F%87%AB%F0%9F%87%B7_FR_586
 trojan://telegram-id-privatevpns@35.181.185.130:22222?security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1&type=tcp#%F0%9F%87%AB%F0%9F%87%B7_FR_606
 trojan://telegram-id-privatevpns@35.181.195.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#4Sarina-34f3d6a2ba
 trojan://telegram-id-privatevpns@35.181.222.101:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#4Nika-918c757fb0
