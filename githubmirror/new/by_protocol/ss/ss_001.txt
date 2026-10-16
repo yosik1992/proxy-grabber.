@@ -79,7 +79,6 @@ ss://2022-blake3-aes-256-gcm:ZcCRjkOp3bU/v5IYz6Nim06Su+sPb5/aJNLt2k4oYQ0=:CC0Z4E
 ss://2022-blake3-aes-256-gcm:ZcCRjkOp3bU/v5IYz6Nim06Su+sPb5/aJNLt2k4oYQ0=:CC0Z4Ea4klE344uFO8tMg6mokBidjnzAZsmc0Kp/Sak=@31.57.185.253:18724?type=tcp#[923][US][0][SS][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
 ss://2022-blake3-aes-256-gcm:rrR97O6JIRzSRG8uHimVCgLEssjipthiC4Hlieq%2F4%2Fw=%3AB+gmrP1txQliTTw0NNVoHZ+wjNAL3nKHZopLtqlEAnI=@65.109.215.50:13049#🇫🇮 Rose—92
 ss://2022-blake3-chacha20-poly1305:MKzw1HxJdrY1+Pm12sIuiKt277hbryrPFKlSVTBWyMY=@134.98.147.129:45819#🇳🇱 Rose—91
-ss://2022-blake3-chacha20-poly1305:qcbhYjOYL+wy0N69cPyPDZMaCLix6L/5XD1HrCZlZiA=@130.61.232.82:59924#🇩🇪DE_2|1.4MB/s|GPT⁺|NF|5%
 ss://20ef7310-0b50-4943-98a6-3d0856b383b1@api.ferrin.uk:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=api.ferrin.uk&amp;type=xhttp&amp;allowInsecure=0&amp;sni=20ef7310.ferrin.uk#[957][NL][0][SS][None][free1_vpn][2026-10-07][2026-10-16 01:58]
 ss://20ef7310-0b50-4943-98a6-3d0856b383b1@api.ferrin.uk:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=api.ferrin.uk&amp;type=xhttp&amp;allowInsecure=0&amp;sni=20ef7310.ferrin.uk#[958][GB][0][SS][None][v2ray1_ng][2026-10-07][2026-10-16 01:58]
 ss://20ef7310-0b50-4943-98a6-3d0856b383b1@us.vmagnum.win:443?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=us.vmagnum.win&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=20ef7310.ferrin.uk#[959][US][0][SS][None][free1_vpn][2026-10-07][2026-10-16 01:58]
@@ -457,7 +456,6 @@ ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmtZa2VaUk5
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmtZa2VaUk5vL1VyeE1HeGtKWHRoMGc9PQ@95.38.68.148:2089#[4900][IR][0][SS][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmtZa2VaUk5vL1VyeE1HeGtKWHRoMGc9PQ@95.38.68.148:2089#[4901][IR][0][SS][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmtZa2VaUk5vL1VyeE1HeGtKWHRoMGc9PQ@95.38.68.148:2089#[4902][IR][0][SS][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmtZa2VaUk5vL1VyeE1HeGtKWHRoMGc9PQ@95.38.68.148:2089#🇫🇮@FreakConfig
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU1uWVN1Z3c2RHAvcjRISWhvUmtvUUk2ak0zU3dMOStpN0dOUkx4QldIbz06bEVFaG1hUHlKQ0ZKU2M3SWxGMTIwYyt0b1dVbFFOdGVnbXpTd1MvTC8vcz0@80.91.86.179:1070#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2885%29
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU1uWVN1Z3c2RHAvcjRISWhvUmtvUUk2ak0zU3dMOStpN0dOUkx4QldIbz06bEVFaG1hUHlKQ0ZKU2M3SWxGMTIwYyt0b1dVbFFOdGVnbXpTd1MvTC8vcz0@80.91.86.179:1070#[4926][US][0][SS][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WEh0ZHl3VVhUV1gwOGM0dThkdGt3S2NuQ09hY1d6ci9DSmsrc1IwTE5uND0=@65.109.239.15:443#رایگان | SS | @VmessProtocol | FI🇫🇮 | 0️⃣2️⃣
@@ -498,3 +496,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VXlWY3g0allyY2JGd21oUGtoemlt@95.164.89.142:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VXlWY3g0allyY2JGd21oUGtoemlt@95.164.89.142:58603#رایگان | SS | @FAKEOFTVC | DE🇩🇪 | 0️⃣1️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGIzNGFkNy0zZjFlLTRhNzktYjA3OC0yZTU2MzIxZTRmZGU=@216.107.21.231:158#%F0%9F%87%AA%F0%9F%87%B8ES-216.107.21.231-5132
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cURubHp4ZWVQcnBWR3BrbG5zSENJ@13.87.75.163:21176#Channel+id:+@ShadowProxy66🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTJkZjJiYi05ZWVmLTQzNzItOTA0YS0zMjQ3NjA5NTJjZmE@130.61.25.32:22302#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@172.233.142.162:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20,%20Amsterdam
