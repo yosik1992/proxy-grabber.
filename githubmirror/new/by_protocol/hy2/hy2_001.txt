@@ -61,6 +61,7 @@ hy2://Telegram:%40v_2ra_y@128.140.100.144:7255?obfs=salamander&obfs-password=Tel
 hy2://Telegram:%40v_2ra_y@[2a01:4f8:1c1e:c388::1]:7255?insecure=1&sni=fast.com&obfs=salamander&obfs-password=Telegram%3A%40v_2ra_y#🔒 HYSTERIA-UDP 🇩🇪 DE-[2a01:4f8:1c1e:c388::1]:7255 📡 PING-000.00-MS
 hy2://Telegram:%40v_2ra_y@[2a01:4f8:1c1e:c388::1]:7255?obfs=salamander&obfs-password=Telegram%3A%40v_2ra_y&insecure=1&sni=fast.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-[2a01:4f8:1c1e:c388::1]:7255%20%F0%9F%93%A1%20PING-000.00-MS
 hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443/?insecure=1&amp;sni=google.com#Hysteria 🇳🇱 @v2meowcf
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%92%AB62%40oneclickvpnkeys
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#4FreeIran-aeb2b9e482
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#4Mohsen-bac977394b
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#4Kian-672391b43a
@@ -109,6 +110,7 @@ hy2://f40b1e441addaec3@hys.cpionline.co:443?insecure=1&sni=google.co&obfs=salama
 hy2://prlD*e!1b3Yipr$D795%3F@140.82.33.237:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=prlD*e%211b3Yipr%24D795%3F#%40EUT_VPN%20%7CHYSTERIA%7C%20%0ALOCATION%3A%20Germany%20%7C%F0%9F%87%A9%F0%9F%87%AA%7C
 hy2://prlD*e!1b3Yipr$D795%3F@140.82.33.237:443?insecure=1&sni=google.com&obfs=salamander&obfs-password=prlD*e%211b3Yipr%24D795%3F#🔒 HYSTERIA-UDP 🇩🇪 DE-140.82.33.237:443 📡 PING-000.00-MS
 hy2://prlD*e!1b3Yipr$D795%3F@140.82.33.237:443?obfs=salamander&obfs-password=prlD*e%211b3Yipr%24D795%3F&insecure=1&sni=google.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A9%F0%9F%87%AA%20DE-140.82.33.237:443%20%F0%9F%93%A1%20PING-000.00-MS
+hy2://rstnnl2705:56Uhk1CcaR5mCmGpaN0AsOAmRscZSIaM@musicclips.videolinks.ru:8443/?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw#%F0%9F%94%8A58%40oneclickvpnkeys
 hy2://w9QUthomlprocHo@136.244.112.121:443/?insecure=1&sni=www.google.com#%40EUT_VPN%20%7CHYSTERIA%7C%20%0ALOCATION%3A%20France%20%7C%F0%9F%87%A8%F0%9F%87%B5%7C
 hy2://w9QUthomlprocHo@136.244.112.121:443?insecure=1&sni=www.google.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AB%F0%9F%87%B7%20FR-136.244.112.121:443%20%F0%9F%93%A1%20PING-000.00-MS
 hy2://w9QUthomlprocHo@136.244.112.121:443?insecure=1&sni=www.google.com#🔒 HYSTERIA-UDP 🇫🇷 FR-136.244.112.121:443 📡 PING-080.10-MS
