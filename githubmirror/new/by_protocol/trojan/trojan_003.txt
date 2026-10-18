@@ -1,3 +1,9 @@
+trojan://telegram-id-privatevpns@35.180.16.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Nika-1c00a8ff7d
+trojan://telegram-id-privatevpns@35.180.175.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-8738a7a618
+trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollingnext.co.uk#4Nika-28527919a8
+trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollingnext.co.uk#[4049][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
+trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollingnext.co.uk#[4050][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
+trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#4Mohsen-b51acc35e9
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#[4051][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#[4052][FR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
 trojan://telegram-id-privatevpns@35.181.111.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-ad9895b0db
@@ -51,9 +57,10 @@ trojan://telegram-id-privatevpns@63.184.244.52:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@99.81.90.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 402
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?#🇳🇱[openproxylist.com] trojan-NL
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-78.17.171.62-0063
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?security=tls&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#%F0%9F%87%B5%F0%9F%87%B1PL-78.17.171.62-0425
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?type=raw&headerType=none&security=tls&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#[🇵🇱] [tr-tl-ra] [261018-193540.517]
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?type=raw&headerType=none&security=tls&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#[🇵🇱] [tr-tl-ra] [261019-002939.143]
 trojan://your_password@15.236.64.14:443?security=tls&sni=aws-fr-paris-1.f1rocketnode.com&type=tcp#4FreeIran-a56c6cbab0
 trojan://your_password@16.171.12.136:443?security=tls&sni=aws-se-stockholm-1.f1rocketnode.com&type=tcp#4Mohsen-738999f5e3
 trojan://your_password@16.62.65.57:443?security=tls&sni=aws-ch-zurich-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1rocketnode.com#%F0%9F%87%A8%F0%9F%87%AD_CH_156
