@@ -43,6 +43,7 @@ hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1&sni=hys13.wba-pn.ru#4Jadi-
 hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?sni=127.0.0.1#4Jadi-c78439e9fd
 hysteria2://EkF2Yw0Lc7@hys34.wba-pn.ru:443?insecure=1&sni=hys34.wba-pn.ru#4Sarina-46b226ee1e
 hysteria2://FizGVblL7_JqY-tzhmuhXWOAZw8DnwQZ@my1.deeprush.ai:8090?insecure=1&sni=my1.deeprush.ai#%F0%9F%87%B2%F0%9F%87%BE%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20%7C%20MYS
+hysteria2://FizGVblL7_JqY-tzhmuhXWOAZw8DnwQZ@my1.deeprush.ai:8090?insecure=1&sni=my1.deeprush.ai#4Sarina-dfda64e86d
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@193.41.5.243:8443/?insecure=1&sni=hy2-germany.unlimited-access.ru#🇩🇪 Rose—11
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443/?sni=hy2-latvia2.unlimited-access.ru#4Jadi-1713f17dea
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443/?sni=hy2-latvia2.unlimited-access.ru#EPODONIOS
@@ -57,10 +58,11 @@ hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723/?insecure=1&sni=www.cloudfl
 hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443?sni=hys26.wba-pn.ru#4Kian-12efd7fc79
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443/?insecure=1&sni=hopp-netherland-new.dynuddns.net#🇮🇹 Rose—22
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443/?insecure=1&sni=hopp-netherland-new.dynuddns.net#🇮🇹 Rose—24
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram%40vpnjey#%F0%9F%87%A9%F0%9F%87%AA197583%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪197534
+hysteria2://Telegram@179.61.138.145:443?insecure=0&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#%F0%9F%87%A9%F0%9F%87%AA197534%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443?insecure=1&sni=admin.wwwinternetvideo.click#%F0%9F%87%B7%F0%9F%87%BA197241%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443?insecure=1&sni=admin.wwwinternetvideo.click#🇷🇺197241
 hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?sni=uk.shamanapp.online#@OutlineReleasedKey
 hysteria2://b4c8ee9caa74b7ba0a61@scrap.halyvanedorogo.ru:35076?insecure=1&sni=scrap.halyvanedorogo.ru#@OutlineReleasedKey
 hysteria2://b4c8ee9caa74b7ba0a61@scrap.halyvanedorogo.ru:35076?sni=scrap.halyvanedorogo.ru#@V2ray_Collector
